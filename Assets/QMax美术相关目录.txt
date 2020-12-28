@@ -1,0 +1,51 @@
+﻿战斗场景Prefab	
+	根目录
+		Resources/Prefabs/Map/Battle/
+
+Spine动画
+    Resources/Spine/EliminateAnim 消除物动画
+    Resources/Spine/Unit 伙伴敌人
+    Resources/Spine/UI UI界面使用的动画
+		
+UI切图
+	根目录
+		Resources/Textures/
+			棋盘底图
+				BoardBackground
+			消除物
+				Tile/
+			战斗场景界面
+				UIBattle/
+			登陆注册
+				UILogin/
+
+			伙伴选择界面
+				UISelectUnit/
+			伙伴静态图片
+				UIUnit/
+			伙伴地面
+				UnitBackground/
+
+UI切图(部分更新)
+	地图场景界面
+		Textures/UIMap/Images/
+	伙伴场景界面
+		Textures/UIUpgrad/
+			切图目录
+				Images/
+			背景目录
+				BGImages/
+	抽奖场景界面
+		Textures/UIGetChance/Images/
+	胜利界面
+		Textures/UIWin/Images/
+	失败界面
+		Textures/UILose/Images/
+
+UI示意图
+	根目录
+		Textures/Design/		
+
+音乐音效
+	根目录
+		Resources/Audio/		

@@ -1,0 +1,1018 @@
+<root>
+    <!-- 
+    id:编号
+    statuscode:服务端code
+    chs:中文
+    cht:繁體
+    en:英文
+    jp:日文
+    kr:韩文
+    -->
+    <item id="2" statuscode="1" chs="无返回结果" cht="無返回結果" en="No result" jp="" kr="" /> 
+    <item id="3" statuscode="2" chs="数据值内容错误" cht="資料值內容錯誤" en="Data polluted" jp="" kr="" /> 
+    <item id="4" statuscode="3" chs="没有权限" cht="沒有許可權" en="No permissions" jp="" kr="" /> 
+    <item id="5" statuscode="4" chs="数据报验证错误" cht="資料包驗證錯誤" en="Wrong data verificaion" jp="" kr="" /> 
+    <item id="6" statuscode="5" chs="角色未登录" cht="角色未登入" en="Actor not longin" jp="" kr="" /> 
+    <item id="7" statuscode="7" chs="服务器停机维护中" cht="伺服器停機維護中" en="Server down" jp="" kr="" /> 
+    <item id="8" statuscode="8" chs="与服务器断开连接，客户端与服务端的版本不匹配" cht="與伺服器斷開連接" en="Server disconnected" jp="" kr="" /> 
+    <item id="9" statuscode="9" chs="断开连接. 被防火墙屏蔽" cht="斷開連結.被防火牆屏蔽" en="Disconnected, fire wall" jp="" kr="" /> 
+    <item id="10" statuscode="10" chs="断开连接.已达到最大连接数" cht="斷開連結.已達最大連線數" en="Disconnected, maximum connection" jp="" kr="" /> 
+    <item id="11" statuscode="12" chs="操作异常" cht="操作異常" en="Illegal operate" jp="" kr="" /> 
+    <item id="12" statuscode="13" chs="模块未找到" cht="模組未找到" en="Module not found" jp="" kr="" /> 
+    <item id="13" statuscode="14" chs="模块未开放" cht="模組未開放" en="Module not opened" jp="" kr="" /> 
+    <item id="14" statuscode="15" chs="服务器内部错误" cht="伺服器內部錯誤" en="Server internal error" jp="" kr="" /> 
+    <item id="15" statuscode="100" chs="角色登录错误" cht="角色登入錯誤" en="Actor longin failed" jp="" kr="" /> 
+    <item id="16" statuscode="101" chs="创建角色失败" cht="創建角色失敗" en="Create actor failed" jp="" kr="" /> 
+    <item id="17" statuscode="102" chs="角色名称已存在" cht="角色名稱已存在" en="Repeat actor name" jp="" kr="" /> 
+    <item id="18" statuscode="103" chs="token验证错误" cht="token驗證錯誤" en="Token validation error" jp="" kr="" /> 
+    <item id="19" statuscode="104" chs="无法创建角色" cht="無法創建角色" en="Cannot create actor" jp="" kr="" /> 
+    <item id="20" statuscode="105" chs="角色ID验证错误" cht="角色ID驗證錯誤" en="Actor ID validation error" jp="" kr="" /> 
+    <item id="21" statuscode="106" chs="获取角色信息失败" cht="獲取角色資訊失敗" en="Cant recive actor data" jp="" kr="" /> 
+    <item id="22" statuscode="107" chs="平台类型错误" cht="平臺類型錯誤" en="Wrong platform" jp="" kr="" /> 
+    <item id="23" statuscode="108" chs="禁用角色重复登录" cht="禁用角色重複登入" en="Banned actor login" jp="" kr="" /> 
+    <item id="24" statuscode="109" chs="角色已经登陆" cht="角色已經登陸" en="Repeat actor login" jp="" kr="" /> 
+    <item id="25" statuscode="111" chs="角色ID错误" cht="角色ID錯誤" en="Wrong actor ID" jp="" kr="" /> 
+    <item id="26" statuscode="112" chs="角色未找到" cht="角色未找到" en="Cant find actor" jp="" kr="" /> 
+    <item id="27" statuscode="114" chs="验证平台信息出错" cht="驗證平臺資訊出錯" en="Wrong olatform verificaion" jp="" kr="" /> 
+    <item id="28" statuscode="116" chs="令牌超时" cht="信息超時" en="Information timeout" jp="" kr="" /> 
+    <item id="29" statuscode="117" chs="角色未被封禁" cht="角色未被封禁" en="Actor is not banned" jp="" kr="" /> 
+    <item id="30" statuscode="119" chs="重连ID错误" cht="重連ID錯誤" en="Wrong reconnect ID" jp="" kr="" /> 
+    <item id="31" statuscode="120" chs="重连服务器连接超时" cht="與伺服器連接逾時" en="Reconnect timeout" jp="" kr="" /> 
+    <item id="32" statuscode="121" chs="配置文件名不能为空" cht="設定檔名不能為空" en="Option file name cant empty" jp="" kr="" /> 
+    <item id="33" statuscode="122" chs="配置文件不存在" cht="設定檔不存在" en="Option file non-existent" jp="" kr="" /> 
+    <item id="34" statuscode="123" chs="配置文件刷新失败" cht="設定檔刷新失敗" en="Option file reflesh failed" jp="" kr="" /> 
+    <item id="35" statuscode="201" chs="宠物不存在" cht="夥伴不存在" en="Unit data not exist" jp="" kr="" /> 
+    <item id="36" statuscode="202" chs="宠物等级已达到上限" cht="夥伴等級已達到上限" en="Unit reach maximum level" jp="" kr="" /> 
+    <item id="37" statuscode="301" chs="道具不足无法操作" cht="道具不足無法操作" en="Short of item cannot operate" jp="" kr="" /> 
+    <item id="38" statuscode="401" chs="体力值已达到上限" cht="體力值已達到上限" en="Energy already maximum" jp="" kr="" /> 
+    <item id="39" statuscode="501" chs="关卡不存在" cht="關卡不存在" en="Stage not exist" jp="" kr="" /> 
+    <item id="40" statuscode="502" chs="当前关卡未开启" cht="當前關卡未開啟" en="Current Stage is locked" jp="" kr="" /> 
+    <item id="41" statuscode="504" chs="出战宠物不存在" cht="出戰夥伴不存在" en="Unit not exist" jp="" kr="" /> 
+    <item id="42" statuscode="505" chs="先开始挑战关卡" cht="先開始挑戰關卡" en="Start challenge stage" jp="" kr="" /> 
+    <item id="43" statuscode="506" chs="超出步数限制" cht="超出步數限制" en="Over move limit" jp="" kr="" /> 
+    <item id="44" statuscode="1001" chs="兑换码已经兑换" cht="兌換碼已經兌換" en="Code has been used" jp="" kr="" /> 
+    <item id="45" statuscode="1002" chs="兑换码不存在" cht="兌換碼不存在" en="Code does not exist" jp="" kr="" /> 
+    <item id="46" statuscode="601" chs="抽奖未达到开启条件" cht="未達到開啟條件" en="Unreach conditions" jp="" kr="" /> 
+    <item id="47" statuscode="-1" chs="注册" cht="註冊" en="Register" jp="" kr="" /> 
+    <item id="48" statuscode="-1" chs="登录" cht="登入" en="Login" jp="" kr="" /> 
+    <item id="49" statuscode="-1" chs="腾讯微信平台" cht="騰訊微信平臺" en="WeChat" jp="" kr="" /> 
+    <item id="50" statuscode="-1" chs="登录失败" cht="登入失敗" en="Login failed" jp="" kr="" /> 
+    <item id="51" statuscode="-1" chs="账号" cht="帳號" en="Account" jp="" kr="" /> 
+    <item id="52" statuscode="-1" chs="密码" cht="密碼" en="Password" jp="" kr="" /> 
+    <item id="53" statuscode="-1" chs="网络异常，请您稍后重新尝试" cht="網路異常，請您稍後重新嘗試" en="You are disconnected,plaese reconnect." jp="" kr="" /> 
+    <item id="54" statuscode="-1" chs="确认" cht="確認" en="Confirm" jp="" kr="" /> 
+    <item id="55" statuscode="-1" chs="连接游戏服务器失败。" cht="連接遊戲伺服器失敗。" en="Connect to server failed" jp="" kr="" /> 
+    <item id="56" statuscode="-1" chs="注册失败" cht="註冊失敗" en="" jp="" kr="" /> 
+    <item id="57" statuscode="-1" chs="账号已经失效,请重新登录" cht="帳號已經失效，請重新登錄" en="" jp="" kr="" /> 
+    <item id="58" statuscode="-1" chs="游戏服务器维护中，无法登录" cht="遊戲伺服器維護中，無法登錄" en="" jp="" kr="" /> 
+    <item id="59" statuscode="-1" chs="点击切换账号" cht="點擊切換帳號" en="" jp="" kr="" /> 
+    <item id="60" statuscode="1101" chs="成就未达成" cht="成就未達成" en="" jp="" kr="" /> 
+    <item id="61" statuscode="1102" chs="成就已经领取过" cht="成就已經領取過" en="" jp="" kr="" /> 
+    <item id="62" statuscode="1201" chs="活动未开启" cht="活動未開啟" en="" jp="" kr="" /> 
+    <item id="63" statuscode="1202" chs="活动时间未到" cht="活動時間未到" en="" jp="" kr="" /> 
+    <item id="64" statuscode="1203" chs="活动已经参与过" cht="活動已經參與過" en="" jp="" kr="" /> 
+    <item id="65" statuscode="-10" chs="无法连接登录服务器" cht="無法連接登錄服務器" en="" jp="" kr="" /> 
+    <item id="66" statuscode="-11" chs="无法连接游戏服务器" cht="無法連接遊戲服務器" en="" jp="" kr="" /> 
+    <item id="67" statuscode="-12" chs="登录服务器返回数据错误" cht="登錄服務器返回數據錯誤" en="" jp="" kr="" /> 
+    <item id="68" statuscode="-1" chs="无法连接" cht="無法連接" en="" jp="" kr="" /> 
+    <item id="69" statuscode="-1" chs="登录过期" cht="登錄過期" en="" jp="" kr="" /> 
+    <item id="70" statuscode="-1" chs="停服维护" cht="停服維護" en="" jp="" kr="" /> 
+    <item id="71" statuscode="1103" chs="每日成就已完成" cht="每日成就已完成" en="" jp="" kr="" /> 
+    <item id="72" statuscode="1401" chs="邮件已经发送过" cht="郵件已經發送過" en="" jp="" kr="" /> 
+    <item id="73" statuscode="1402" chs="发送邮件数超出上限" cht="發送郵件數超出上限" en="" jp="" kr="" /> 
+    <item id="74" statuscode="1403" chs="邮件不存在" cht="郵件不存在" en="" jp="" kr="" /> 
+    <item id="75" statuscode="10000" chs="服务器错误" cht="服務器錯誤" en="" jp="" kr="" /> 
+    <item id="76" statuscode="10001" chs="用户名或密码错误" cht="用戶名或密碼錯誤" en="" jp="" kr="" /> 
+    <item id="77" statuscode="10002" chs="注册失败，用户已存在" cht="註冊失敗，用戶已存在" en="" jp="" kr="" /> 
+    <item id="78" statuscode="10003" chs="用户名不能为空" cht="用戶名不能為空" en="" jp="" kr="" /> 
+    <item id="79" statuscode="10004" chs="密码不能为空" cht="密碼不能為空" en="" jp="" kr="" /> 
+    <item id="80" statuscode="10005" chs="Token验证错误" cht="Token驗證錯誤" en="" jp="" kr="" /> 
+    <item id="501" statuscode="-1" chs="目标：" cht="目標：" en="Goals:" jp="" kr="" /> 
+    <item id="502" statuscode="-1" chs="步数：" cht="步數：" en="Moves:" jp="" kr="" /> 
+    <item id="503" statuscode="-1" chs="击败" cht="擊敗" en="Defeat" jp="" kr="" /> 
+    <item id="504" statuscode="-1" chs="收集" cht="收集" en="Collect" jp="" kr="" /> 
+    <item id="505" statuscode="-1" chs="打开" cht="打開" en="Open" jp="" kr="" /> 
+    <item id="506" statuscode="-1" chs="选择您的小队：" cht="選擇您的小隊：" en="Choose your team:" jp="" kr="" /> 
+    <item id="507" statuscode="-1" chs="开始" cht="開始" en="Start" jp="" kr="" /> 
+    <item id="508" statuscode="-1" chs="等级" cht="等級" en="Level" jp="" kr="" /> 
+    <item id="509" statuscode="-1" chs="暂停" cht="暫停" en="Pause" jp="" kr="" /> 
+    <item id="510" statuscode="-1" chs="继续" cht="繼續" en="Continue" jp="" kr="" /> 
+    <item id="511" statuscode="-1" chs="重新开始" cht="重新開始" en="Restart" jp="" kr="" /> 
+    <item id="512" statuscode="-1" chs="放弃" cht="放棄" en="Give Up" jp="" kr="" /> 
+    <item id="513" statuscode="-1" chs="闯关失败" cht="闖關失敗" en="Level Failed" jp="" kr="" /> 
+    <item id="514" statuscode="-1" chs="已收集" cht="已收集" en="Collected" jp="" kr="" /> 
+    <item id="515" statuscode="-1" chs="行动机会用尽" cht="行動機會用盡" en="Out of Moves" jp="" kr="" /> 
+    <item id="516" statuscode="-1" chs="+3次行动机会" cht="+3次行動機會" en="+3 Moves" jp="" kr="" /> 
+    <item id="517" statuscode="-1" chs="结束关卡" cht="結束關卡" en="End Level" jp="" kr="" /> 
+    <item id="518" statuscode="-1" chs="您获胜了" cht="您獲勝了" en="Well DONE" jp="" kr="" /> 
+    <item id="519" statuscode="-1" chs="干得好" cht="幹得好" en="VERY GOOD" jp="" kr="" /> 
+    <item id="520" statuscode="-1" chs="很好" cht="很好" en="Great" jp="" kr="" /> 
+    <item id="521" statuscode="-1" chs="或" cht="或" en="If you don't do any moves on the level,you can restart for free。" jp="" kr="" /> 
+    <item id="522" statuscode="-1" chs="您离目标还差一点点，再接再厉" cht="您離目標還差一點點，再接再厲" en="" jp="" kr="" /> 
+    <item id="523" statuscode="-1" chs="提升宠物等级是突破关卡的关键哦" cht="提升寵物等級是突破關卡的關鍵哦" en="" jp="" kr="" /> 
+    <item id="524" statuscode="-1" chs="消掉粘液旁边的消除物可以避免粘液扩散" cht="消掉黏液旁邊的消除物可以避免黏液擴散" en="" jp="" kr="" /> 
+    <item id="525" statuscode="-1" chs="当您收集完已有的钻石后，关卡中会出现更多钻石" cht="當您收集完已有的鑽石後，關卡中會出現更多鑽石" en="" jp="" kr="" /> 
+    <item id="526" statuscode="-1" chs="炸弹可造成更大伤害，同时消掉更大范围内的消除物" cht="炸彈可造成更大傷害，同時消掉更大範圍內的消除物" en="The longest match is not always the best move！" jp="" kr="" /> 
+    <item id="527" statuscode="-1" chs="每次都连最长不一定是最好的策略哦！" cht="每次都連最長不一定是最好的策略喔！" en="" jp="" kr="" /> 
+    <item id="528" statuscode="-1" chs="让你的小学生去打成年人真的合适吗？去升级你的小宠物吧！" cht="讓你的小鬼去打巨漢真的合適嗎？去升級你的寵物吧！" en="" jp="" kr="" /> 
+    <item id="529" statuscode="-1" chs="你的小宠物看起来很瘦弱。真可怜，去升级你的小宠物吧！" cht="你的寵物看起來很瘦弱。真可憐，去升級你的寵物吧！" en="" jp="" kr="" /> 
+    <item id="530" statuscode="-1" chs="可怜的小宠物，这么瘦弱还得跟你冒险。去升级你的小宠物吧！" cht="可憐的寵物，這麼瘦弱還得跟你冒險。去升級你的寵物吧！" en="" jp="" kr="" /> 
+    <item id="531" statuscode="-1" chs="别再打了！你的小宠物它还只是个孩子！去升级你的小宠物吧！" cht="別再打了！你的寵物牠還只是個孩子！去升級你的寵物吧！" en="" jp="" kr="" /> 
+    <item id="532" statuscode="-1" chs="在对的时间遇上不对的人是件遗憾的事情。换其他能力的小宠物试试。" cht="在對的時間遇上不對的人是件遺憾的事。換其它能力的寵物試試！" en="" jp="" kr="" /> 
+    <item id="533" statuscode="-1" chs="这个世界并不是只有眼前这个树~换个小宠物，或许你能得到整个森林！" cht="這個世界並不是只有眼前這棵樹~換別隻寵物，或許你能得到整個森林！" en="" jp="" kr="" /> 
+    <item id="534" statuscode="-1" chs="既生于世，必有其意义，换其他能力的小宠物试试？" cht="既生於世，必有其意義，換其它能力的寵物試試？" en="" jp="" kr="" /> 
+    <item id="535" statuscode="-1" chs="尝试换一个姿势去玩，或许能够通关！关注你的步数。" cht="嘗試換一個姿勢去玩，或許能通關！關注你的步數。" en="" jp="" kr="" /> 
+    <item id="536" statuscode="-1" chs="注意步数！人生这条路是有限的！注意你的步数！" cht="注意步數！人生這條路是有限的！注意你的步數。" en="" jp="" kr="" /> 
+    <item id="537" statuscode="-1" chs="“最长”未必就是最好的哦！利用好你的步数。" cht="“最長”未必就是最好的哦！" en="" jp="" kr="" /> 
+    <item id="538" statuscode="-1" chs="秒数：" cht="秒數：" en="" jp="" kr="" /> 
+    <item id="539" statuscode="-1" chs="通关分数：" cht="通關分數：" en="" jp="" kr="" /> 
+    <item id="540" statuscode="-1" chs="拥有" cht="擁有" en="" jp="" kr="" /> 
+    <item id="541" statuscode="-1" chs="分数" cht="分數" en="" jp="" kr="" /> 
+    <item id="542" statuscode="-1" chs="+5步" cht="+5步" en="" jp="" kr="" /> 
+    <item id="543" statuscode="-1" chs="+10秒" cht="+10秒" en="" jp="" kr="" /> 
+    <item id="544" statuscode="-1" chs="时间用尽" cht="時間用盡" en="" jp="" kr="" /> 
+    <item id="545" statuscode="-1" chs="本关目标" cht="本關目標" en="" jp="" kr="" /> 
+    <item id="546" statuscode="-1" chs="当前获得分数" cht="當前獲得分數" en="" jp="" kr="" /> 
+    <item id="547" statuscode="-1" chs="时间/步数" cht="時間/步數" en="" jp="" kr="" /> 
+    <item id="548" statuscode="-1" chs="三星获得进度" cht="三星獲得進度" en="" jp="" kr="" /> 
+    <item id="551" statuscode="-1" chs="第 1 关" cht="第 1 關" en="Newble" jp="" kr="" /> 
+    <item id="552" statuscode="-1" chs="第 2 关" cht="第 2 關" en="Newble" jp="" kr="" /> 
+    <item id="553" statuscode="-1" chs="第 3 关" cht="第 3 關" en="Slug Menace" jp="" kr="" /> 
+    <item id="554" statuscode="-1" chs="第 4 关" cht="第 4 關" en="Grove Springs" jp="" kr="" /> 
+    <item id="555" statuscode="-1" chs="第 5 关" cht="第 5 關" en="The First Rescue" jp="" kr="" /> 
+    <item id="556" statuscode="-1" chs="第 6 关" cht="第 6 關" en="Troubled Peak" jp="" kr="" /> 
+    <item id="557" statuscode="-1" chs="第 7 关" cht="第 7 關" en="Mucky Valley" jp="" kr="" /> 
+    <item id="558" statuscode="-1" chs="第 8 关" cht="第 8 關" en="Clogged Cave" jp="" kr="" /> 
+    <item id="559" statuscode="-1" chs="第 9 关" cht="第 9 關" en="Skewed Path" jp="" kr="" /> 
+    <item id="560" statuscode="-1" chs="第 10 关" cht="第 10 關" en="Hidden Diamond" jp="" kr="" /> 
+    <item id="561" statuscode="-1" chs="第 11 关" cht="第 11 關" en="Barrier Bay" jp="" kr="" /> 
+    <item id="562" statuscode="-1" chs="第 12 关" cht="第 12 關" en="Shadowy Spiral" jp="" kr="" /> 
+    <item id="563" statuscode="-1" chs="第 13 关" cht="第 13 關" en="Mystic Mines" jp="" kr="" /> 
+    <item id="564" statuscode="-1" chs="第 14 关" cht="第 14 關" en="Down Under" jp="" kr="" /> 
+    <item id="565" statuscode="-1" chs="第 15 关" cht="第 15 關" en="Small Shack" jp="" kr="" /> 
+    <item id="566" statuscode="-1" chs="第 16 关" cht="第 16 關" en="The Playground" jp="" kr="" /> 
+    <item id="567" statuscode="-1" chs="第 17 关" cht="第 17 關" en="Moor Falls" jp="" kr="" /> 
+    <item id="568" statuscode="-1" chs="第 18 关" cht="第 18 關" en="Dense Woods" jp="" kr="" /> 
+    <item id="569" statuscode="-1" chs="第 19 关" cht="第 19 關" en="Misty Yard" jp="" kr="" /> 
+    <item id="570" statuscode="-1" chs="第 20 关" cht="第 20 關" en="Battlegrounds" jp="" kr="" /> 
+    <item id="571" statuscode="-1" chs="第 21 关" cht="第 21 關" en="Frozen Halls" jp="" kr="" /> 
+    <item id="572" statuscode="-1" chs="第 22 关" cht="第 22 關" en="Cold Cavern" jp="" kr="" /> 
+    <item id="573" statuscode="-1" chs="第 23 关" cht="第 23 關" en="Wall of Snow" jp="" kr="" /> 
+    <item id="574" statuscode="-1" chs="第 24 关" cht="第 24 關" en="Ice Barrier" jp="" kr="" /> 
+    <item id="575" statuscode="-1" chs="第 25 关" cht="第 25 關" en="Blizzard Pass" jp="" kr="" /> 
+    <item id="576" statuscode="-1" chs="第 26 关" cht="第 26 關" en="Chilly Railing" jp="" kr="" /> 
+    <item id="577" statuscode="-1" chs="第 27 关" cht="第 27 關" en="Snow Storm" jp="" kr="" /> 
+    <item id="578" statuscode="-1" chs="第 28 关" cht="第 28 關" en="The Arctic" jp="" kr="" /> 
+    <item id="579" statuscode="-1" chs="第 29 关" cht="第 29 關" en="Winter Valley" jp="" kr="" /> 
+    <item id="580" statuscode="-1" chs="第 30 关" cht="第 30 關" en="The Ring" jp="" kr="" /> 
+    <item id="581" statuscode="-1" chs="第 31 关" cht="第 31 關" en="Freezing Tunnels" jp="" kr="" /> 
+    <item id="582" statuscode="-1" chs="第 32 关" cht="第 32 關" en="Slippery Slopes" jp="" kr="" /> 
+    <item id="583" statuscode="-1" chs="第 33 关" cht="第 33 關" en="Free Fall" jp="" kr="" /> 
+    <item id="584" statuscode="-1" chs="第 34 关" cht="第 34 關" en="Rough Bend" jp="" kr="" /> 
+    <item id="585" statuscode="-1" chs="第 35 关" cht="第 35 關" en="Snowy Steps" jp="" kr="" /> 
+    <item id="586" statuscode="-1" chs="第 36 关" cht="第 36 關" en="Tree of Life" jp="" kr="" /> 
+    <item id="587" statuscode="-1" chs="第 37 关" cht="第 37 關" en="Icy Shelves" jp="" kr="" /> 
+    <item id="588" statuscode="-1" chs="第 38 关" cht="第 38 關" en="Snow Dunes" jp="" kr="" /> 
+    <item id="589" statuscode="-1" chs="第 39 关" cht="第 39 關" en="Slick Levels" jp="" kr="" /> 
+    <item id="590" statuscode="-1" chs="第 40 关" cht="第 40 關" en="Slimy Palace" jp="" kr="" /> 
+    <item id="591" statuscode="-1" chs="第 41 关" cht="第 41 關" en="Frost Spiral" jp="" kr="" /> 
+    <item id="592" statuscode="-1" chs="第 42 关" cht="第 42 關" en="The Big Barrier" jp="" kr="" /> 
+    <item id="593" statuscode="-1" chs="第 43 关" cht="第 43 關" en="Northern Stairs" jp="" kr="" /> 
+    <item id="594" statuscode="-1" chs="第 44 关" cht="第 44 關" en="The Chalice" jp="" kr="" /> 
+    <item id="595" statuscode="-1" chs="第 45 关" cht="第 45 關" en="Rainbows" jp="" kr="" /> 
+    <item id="596" statuscode="-1" chs="第 46 关" cht="第 46 關" en="Northern Lights" jp="" kr="" /> 
+    <item id="597" statuscode="-1" chs="第 47 关" cht="第 47 關" en="Full Moon" jp="" kr="" /> 
+    <item id="598" statuscode="-1" chs="第 48 关" cht="第 48 關" en="Slug Slide" jp="" kr="" /> 
+    <item id="599" statuscode="-1" chs="第 49 关" cht="第 49 關" en="Frozen Waves" jp="" kr="" /> 
+    <item id="600" statuscode="-1" chs="第 50 关" cht="第 50 關" en="Ice Halls" jp="" kr="" /> 
+    <item id="601" statuscode="-1" chs="第 51 关" cht="第 51 關" en="King of the Hill" jp="" kr="" /> 
+    <item id="602" statuscode="-1" chs="第 52 关" cht="第 52 關" en="Skull Cape" jp="" kr="" /> 
+    <item id="603" statuscode="-1" chs="第 53 关" cht="第 53 關" en="Frost Tower" jp="" kr="" /> 
+    <item id="604" statuscode="-1" chs="第 54 关" cht="第 54 關" en="Crossroads" jp="" kr="" /> 
+    <item id="605" statuscode="-1" chs="第 55 关" cht="第 55 關" en="Icy Peaks" jp="" kr="" /> 
+    <item id="606" statuscode="-1" chs="第 56 关" cht="第 56 關" en="Key of Winter" jp="" kr="" /> 
+    <item id="607" statuscode="-1" chs="第 57 关" cht="第 57 關" en="Chilly Stairs" jp="" kr="" /> 
+    <item id="608" statuscode="-1" chs="第 58 关" cht="第 58 關" en="Shipwreck Rock" jp="" kr="" /> 
+    <item id="609" statuscode="-1" chs="第 59 关" cht="第 59 關" en="Fiendship Valley" jp="" kr="" /> 
+    <item id="610" statuscode="-1" chs="第 60 关" cht="第 60 關" en="Frozen Emperor" jp="" kr="" /> 
+    <item id="611" statuscode="-1" chs="第 61 关" cht="第 61 關" en="Sandstorm" jp="" kr="" /> 
+    <item id="612" statuscode="-1" chs="第 62 关" cht="第 62 關" en="Trapped Treasure" jp="" kr="" /> 
+    <item id="613" statuscode="-1" chs="第 63 关" cht="第 63 關" en="Deep Down" jp="" kr="" /> 
+    <item id="614" statuscode="-1" chs="第 64 关" cht="第 64 關" en="Hidden Hideout" jp="" kr="" /> 
+    <item id="615" statuscode="-1" chs="第 65 关" cht="第 65 關" en="Breaking Free" jp="" kr="" /> 
+    <item id="616" statuscode="-1" chs="第 66 关" cht="第 66 關" en="Final Fortress" jp="" kr="" /> 
+    <item id="617" statuscode="-1" chs="第 67 关" cht="第 67 關" en="Pharaoh's Plateau" jp="" kr="" /> 
+    <item id="618" statuscode="-1" chs="第 68 关" cht="第 68 關" en="Crust Chasm" jp="" kr="" /> 
+    <item id="619" statuscode="-1" chs="第 69 关" cht="第 69 關" en="Desert Drop" jp="" kr="" /> 
+    <item id="620" statuscode="-1" chs="第 70 关" cht="第 70 關" en="Dry Dunes" jp="" kr="" /> 
+    <item id="621" statuscode="-1" chs="第 71 关" cht="第 71 關" en="Rock Rails" jp="" kr="" /> 
+    <item id="622" statuscode="-1" chs="第 72 关" cht="第 72 關" en="Windy Canyon" jp="" kr="" /> 
+    <item id="623" statuscode="-1" chs="第 73 关" cht="第 73 關" en="Wild West" jp="" kr="" /> 
+    <item id="624" statuscode="-1" chs="第 74 关" cht="第 74 關" en="Mystic Dunes" jp="" kr="" /> 
+    <item id="625" statuscode="-1" chs="第 75 关" cht="第 75 關" en="Big Pyramid" jp="" kr="" /> 
+    <item id="626" statuscode="-1" chs="第 76 关" cht="第 76 關" en="The Digsite" jp="" kr="" /> 
+    <item id="627" statuscode="-1" chs="第 77 关" cht="第 77 關" en="Sandpit" jp="" kr="" /> 
+    <item id="628" statuscode="-1" chs="第 78 关" cht="第 78 關" en="Deep Valley" jp="" kr="" /> 
+    <item id="629" statuscode="-1" chs="第 79 关" cht="第 79 關" en="Game of Thorns" jp="" kr="" /> 
+    <item id="630" statuscode="-1" chs="第 80 关" cht="第 80 關" en="Dangerous Drop" jp="" kr="" /> 
+    <item id="631" statuscode="-1" chs="第 81 关" cht="第 81 關" en="Slime Time" jp="" kr="" /> 
+    <item id="632" statuscode="-1" chs="第 82 关" cht="第 82 關" en="Perilous Patches" jp="" kr="" /> 
+    <item id="633" statuscode="-1" chs="第 83 关" cht="第 83 關" en="Desert Keep" jp="" kr="" /> 
+    <item id="634" statuscode="-1" chs="第 84 关" cht="第 84 關" en="Dusty Dungeon" jp="" kr="" /> 
+    <item id="635" statuscode="-1" chs="第 85 关" cht="第 85 關" en="Dark Valley" jp="" kr="" /> 
+    <item id="636" statuscode="-1" chs="第 86 关" cht="第 86 關" en="Rough Road" jp="" kr="" /> 
+    <item id="637" statuscode="-1" chs="第 87 关" cht="第 87 關" en="Desert Duel" jp="" kr="" /> 
+    <item id="638" statuscode="-1" chs="第 88 关" cht="第 88 關" en="Boulder Bash" jp="" kr="" /> 
+    <item id="639" statuscode="-1" chs="第 89 关" cht="第 89 關" en="The Kraken" jp="" kr="" /> 
+    <item id="640" statuscode="-1" chs="第 90 关" cht="第 90 關" en="Sandy Brawl" jp="" kr="" /> 
+    <item id="641" statuscode="-1" chs="第 91 关" cht="第 91 關" en="Great Gorge" jp="" kr="" /> 
+    <item id="642" statuscode="-1" chs="第 92 关" cht="第 92 關" en="Diamond Dive" jp="" kr="" /> 
+    <item id="643" statuscode="-1" chs="第 93 关" cht="第 93 關" en="Paradise Palms" jp="" kr="" /> 
+    <item id="644" statuscode="-1" chs="第 94 关" cht="第 94 關" en="Dusty Dunes" jp="" kr="" /> 
+    <item id="645" statuscode="-1" chs="第 95 关" cht="第 95 關" en="Temple of Boom" jp="" kr="" /> 
+    <item id="646" statuscode="-1" chs="第 96 关" cht="第 96 關" en="Shuffling Shelf" jp="" kr="" /> 
+    <item id="647" statuscode="-1" chs="第 97 关" cht="第 97 關" en="Desert Rose" jp="" kr="" /> 
+    <item id="648" statuscode="-1" chs="第 98 关" cht="第 98 關" en="Inner Sanctum" jp="" kr="" /> 
+    <item id="649" statuscode="-1" chs="第 99 关" cht="第 99 關" en="Sidewinder" jp="" kr="" /> 
+    <item id="650" statuscode="-1" chs="第 100 关" cht="第 100 關" en="Treasure Chest" jp="" kr="" /> 
+    <item id="651" statuscode="-1" chs="第 101 关" cht="第 101 關" en="Snarly Spawner" jp="" kr="" /> 
+    <item id="652" statuscode="-1" chs="第 102 关" cht="第 102 關" en="Blocked Bombs" jp="" kr="" /> 
+    <item id="653" statuscode="-1" chs="第 103 关" cht="第 103 關" en="Slick Snake" jp="" kr="" /> 
+    <item id="654" statuscode="-1" chs="第 104 关" cht="第 104 關" en="Flood of Slime" jp="" kr="" /> 
+    <item id="655" statuscode="-1" chs="第 105 关" cht="第 105 關" en="Oozing Apparatus" jp="" kr="" /> 
+    <item id="656" statuscode="-1" chs="第 106 关" cht="第 106 關" en="The Chamber" jp="" kr="" /> 
+    <item id="657" statuscode="-1" chs="第 107 关" cht="第 107 關" en="Dormant Darkness" jp="" kr="" /> 
+    <item id="658" statuscode="-1" chs="第 108 关" cht="第 108 關" en="Shelf Life" jp="" kr="" /> 
+    <item id="659" statuscode="-1" chs="第 109 关" cht="第 109 關" en="Slime Funnel" jp="" kr="" /> 
+    <item id="660" statuscode="-1" chs="第 110 关" cht="第 110 關" en="Spawning Fortress" jp="" kr="" /> 
+    <item id="661" statuscode="-1" chs="第 111 关" cht="第 111 關" en="Endless Oasis" jp="" kr="" /> 
+    <item id="662" statuscode="-1" chs="第 112 关" cht="第 112 關" en="Desert Path" jp="" kr="" /> 
+    <item id="663" statuscode="-1" chs="第 113 关" cht="第 113 關" en="Broken Railway" jp="" kr="" /> 
+    <item id="664" statuscode="-1" chs="第 114 关" cht="第 114 關" en="Turning point" jp="" kr="" /> 
+    <item id="665" statuscode="-1" chs="第 115 关" cht="第 115 關" en="Lockdown" jp="" kr="" /> 
+    <item id="666" statuscode="-1" chs="第 116 关" cht="第 116 關" en="The Fall" jp="" kr="" /> 
+    <item id="667" statuscode="-1" chs="第 117 关" cht="第 117 關" en="Slideways" jp="" kr="" /> 
+    <item id="668" statuscode="-1" chs="第 118 关" cht="第 118 關" en="Flank Tank" jp="" kr="" /> 
+    <item id="669" statuscode="-1" chs="第 119 关" cht="第 119 關" en="Cave of Despair" jp="" kr="" /> 
+    <item id="670" statuscode="-1" chs="第 120 关" cht="第 120 關" en="The Big Brawl" jp="" kr="" /> 
+    <item id="671" statuscode="-1" chs="第 121 关" cht="第 121 關" en="Land's End" jp="" kr="" /> 
+    <item id="672" statuscode="-1" chs="第 122 关" cht="第 122 關" en="Ocean Path" jp="" kr="" /> 
+    <item id="673" statuscode="-1" chs="第 123 关" cht="第 123 關" en="Bubbling Brook" jp="" kr="" /> 
+    <item id="674" statuscode="-1" chs="第 124 关" cht="第 124 關" en="Dark Currents" jp="" kr="" /> 
+    <item id="675" statuscode="-1" chs="第 125 关" cht="第 125 關" en="High Tide" jp="" kr="" /> 
+    <item id="676" statuscode="-1" chs="第 126 关" cht="第 126 關" en="Slurp and Slide" jp="" kr="" /> 
+    <item id="677" statuscode="-1" chs="第 127 关" cht="第 127 關" en="Sea Peak" jp="" kr="" /> 
+    <item id="678" statuscode="-1" chs="第 128 关" cht="第 128 關" en="Muddy Mayhem" jp="" kr="" /> 
+    <item id="679" statuscode="-1" chs="第 129 关" cht="第 129 關" en="Booty Bay" jp="" kr="" /> 
+    <item id="680" statuscode="-1" chs="第 130 关" cht="第 130 關" en="Link Lagoon" jp="" kr="" /> 
+    <item id="681" statuscode="-1" chs="第 131 关" cht="第 131 關" en="Three Rivers" jp="" kr="" /> 
+    <item id="682" statuscode="-1" chs="第 132 关" cht="第 132 關" en="Seaweed Struggle" jp="" kr="" /> 
+    <item id="683" statuscode="-1" chs="第 133 关" cht="第 133 關" en="Tidal Treasures" jp="" kr="" /> 
+    <item id="684" statuscode="-1" chs="第 134 关" cht="第 134 關" en="Bloom Lagoon" jp="" kr="" /> 
+    <item id="685" statuscode="-1" chs="第 135 关" cht="第 135 關" en="Seaside Surf" jp="" kr="" /> 
+    <item id="686" statuscode="-1" chs="第 136 关" cht="第 136 關" en="Whirling Waters" jp="" kr="" /> 
+    <item id="687" statuscode="-1" chs="第 137 关" cht="第 137 關" en="Blocked Beach" jp="" kr="" /> 
+    <item id="688" statuscode="-1" chs="第 138 关" cht="第 138 關" en="Wave Breaker" jp="" kr="" /> 
+    <item id="689" statuscode="-1" chs="第 139 关" cht="第 139 關" en="Deep Dive" jp="" kr="" /> 
+    <item id="690" statuscode="-1" chs="第 140 关" cht="第 140 關" en="Wet Wrangle" jp="" kr="" /> 
+    <item id="1501" statuscode="-1" chs="橘子" cht="橘子" en="Peaches Jackpot" jp="" kr="" /> 
+    <item id="1502" statuscode="-1" chs="恭喜你获得{0}橘子" cht="恭喜你獲得{0}橘子" en="Wohoo!You found {0} Orange" jp="" kr="" /> 
+    <item id="1503" statuscode="-1" chs="钻石" cht="鑽石" en="Torrent of Diamonds" jp="" kr="" /> 
+    <item id="1504" statuscode="-1" chs="恭喜你获得{0}钻石" cht="恭喜你獲得{0}鑽石" en="B-bling!You found {0} Diamonds" jp="" kr="" /> 
+    <item id="1505" statuscode="-1" chs="体力上限" cht="體力上限" en="Max Energy Increased" jp="" kr="" /> 
+    <item id="1506" statuscode="-1" chs="你的体力上限增加{0}点" cht="你的體力上限增加{0}點" en="Your maximun Energy has increased by {0}" jp="" kr="" /> 
+    <item id="1507" statuscode="-1" chs="好的" cht="好的" en="Great" jp="" kr="" /> 
+    <item id="1508" statuscode="-1" chs="分享" cht="分享" en="Share" jp="" kr="" /> 
+    <item id="1509" statuscode="-1" chs="免费" cht="免費" en="Free" jp="" kr="" /> 
+    <item id="1510" statuscode="-1" chs="桃子" cht="桃子" en="" jp="" kr="" /> 
+    <item id="1511" statuscode="-1" chs="恭喜你获得{0}桃子" cht="恭喜你獲得{0}桃子" en="" jp="" kr="" /> 
+    <item id="1512" statuscode="-1" chs="体力值" cht="體力值" en="" jp="" kr="" /> 
+    <item id="1513" statuscode="-1" chs="你的体力值增加{0}点" cht="你的體力值增加{0}點" en="" jp="" kr="" /> 
+    <item id="1514" statuscode="-1" chs="升级宠物的必备水果之一" cht="升级寵物的必備水果之一" en="" jp="" kr="" /> 
+    <item id="1515" statuscode="-1" chs="用于升级宠物、增加体力和关卡续步" cht="用于升级寵物、增加體力和關卡續步" en="" jp="" kr="" /> 
+    <item id="1516" statuscode="-1" chs="七天活动" cht="七天活動" en="" jp="" kr="" /> 
+    <item id="1517" statuscode="-1" chs="用于福袋抽奖，可以获得丰富奖励" cht="用於福袋抽獎，可以獲得豐富獎勵" en="" jp="" kr="" /> 
+    <item id="1518" statuscode="-1" chs="#1#是行走萌宠世界的必需品" cht="是行走萌寵世界的必需品" en="" jp="" kr="" /> 
+    <item id="1519" statuscode="-1" chs="天赋异禀的我能帮助主人闯荡关卡" cht="天賦異稟的我能帮助主人闖蕩關卡" en="" jp="" kr="" /> 
+    <item id="1520" statuscode="-1" chs="确定花{0}钻石刷新？" cht="確定花{0}鑽石刷新？" en="" jp="" kr="" /> 
+    <item id="1521" statuscode="-1" chs="剪刀" cht="剪刀" en="" jp="" kr="" /> 
+    <item id="1522" statuscode="-1" chs="宠物" cht="寵物" en="" jp="" kr="" /> 
+    <item id="1523" statuscode="-1" chs="领取奖励" cht="領取獎勵" en="" jp="" kr="" /> 
+    <item id="1551" statuscode="-1" chs="体力商店" cht="體力商店" en="Energy Shop" jp="" kr="" /> 
+    <item id="1552" statuscode="-1" chs="您已完全恢复体力了！" cht="您已完全恢復體力了！" en="The Friends are fully energized!" jp="" kr="" /> 
+    <item id="1553" statuscode="-1" chs="您拥有：" cht="您擁有:" en="You have" jp="" kr="" /> 
+    <item id="1554" statuscode="-1" chs="体力已满" cht="體力已滿" en="Energy is full" jp="" kr="" /> 
+    <item id="1555" statuscode="-1" chs="补充体力" cht="補充體力" en="Fill Energy" jp="" kr="" /> 
+    <item id="1556" statuscode="-1" chs="体力上限+3" cht="體力上限+3" en="Max Energr +3" jp="" kr="" /> 
+    <item id="1557" statuscode="-1" chs="小宠物们累了" cht="寵物們累了" en="The Friends are getting tired" jp="" kr="" /> 
+    <item id="1558" statuscode="-1" chs="将在{0}秒后恢复" cht="將在{0}秒後恢復" en="{0} more in time" jp="" kr="" /> 
+    <item id="1559" statuscode="-1" chs="体力不足" cht="體力不足" en="Not enougth energy" jp="" kr="" /> 
+    <item id="1560" statuscode="-1" chs="您已增加体力上限！" cht="您已增加體力上限！" en="" jp="" kr="" /> 
+    <item id="1561" statuscode="-1" chs="一捧钻石" cht="一捧鑽石" en="Handful of Diamonds" jp="" kr="" /> 
+    <item id="1562" statuscode="-1" chs="一包钻石" cht="一包鑽石" en="Pouch of Diamonds" jp="" kr="" /> 
+    <item id="1563" statuscode="-1" chs="一箱钻石" cht="一箱鑽石" en="Chest of Diamonds" jp="" kr="" /> 
+    <item id="1564" statuscode="-1" chs="一金库钻石" cht="一金庫鑽石" en="Vault of Diamonds" jp="" kr="" /> 
+    <item id="1565" statuscode="-1" chs="堆积如山的钻石" cht="堆積如山的鑽石" en="Mountain of Diamonds" jp="" kr="" /> 
+    <item id="1566" statuscode="-1" chs="关注" cht="關注" en="Attention" jp="" kr="" /> 
+    <item id="1567" statuscode="-1" chs="￥" cht="NT$" en="$" jp="" kr="" /> 
+    <item id="1601" statuscode="-1" chs="获得金币X{0}和道具X{1}" cht="獲得金幣{0}和道具{1}" en="" jp="" kr="" /> 
+    <item id="1651" statuscode="-1" chs="设定" cht="設定" en="Settings" jp="" kr="" /> 
+    <item id="1652" statuscode="-1" chs="支持" cht="支持" en="Support" jp="" kr="" /> 
+    <item id="1653" statuscode="-1" chs="同步进度" cht="同步進度" en="Syncing data" jp="" kr="" /> 
+    <item id="1654" statuscode="-1" chs="语言" cht="語言" en="Languages" jp="" kr="" /> 
+    <item id="1655" statuscode="-1" chs="通知" cht="通知" en="Notifications" jp="" kr="" /> 
+    <item id="1656" statuscode="-1" chs="输入兑换码" cht="輸入兌換碼" en="Enter your code" jp="" kr="" /> 
+    <item id="1657" statuscode="-1" chs="兑换码无效" cht="兌換碼無效" en="Invalid code!" jp="" kr="" /> 
+    <item id="1658" statuscode="-1" chs="兑换码已使用" cht="兌換碼已使用" en="Code has been used!" jp="" kr="" /> 
+    <item id="1659" statuscode="-1" chs="新手礼包" cht="新手禮包" en="" jp="" kr="" /> 
+    <item id="1660" statuscode="-1" chs="活动礼包" cht="活動禮包" en="" jp="" kr="" /> 
+    <item id="1661" statuscode="-1" chs="特权礼包" cht="特權禮包" en="" jp="" kr="" /> 
+    <item id="1662" statuscode="-1" chs="宠物任务" cht="寵物任務" en="" jp="" kr="" /> 
+    <item id="1663" statuscode="-1" chs="关卡任务" cht="關卡任務" en="" jp="" kr="" /> 
+    <item id="1664" statuscode="-1" chs="抽奖任务" cht="抽獎任務" en="" jp="" kr="" /> 
+    <item id="1665" statuscode="-1" chs="钻石任务" cht="鑽石任務" en="" jp="" kr="" /> 
+    <item id="1666" statuscode="-1" chs="每日任务" cht="每日任務" en="" jp="" kr="" /> 
+    <item id="1667" statuscode="-1" chs="获得金币X{0}" cht="獲得金幣X{0}" en="" jp="" kr="" /> 
+    <item id="1668" statuscode="-1" chs="获得橘子X{0}" cht="獲得橘子X{0}" en="" jp="" kr="" /> 
+    <item id="1669" statuscode="-1" chs="获得桃子X{0}" cht="獲得桃子X{0}" en="" jp="" kr="" /> 
+    <item id="1670" statuscode="-1" chs="获得钻石X{0}和金币X{1}" cht="獲得鑽石X{0}和金币X{1}" en="" jp="" kr="" /> 
+    <item id="1671" statuscode="-1" chs="获得剪刀X{0}和橘子X{1}" cht="獲得剪刀X{0}和橘子{1}" en="" jp="" kr="" /> 
+    <item id="1672" statuscode="-1" chs="获得剪刀X{0}、橘子X{1}和桃子X{2}" cht="獲得剪刀X{0}、橘子X{1}和桃子X{2}" en="" jp="" kr="" /> 
+    <item id="1673" statuscode="-1" chs="获得剪刀X{0}、橘子X{1}、桃子X{2}和钻石X{3}" cht="獲得剪刀X{0}、橘子X{1}、桃子X{2}和鑽石X{3}" en="" jp="" kr="" /> 
+    <item id="1674" statuscode="-1" chs="获得橘子X{0}和桃子X{1}" cht="獲得橘子X{0}和桃子X{1}" en="" jp="" kr="" /> 
+    <item id="1675" statuscode="-1" chs="获得剪刀X{0}" cht="獲得剪刀X{0}" en="" jp="" kr="" /> 
+    <item id="1676" statuscode="-1" chs="获得橘子X{0}、桃子X{1}、钻石X{2}和金币X{3}" cht="獲得橘子X{0}、桃子X{1}、鑽石X{2}和金币X{3}" en="" jp="" kr="" /> 
+    <item id="1677" statuscode="-1" chs="获得剪刀X{0}、钻石X{1}和金币X{2}" cht="獲得剪刀X{0}、鑽石X{1}和金币X{2}" en="" jp="" kr="" /> 
+    <item id="1678" statuscode="-1" chs="加Q群送大礼：484099420" cht="加Q群送大禮：" en="" jp="" kr="" /> 
+    <item id="1679" statuscode="-1" chs="客服QQ：484099420| 客服邮箱：484099420@qq.com" cht="客服QQ：484099420| 客服邮箱：484099420@qq.com" en="" jp="" kr="" /> 
+    <item id="1680" statuscode="-1" chs="用户ID：" cht="用户ID：" en="" jp="" kr="" /> 
+    <item id="1681" statuscode="-1" chs="QQ：" cht="QQ：" en="" jp="" kr="" /> 
+    <item id="1682" statuscode="-1" chs="邮箱：" cht="邮箱：" en="" jp="" kr="" /> 
+    <item id="1683" statuscode="-1" chs="内容：" cht="内容：" en="" jp="" kr="" /> 
+    <item id="1684" statuscode="-1" chs="请输入QQ号码" cht="请输入QQ号码" en="" jp="" kr="" /> 
+    <item id="1685" statuscode="-1" chs="请输入邮箱地址" cht="请输入邮箱地址" en="" jp="" kr="" /> 
+    <item id="1686" statuscode="-1" chs="请输入反馈问题或建议（内容不能为空，限制300字以内）" cht="請輸入反饋問題或建議（內容不能為空，限制300字以內）" en="" jp="" kr="" /> 
+    <item id="1687" statuscode="-1" chs="此条信息发送成功" cht="此條信息發送成功" en="" jp="" kr="" /> 
+    <item id="1688" statuscode="-1" chs="反馈次数过多，请明天再试" cht="反饋次數過多，請明天再試" en="" jp="" kr="" /> 
+    <item id="1689" statuscode="-1" chs="获得橘子X{0}、桃子X{1}和钻石X{2}" cht="获得橘子X{0}、桃子X{1}和钻石X{2}" en="" jp="" kr="" /> 
+    <item id="1690" statuscode="-1" chs="获得橘子X{0}、桃子X{1}和金币X{2}" cht="获得橘子X{0}、桃子X{1}和金币X{2}" en="" jp="" kr="" /> 
+    <item id="1691" statuscode="-1" chs="兑换码" cht="兌換碼" en="" jp="" kr="" /> 
+    <item id="1692" statuscode="-1" chs="粘贴" cht="貼上" en="" jp="" kr="" /> 
+    <item id="1693" statuscode="-1" chs="删除" cht="刪除" en="" jp="" kr="" /> 
+    <item id="1694" statuscode="-1" chs="兑换" cht="兌換" en="" jp="" kr="" /> 
+    <item id="1695" statuscode="-1" chs="信息推送" cht="發送訊息" en="" jp="" kr="" /> 
+    <item id="1696" statuscode="-1" chs="反馈" cht="反饋" en="" jp="" kr="" /> 
+    <item id="1697" statuscode="-1" chs="English" cht="English" en="" jp="" kr="" /> 
+    <item id="1698" statuscode="-1" chs="简体中文" cht="简体中文" en="" jp="" kr="" /> 
+    <item id="1699" statuscode="-1" chs="繁體中文" cht="繁體中文" en="" jp="" kr="" /> 
+    <item id="1700" statuscode="-1" chs="获得剪刀X{0}和钻石X{1}" cht="獲得剪刀X{0}和鑽石X{1}" en="" jp="" kr="" /> 
+    <item id="1701" statuscode="-1" chs="攻击力" cht="攻擊力" en="Attack" jp="" kr="" /> 
+    <item id="1702" statuscode="-1" chs="血量" cht="血量" en="Hit Point" jp="" kr="" /> 
+    <item id="1703" statuscode="-1" chs="防御力" cht="防禦力" en="Defense" jp="" kr="" /> 
+    <item id="1704" statuscode="-1" chs="成长" cht="成長" en="Grow" jp="" kr="" /> 
+    <item id="1705" statuscode="-1" chs="特殊技能" cht="特殊技能" en="Skill" jp="" kr="" /> 
+    <item id="1706" statuscode="-1" chs="升级" cht="升級" en="Level up" jp="" kr="" /> 
+    <item id="1707" statuscode="-1" chs="获取缺少的水果？" cht="獲取缺少的水果？" en="Get missing materials？" jp="" kr="" /> 
+    <item id="1708" statuscode="-1" chs="是" cht="是" en="Yes" jp="" kr="" /> 
+    <item id="1709" statuscode="-1" chs="竖排炸弹" cht="豎排炸彈" en="Vertical Bomb" jp="" kr="" /> 
+    <item id="1710" statuscode="-1" chs="消除{0}个同直列消除物" cht="消除{0}個同直列消除物" en="Blows up {0} blocks in a column" jp="" kr="" /> 
+    <item id="1711" statuscode="-1" chs="横排炸弹" cht="橫排炸彈" en="Horizontal Bomb" jp="" kr="" /> 
+    <item id="1712" statuscode="-1" chs="消除{0}个同横排消除物" cht="消除{0}個同橫排消除物" en="Blows up {0} blocks in a row" jp="" kr="" /> 
+    <item id="1713" statuscode="-1" chs="转换石" cht="轉換石" en="Converter Block" jp="" kr="" /> 
+    <item id="1714" statuscode="-1" chs="将周围{0}个消除物转换成紫色消除物" cht="將周圍{0}個消除物轉換成紫色消除物" en="Converts {0} surrounding blocks to Purple Blocks" jp="" kr="" /> 
+    <item id="1715" statuscode="-1" chs="将周围{0}个消除物转换成红色消除物" cht="將周圍{0}個消除物轉換成紅色消除物" en="Converts {0} surrounding blocks to Red Blocks" jp="" kr="" /> 
+    <item id="1716" statuscode="-1" chs="将周围{0}个消除物转换成绿色消除物" cht="將周圍{0}個消除物轉換成綠色消除物" en="Converts {0} surrounding blocks to Green Blocks" jp="" kr="" /> 
+    <item id="1717" statuscode="-1" chs="将周围{0}个消除物转换成蓝色消除物" cht="將周圍{0}個消除物轉換成藍色消除物" en="Converts {0} surrounding blocks to Blue Blocks" jp="" kr="" /> 
+    <item id="1718" statuscode="-1" chs="将周围{0}个消除物转换成黄色消除物" cht="將周圍{0}個消除物轉換成黃色消除物" en="Converts {0} surrounding blocks to Yellow Blocks" jp="" kr="" /> 
+    <item id="1719" statuscode="-1" chs="区域炸弹" cht="區域炸彈" en="Area Bomb" jp="" kr="" /> 
+    <item id="1720" statuscode="-1" chs="消除十字区域消除物" cht="消除十字區域消除物" en="Blows up Cross Area" jp="" kr="" /> 
+    <item id="1721" statuscode="-1" chs="消除{0}x{1}区域消除物" cht="消除{0}x{1}區域消除物" en="Blows up {0} Area" jp="" kr="" /> 
+    <item id="1722" statuscode="-1" chs="全屏炸弹" cht="全屏炸彈" en="Full Screen Bomb" jp="" kr="" /> 
+    <item id="1723" statuscode="-1" chs="消除全屏消除物" cht="消除全屏的消除物" en="Blows up Full Screen" jp="" kr="" /> 
+    <item id="1724" statuscode="-1" chs="恭喜！宠物已经提升至最高等级！" cht="恭喜！寵物已經提升至最高等級！" en="Congratulations!You've maxed out you Friend's powers!" jp="" kr="" /> 
+    <item id="1725" statuscode="-1" chs="升 级 成 功 ！" cht="升 級 成 功！" en="Levle up!" jp="" kr="" /> 
+    <item id="1726" statuscode="-1" chs="攻 击 力 + {0}" cht="攻 擊 力 + {0}" en="Attack + {0}" jp="" kr="" /> 
+    <item id="1727" statuscode="-1" chs="血 量 + {0}" cht="血 量 + {0}" en="Hit Point + {0}" jp="" kr="" /> 
+    <item id="1728" statuscode="-1" chs="技 能 提 升 ！" cht="技 能 提 升 ！" en="Skill improved!" jp="" kr="" /> 
+    <item id="1729" statuscode="-1" chs="全部水果都升级该宠物吗？" cht="全部水果都升級該寵物嗎？" en="" jp="" kr="" /> 
+    <item id="1730" statuscode="-1" chs="之后不再提示" cht="之後不再提示" en="" jp="" kr="" /> 
+    <item id="1731" statuscode="-1" chs="攻击力提升到{0}" cht="攻擊力提升到{0}" en="" jp="" kr="" /> 
+    <item id="1732" statuscode="-1" chs="不再提示" cht="不再提示" en="" jp="" kr="" /> 
+    <item id="1733" statuscode="-1" chs="点任意处继续" cht="點任意處繼續" en="" jp="" kr="" /> 
+    <item id="1734" statuscode="-1" chs="通过第{0}关有机会获得" cht="通過第{0}關有機會獲得" en="" jp="" kr="" /> 
+    <item id="1735" statuscode="-1" chs="确定" cht="確定" en="" jp="" kr="" /> 
+    <item id="1736" statuscode="-1" chs="自动成长" cht="自動成長" en="" jp="" kr="" /> 
+    <item id="1737" statuscode="-1" chs="取消" cht="取消" en="" jp="" kr="" /> 
+    <item id="1801" statuscode="-1" chs="咕咚" cht="咕咚" en="Hippo" jp="" kr="" /> 
+    <item id="1802" statuscode="-1" chs="对于我来说，一两二两不是酒，三两四两漱漱口，五两六两才是酒，喝上一斤跳个舞！完美！" cht="對於我來說，一兩二兩不是酒，三兩四兩漱漱口，五兩六兩才是酒，喝上一斤跳個舞！完美！" en="Hippo Story" jp="" kr="" /> 
+    <item id="1803" statuscode="-1" chs="阿布" cht="阿布" en="Rabbit" jp="" kr="" /> 
+    <item id="1804" statuscode="-1" chs="我敢说敢做，敢做敢当，做不了温柔似水的女子，就做一个响当当的女汉子！" cht="我敢说敢做，敢做敢當，做不了温柔似水的女子，就做一個響噹噹的女漢子！" en="Rabbit Story" jp="" kr="" /> 
+    <item id="1805" statuscode="-1" chs="阿泰" cht="阿泰" en="Lion" jp="" kr="" /> 
+    <item id="1806" statuscode="-1" chs="一招狮子吼，坏蛋靠边走，我的梦想不是万兽之王，一切都是为了部落！" cht="一招獅子吼，壞蛋靠邊走，我的夢想不是萬獸之王，一切都是為了部落！" en="Lion Story" jp="" kr="" /> 
+    <item id="1807" statuscode="-1" chs="引力" cht="引力" en="Pangolin" jp="" kr="" /> 
+    <item id="1808" statuscode="-1" chs="先辈流传的故事，于地心有着数不清的宝藏，驱动着家族往下前进。" cht="前人流傳的故事，於地心有著數不清的寶藏，驅動著家族往下前進。" en="Pangolin Story" jp="" kr="" /> 
+    <item id="1901" statuscode="-1" chs="红毛" cht="紅毛" en="Foxy" jp="" kr="" /> 
+    <item id="1902" statuscode="-1" chs="火焰的红，危险的红，别靠近这位“火焰魔术师”，即使他对着你暧昧的笑。" cht="火焰的紅，危險的紅，別靠近這位“火焰魔術師”，即使他對著你曖昧的笑。" en="Handsome fox can control the power of flame." jp="" kr="" /> 
+    <item id="1903" statuscode="-1" chs="巨炮" cht="巨炮" en="Dog" jp="" kr="" /> 
+    <item id="1904" statuscode="-1" chs="我不会看门，也从不示弱，如果你对自己的实力有自信，带上你的拳头和我一决胜负！" cht="我不看臉色，也從不示弱，如果你对自己的實力有自信，带上你的拳頭和我一决勝負！" en="Dog Story" jp="" kr="" /> 
+    <item id="1905" statuscode="-1" chs="醉不倒" cht="醉不倒" en="Raccoon" jp="" kr="" /> 
+    <item id="1906" statuscode="-1" chs="给我一壶酒，烦恼全没有，摇摇晃晃不会倒，酒里乾坤我最知道！" cht="給我一壺酒，煩惱全没有，搖搖晃晃不會倒，酒裡乾坤我最知道！" en="Raccoon Story" jp="" kr="" /> 
+    <item id="1907" statuscode="-1" chs="大龙" cht="大龍" en="Salamander" jp="" kr="" /> 
+    <item id="1908" statuscode="-1" chs="命运摇啊摇，骰子转啊转，停下来的一瞬间，嘻嘻，他会让你的脸色很难看！" cht="命運搖阿搖，骰子轉阿轉，停下來的一瞬間，嘻嘻，他会讓你的臉色很難看！" en="Salamander Story" jp="" kr="" /> 
+    <item id="2001" statuscode="-1" chs="大球" cht="大球" en="Panda" jp="" kr="" /> 
+    <item id="2002" statuscode="-1" chs="“嘿”，这一拳漂亮，“哈”，这一脚有力。拜托，现在还不是你吃竹子的时间，认真点！" cht="“嘿”，這一拳漂亮，“哈”，這一腳有力。拜託，現在還不是你吃竹子的時間，認真點！" en="Bamboo fan more than a kongfu fan," jp="" kr="" /> 
+    <item id="2003" statuscode="-1" chs="绿豆" cht="绿豆" en="Tortoise" jp="" kr="" /> 
+    <item id="2004" statuscode="-1" chs="慢慢的，他来了，慢慢的，他走了，挥一挥手杖，带走你身上所有的伤！" cht="慢慢的，他來了，慢慢的，他走了，揮一揮手杖，带走你身上所有的傷！" en="Tortoise Story" jp="" kr="" /> 
+    <item id="2005" statuscode="-1" chs="萌萌" cht="萌萌" en="Alpaca" jp="" kr="" /> 
+    <item id="2006" statuscode="-1" chs="咩，我不会向讨厌的人吐口水，但会扫他一脸的墨，让人终生难忘！" cht="咩，我不會向討厭的人吐口水，但會掃他一臉的墨，讓人終生難忘！" en="Alpaca Story" jp="" kr="" /> 
+    <item id="2007" statuscode="-1" chs="清风" cht="清風" en="Parrot" jp="" kr="" /> 
+    <item id="2008" statuscode="-1" chs="我如一阵清风，飘荡于世间，将带来了欢笑，带走了赏钱。" cht="我如一陣清風，飄盪於世間，将帶來了歡笑，帶走了賞錢。" en="Parrot Story" jp="" kr="" /> 
+    <item id="2101" statuscode="-1" chs="豆豆" cht="豆豆" en="Penguin" jp="" kr="" /> 
+    <item id="2102" statuscode="-1" chs="走走走，大街小巷串着走，游游游，东南西北任我游，看相算命都在行，天机泄漏只一半！" cht="走走走，大街小巷串著走，游游游，東南西北任我遊，看相算命都在行，天機洩漏只一半！" en="From polar and who is really timid." jp="" kr="" /> 
+    <item id="2103" statuscode="-1" chs="小兰" cht="小蘭" en="Tiger" jp="" kr="" /> 
+    <item id="2104" statuscode="-1" chs="江湖儿女自多情，对待坏蛋她可从不留情，一顿狂揍让你后悔当初不学好。" cht="江湖兒女自多情，對待壞蛋她可從不留情，一顿狂揍讓你後悔當初不學好。" en="Tiger Story" jp="" kr="" /> 
+    <item id="2105" statuscode="-1" chs="库鲁" cht="庫魯" en="Owl" jp="" kr="" /> 
+    <item id="2106" statuscode="-1" chs="黑夜是他的舞台，追逐是他的游戏，禁猎区的界限抵挡不住他自由的翱翔！" cht="黑夜是他的舞台，追逐是他的遊戲，禁獵區的界限抵擋不住他自由的翱翔！" en="Owl Story" jp="" kr="" /> 
+    <item id="2107" statuscode="-1" chs="松爆" cht="松爆" en="Squirrel" jp="" kr="" /> 
+    <item id="2108" statuscode="-1" chs="沉迷于爆炸艺术的他，坚信着：遇到问题，松果炸弹就可以解决！" cht="沉迷於爆炸藝術的他，堅信著:遇到問題，松果炸彈就可以解決!" en="Squirrel Story" jp="" kr="" /> 
+    <item id="2201" statuscode="-1" chs="皮皮" cht="皮皮" en="Monking" jp="" kr="" /> 
+    <item id="2202" statuscode="-1" chs="我要成为世界上最勇敢的猴子！比如我敢用头撞门100下，你敢吗？" cht="我要成為世界上最勇敢的猴子！比如我敢用頭撞門100下，你敢嗎？" en="Really a kongfu master using a staff." jp="" kr="" /> 
+    <item id="2203" statuscode="-1" chs="玲珑" cht="玲瓏" en="Sheep" jp="" kr="" /> 
+    <item id="2204" statuscode="-1" chs="我不会咩咩叫，不爱吃青草，小不点大智慧，能操纵傀儡于股掌，钻研机关最在行！" cht="我不会咩咩叫，不愛吃青草，小不點大智慧，能操縱傀儡于股掌，鑽研機關最在行！" en="Sheep Story" jp="" kr="" /> 
+    <item id="2205" statuscode="-1" chs="莎莎" cht="莎莎" en="Snake" jp="" kr="" /> 
+    <item id="2206" statuscode="-1" chs="怀疑是她的处世态度，能言善辩又有风度！妩媚一笑露出一个弧度，让你感受那入骨的温度！" cht="懷疑是她的處事態度，能言善辨又有風度！妩媚一笑露出一个弧度，讓你感受那入骨的温度！" en="Snake Story" jp="" kr="" /> 
+    <item id="2207" statuscode="-1" chs="斑" cht="斑" en="Leopard" jp="" kr="" /> 
+    <item id="2208" statuscode="-1" chs="最爱吃鱼的他，不但收了鱼竿，还要更多更多的鱼。才能在钓鱼时不饿着！" cht="最愛吃魚的他，不但收了魚竿，還要更多更多的魚。才能在釣魚時不餓著!" en="Leopard Story" jp="" kr="" /> 
+    <item id="2301" statuscode="-1" chs="Enemy" cht="Enemy" en="Enemy" jp="" kr="" /> 
+    <item id="2302" statuscode="-1" chs="Enemy简介" cht="Enemy簡介" en="An Enemy" jp="" kr="" /> 
+    <item id="2351" statuscode="-1" chs="必要条件：" cht="必要條件：" en="Requirements:" jp="" kr="" /> 
+    <item id="2352" statuscode="-1" chs="拥有{0}只宠物" cht="擁有{0}隻寵物" en="Have {0} Friends" jp="" kr="" /> 
+    <item id="2353" statuscode="-1" chs="{0}只宠物等级提升至{1}级" cht="{0}隻寵物等級提升至{1}級" en="Grow {0} Friends to level {1}" jp="" kr="" /> 
+    <item id="2354" statuscode="-1" chs="VIP等级达到{0}" cht="VIP等級達到{0}" en="" jp="" kr="" /> 
+    <item id="2355" statuscode="-1" chs="关卡星星数达到{0}/{1}" cht="關卡星星數達到{0}/{1}" en="" jp="" kr="" /> 
+    <item id="2356" statuscode="-1" chs="通过此关卡进行福袋抽奖，将有机会获得！" cht="通過此關卡進行福袋抽獎，將有機會獲得！" en="" jp="" kr="" /> 
+    <item id="2357" statuscode="-1" chs="解锁" cht="解鎖" en="" jp="" kr="" /> 
+    <item id="2358" statuscode="-1" chs="通过第{0}关可开启此关卡！" cht="通过第{0}关可开启此关卡！" en="" jp="" kr="" /> 
+    <item id="2401" statuscode="-1" chs="欢迎来到萌宠冒险岛！请点击关卡按钮，进入茂密竹林探险吧！" cht="歡迎來到萌寵冒險島！請點擊關卡按鈕，進入茂密竹林探險吧！" en="Welcome to Qmax! Click to play." jp="" kr="" /> 
+    <item id="2402" statuscode="-1" chs="点击“开始”按钮进入历险！" cht="點擊“開始”按鈕進入歷險！" en="" jp="" kr="" /> 
+    <item id="2403" statuscode="-1" chs="嗨，首先自我介绍一下，我叫竹子，不对，叫大球！" cht="嗨，首先自我介紹一下，我叫竹子，不對，叫大球！" en="" jp="" kr="" /> 
+    <item id="2404" statuscode="-1" chs="看见那三个绿色消除物了吗？把它们连在一起，试试看吧！" cht="看見那三個綠色消除物了嗎？把它們連在一起，試試看吧！" en="" jp="" kr="" /> 
+    <item id="2405" statuscode="-1" chs="太棒啦！一教就会，想当初我可学了好久，让我们再来一次吧。" cht="太棒啦！一教就會，想當初我可學了好久，讓我們再來一次吧。" en="" jp="" kr="" /> 
+    <item id="2406" statuscode="-1" chs="耶！这里绿色消除物很多，正是我发挥本领的时候！" cht="耶！這裡綠色消除物很多，正是我發揮本領的時候！" en="" jp="" kr="" /> 
+    <item id="2407" statuscode="-1" chs="尽可能把绿色消除物连起来，我将刮起绿色的竹林风暴，所向披靡！" cht="盡可能把綠色消除物連起來，我將颳起綠色的竹林風暴，所向披靡！" en="" jp="" kr="" /> 
+    <item id="2408" statuscode="-1" chs="这一次让你见识一下我真正的力量！" cht="這一次讓你見識一下我真正的力量！" en="" jp="" kr="" /> 
+    <item id="2409" statuscode="-1" chs="让绿色消除物连接到我的专属技能炸弹吧！这是我才拥有的力量，横扫千军！破！" cht="讓綠色消除物連接到我的專屬技能炸彈吧！這是我才擁有的力量，橫掃千軍！破！" en="" jp="" kr="" /> 
+    <item id="2410" statuscode="-1" chs="哇哦，快使用剪刀划开“福袋”抽取奖励！" cht="哇哦，快使用剪刀劃開“福袋”抽取獎勵！" en="" jp="" kr="" /> 
+    <item id="2411" statuscode="-1" chs="总算追上你了，走时居然不叫我，不够意思。" cht="總算追上你了，走時居然不叫我，不夠意思。" en="" jp="" kr="" /> 
+    <item id="2412" statuscode="-1" chs="找你的时候你不在，我在你家门口等了很久。" cht="找你的時候你不在，我在你家門口等了很久。" en="" jp="" kr="" /> 
+    <item id="2413" statuscode="-1" chs="是吗？嘿嘿，别在意这些小事！出发！" cht="是嗎？嘿嘿，別在意這些小事！出發！" en="" jp="" kr="" /> 
+    <item id="2414" statuscode="-1" chs="方向错啦，回来！" cht="方向錯啦，回來！" en="" jp="" kr="" /> 
+    <item id="2415" statuscode="-1" chs="这段时间我在努力练习技能哦。" cht="這段時間我在努力練習技能哦。" en="" jp="" kr="" /> 
+    <item id="2416" statuscode="-1" chs="是吗？快让我见识见识！" cht="是嗎？快讓我見識見識！" en="" jp="" kr="" /> 
+    <item id="2417" statuscode="-1" chs="看我的力量，消除物颜色变成我喜欢的！" cht="看我的力量，消除物顏色變成我喜歡的！" en="" jp="" kr="" /> 
+    <item id="2418" statuscode="-1" chs="看见我的力量没？有没有觉得我好可靠？" cht="看見我的力量沒？有沒有覺得我好可靠？" en="" jp="" kr="" /> 
+    <item id="2419" statuscode="-1" chs="嗯嗯，超级可靠！" cht="嗯嗯，超級可靠！" en="" jp="" kr="" /> 
+    <item id="2420" statuscode="-1" chs="都解决啦，继续向前冲吧！" cht="都解決啦，繼續向前衝吧！" en="" jp="" kr="" /> 
+    <item id="2421" statuscode="-1" chs="等我吃根竹子马上出…哇，别拉我啦！我走就是了。" cht="等我吃根竹子馬上出…哇，別拉我啦！我走就是了。" en="" jp="" kr="" /> 
+    <item id="2422" statuscode="-1" chs="成为神兽王需拥有力量，水果能帮助我们更快成长。" cht="成為神獸王需擁有力量，水果能幫助我們更快成長。" en="" jp="" kr="" /> 
+    <item id="2423" statuscode="-1" chs="打开宠物培养，使用水果让一只宠物变的更强大吧。" cht="打開夥伴培養，使用水果讓一隻寵物變的更強大吧。" en="" jp="" kr="" /> 
+    <item id="2424" statuscode="-1" chs="要喂我吃水果吗？好耶！快按下“成长”按钮。" cht="要餵我吃水果嗎？好耶！快按下“成長”按鈕。" en="" jp="" kr="" /> 
+    <item id="2425" statuscode="-1" chs="使用钻石来获取不足的水果，按下“是的”按钮。" cht="使用鑽石來獲取不足的水果，按下“是的”按鈕。" en="" jp="" kr="" /> 
+    <item id="2426" statuscode="-1" chs="我变得更强大啦！一路上还会有很多宠物，让我们共同成长起来吧！" cht="我變得更強大啦！一路上還會有很多寵物，讓我們共同成長起來吧！" en="" jp="" kr="" /> 
+    <item id="2427" statuscode="-1" chs="跟着手势滑动连线3个及以上相同图案，可进行消除。" cht="跟着手勢滑动連線3個及以上相同圖案，可進行消除。" en="" jp="" kr="" /> 
+    <item id="2428" statuscode="-1" chs="好棒！让我们再跟着手势滑动连线一次。" cht="好棒！讓我們再跟着手勢滑動連線一次。" en="" jp="" kr="" /> 
+    <item id="2429" statuscode="-1" chs="再消除剩余的绿色消除物我们就可以通关啦！！" cht="再消除剩余的綠色消除物我們就可以通關啦！！" en="" jp="" kr="" /> 
+    <item id="2430" statuscode="-1" chs="主人，我可不是一只靠外表混竹子吃的萌宠哦！" cht="主人，我可不是一隻靠外表混竹子吃的萌寵哦！" en="" jp="" kr="" /> 
+    <item id="2431" statuscode="-1" chs="点击进入“宠物”界面，让我快速成长！" cht="點擊進入“寵物”界面，讓我快速成長！" en="" jp="" kr="" /> 
+    <item id="2432" statuscode="-1" chs="那是“橘子”和“桃子”材料，用于升级宠物。下面点击“自动成长”看我72变！" cht="那是“橘子”和“桃子”，用於升级寵物。點擊 “自動成長”看我72變！" en="" jp="" kr="" /> 
+    <item id="2433" statuscode="-1" chs="我每提升5级，特殊技能的消除范围和威力都会变强！" cht="我每提升5級，特殊技能的消除範圍和威力都會變強！" en="" jp="" kr="" /> 
+    <item id="2434" statuscode="-1" chs="吃饱饱，长壮壮，点击 “自动成长”看我72变！" cht="吃飽飽，長壯壯，點擊 “自動成長”看我72變！" en="" jp="" kr="" /> 
+    <item id="2435" statuscode="-1" chs="对了。若水果材料不足，还可以消耗“钻石”提升宠物等级。" cht="對了，若水果材料不足時，可以消耗鑽石提升寵物等級。" en="" jp="" kr="" /> 
+    <item id="2436" statuscode="-1" chs="宠物每提升5级，特殊技能的消除范围和威力都会变强！咱们快去关卡小试身手吧。" cht="寵物每提升5级，特殊技能的消除範圍和威力都會變強！我們快去關卡小試身手吧！" en="" jp="" kr="" /> 
+    <item id="2437" statuscode="-1" chs="每连线一颗绿色消除物能使我的攻击力爆表，还能释放横排炸弹哟！" cht="每連線一顆綠色消除物能使我的攻擊力爆表，還能釋放橫排炸彈唷！" en="" jp="" kr="" /> 
+    <item id="2438" statuscode="-1" chs="主人，使用横排技能炸弹，让我的小宇宙爆发吧！" cht="主人，使用橫排技能炸彈，讓我的小宇宙爆發吧！" en="" jp="" kr="" /> 
+    <item id="2439" statuscode="-1" chs="离目标达到又近了一步！使用横排炸弹，清空障碍吧！" cht="離目標達到又近了一步！使用橫排炸彈，清空障礙吧！" en="" jp="" kr="" /> 
+    <item id="2440" statuscode="-1" chs="使用剪刀划开“福袋”抽取奖励！" cht="使用剪刀劃開“福袋”抽取獎勵！" en="" jp="" kr="" /> 
+    <item id="2441" statuscode="-1" chs="连线“转换石”能将周围消除物变成对应的颜色！" cht="連線“轉換石”能將周圍消除物變成對應的顏色！" en="" jp="" kr="" /> 
+    <item id="2442" statuscode="-1" chs="将变幻后消除物串连起，攻击超带感的哟！" cht="將變換後消除物串連起，攻擊超帶感的唷！" en="" jp="" kr="" /> 
+    <item id="2443" statuscode="-1" chs="看，宝箱也！你可以连线攻击宝箱至破损，即可获得宝藏。" cht="看，寶箱耶！你可以連線攻擊寶箱至破損，即可獲得寶藏。" en="" jp="" kr="" /> 
+    <item id="2444" statuscode="-1" chs="在有限步数下，既能打开宝箱又能完成目标，可不容易哦！" cht="在有限步數下，既能打開寶箱又能完成目標，可不容易哦！" en="" jp="" kr="" /> 
+    <item id="2445" statuscode="-1" chs="主人，消除置放于消除方块下的“玻璃”即可过关！" cht="主人，消除置放於消除方塊下的“玻璃”即可過關！" en="" jp="" kr="" /> 
+    <item id="2446" statuscode="-1" chs="连线方块进行消除，下方置放“玻璃”也会碎裂！你试试看！" cht="連線方塊進行消除，下方置放“玻璃”也會碎裂！你試試看！" en="" jp="" kr="" /> 
+    <item id="2447" statuscode="-1" chs="此关消除的玻璃目标更多，难度略有提升也！" cht="此關消除的玻璃目標更多，難度略有提升耶！" en="" jp="" kr="" /> 
+    <item id="2448" statuscode="-1" chs="点击使用道具“击剑”，瞬消同颜色的消除物哦！" cht="點擊使用“擊劍”道具，瞬消同顏色的消除物哦！" en="" jp="" kr="" /> 
+    <item id="2449" statuscode="-1" chs="呼，畅爽速消的感觉超棒，有木有！！！" cht="呼，暢爽速消的感覺超棒，有沒有！！！" en="" jp="" kr="" /> 
+    <item id="2550" statuscode="-1" chs="此关卡为限时模式，在有限时间内，完成关卡目标才算挑战成功！" cht="此關卡為限時模式，在有限時間內，完成關卡目標才算挑戰成功！" en="" jp="" kr="" /> 
+    <item id="2551" statuscode="-1" chs="主人准备好了吗？倒计时即将开始，3，2，1……" cht="主人準備好了嗎？倒計時即將開始，3，2，1……" en="" jp="" kr="" /> 
+    <item id="2552" statuscode="-1" chs="一闪一闪亮晶晶，需要收集3颗星星即可过关！" cht="一閃一閃亮晶晶，需要收集3顆星星即可過關！" en="" jp="" kr="" /> 
+    <item id="2553" statuscode="-1" chs="使“星星”掉落至最下方接收器处，即收集成功！" cht="使“星星”掉落至最下方接收器處，即收集成功！" en="" jp="" kr="" /> 
+    <item id="2554" statuscode="-1" chs="很简单吧，把剩余的星星收齐即可过关咯！" cht="很簡單吧，把剩餘的星星收齊即可過關咯！" en="" jp="" kr="" /> 
+    <item id="2555" statuscode="-1" chs="恭喜你开启摇钱树关卡，进行挑战不会消耗体力值。" cht="恭喜你開啟搖錢樹關卡，進行挑戰不會消耗體力值。" en="" jp="" kr="" /> 
+    <item id="2556" statuscode="-1" chs="在有限时间里，你可以进行快速连线消除获得丰富的奖励！" cht="在有限時間裡，你可以進行快速連線消除獲得豐富的獎勵！" en="" jp="" kr="" /> 
+    <item id="2557" statuscode="-1" chs="此关卡目标是收集金币。当你拥有足够的金币可前往商城购买“被动道具”。" cht="此關卡目標是收集金幣。當你擁有足夠的金幣可前往商城購買“被動道具”。" en="" jp="" kr="" /> 
+    <item id="2558" statuscode="-1" chs="完成通关目标的同时，你还可以丰富的金币奖励，闯关赚钱两不误！" cht="完成通關目標的同時，你還可以豐富的金幣獎勵，闖關賺錢兩不誤！" en="" jp="" kr="" /> 
+    <item id="2559" statuscode="-1" chs="点击使用道具“魔棒”，重新排列所有消除物！" cht="點擊使用道具“魔棒”，重新排列所有消除物！" en="" jp="" kr="" /> 
+    <item id="2560" statuscode="-1" chs="跟着指引操作，点击任意1个消除物，将带给你惊喜哟！" cht="跟著指引操作，點擊任意1個消除物，將帶給你驚喜喲！" en="" jp="" kr="" /> 
+    <item id="2561" statuscode="-1" chs="咻，此乃“神器”道具，能快速收集消除物！" cht="咻，此乃“神器”道具，能快速收集消除物！" en="" jp="" kr="" /> 
+    <item id="2562" statuscode="-1" chs="一大波怪物已奔袭而来，阻止你前进营救更多小宠物！" cht="一大波怪物已奔襲而來，阻止你前進營救更多小寵物！" en="" jp="" kr="" /> 
+    <item id="2563" statuscode="-1" chs="它们不是呆站的木头，即可防御攻击，还能投递障碍物攻击！" cht="它們不是呆站的木頭，即可防禦攻擊，還能投遞障礙物攻擊！" en="" jp="" kr="" /> 
+    <item id="2564" statuscode="-1" chs="你需要把控不同宠物的作战能力，才能最高效地消灭敌人。" cht="你需要把控不同寵物的作戰能力，才能最高效地消滅敵人。" en="" jp="" kr="" /> 
+    <item id="2565" statuscode="-1" chs="来，使用“魔棒”重新排列消除物！将同种颜色消除物连线消除，打敌人个措手不及！" cht="來，使用“魔棒”重新排列消除物！將同種顏色消除物連線消除，打敵人個措手不及！" en="" jp="" kr="" /> 
+    <item id="2566" statuscode="-1" chs="可以使用“击剑”道具，将消除物和下方的玻璃一次性消除，威力杠杠的！" cht="可以使用“擊劍”道具，將消除物和下方的玻璃一次性消除，威力超強的！" en="" jp="" kr="" /> 
+    <item id="2567" statuscode="-1" chs="选择不同的宠物上场，将会获得不同凡响的效果！" cht="選擇不同的寵物上場，將會獲得不同凡響的效果！" en="" jp="" kr="" /> 
+    <item id="8001" statuscode="-1" chs="如何消除?" cht="如何消除?" en="" jp="" kr="" /> 
+    <item id="8002" statuscode="-1" chs="画一条线，放开手指，即可轻松消除它。一切就是这么简单!" cht="畫一條線，放開手指，即可輕鬆消除它。一切就是這麼簡單!" en="" jp="" kr="" /> 
+    <item id="8003" statuscode="-1" chs="伤害倍率提升!(1)" cht="傷害倍率提升!(1)" en="" jp="" kr="" /> 
+    <item id="8004" statuscode="-1" chs="连接六个以上的消除物，可对怪物造成120%伤害。更多连线还会造成更高伤害倍率喔!" cht="連接六個以上的消除物，可對怪物造成120%傷害。更多連線還會造成更高傷害倍率喔!" en="" jp="" kr="" /> 
+    <item id="8005" statuscode="-1" chs="伤害倍率提升!(2)" cht="伤害倍率提升!(2)" en="" jp="" kr="" /> 
+    <item id="8006" statuscode="-1" chs="连接十个以上的消除物，可对怪物造成150%伤害。更多连线还会造成更高伤害倍率喔!" cht="連接十個以上的消除物，可對怪物造成150%傷害。更多連線還會造成更高傷害倍率喔!" en="" jp="" kr="" /> 
+    <item id="8007" statuscode="-1" chs="伤害倍率提升!(3)" cht="傷害倍率提升!(3)" en="" jp="" kr="" /> 
+    <item id="8008" statuscode="-1" chs="连接十五个以上的消除物则宠物可以造成200%伤害。" cht="連接十五個以上的消除物则寵物可以造成200%傷害。" en="" jp="" kr="" /> 
+    <item id="8009" statuscode="-1" chs="必杀!横排炸弹!" cht="必殺!横排炸彈!" en="" jp="" kr="" /> 
+    <item id="8010" statuscode="-1" chs="熊猫的技能是横排炸弹，连线绿色时经过此炸弹释放后，会消除一横排的障碍，超厉害的。" cht="熊猫的技能是横排炸彈，連線綠色時經過此炸彈釋放後，會消除一横排的障礙，超厲害的。" en="" jp="" kr="" /> 
+    <item id="8011" statuscode="-1" chs="必杀!竖排炸弹!" cht="必殺!豎排炸彈!" en="" jp="" kr="" /> 
+    <item id="8012" statuscode="-1" chs="企鹅的技能是竖排炸弹，连线蓝色时经过此炸弹释放后，会消除一竖排的障碍，真想快获得企鹅。" cht="企鹅的技能是豎排炸彈，連線藍色時經過此炸彈釋放後，會消除一豎排的障礙，真想快獲得企鹅。" en="" jp="" kr="" /> 
+    <item id="8013" statuscode="-1" chs="究极!区域炸弹!!" cht="究極!區域炸彈!!" en="" jp="" kr="" /> 
+    <item id="8014" statuscode="-1" chs="兔子的技能是区域炸弹，连线紫色时经过此炸弹释放后，会消除一菱形范围的障碍。有了兔子还要担心什么?" cht="兔子的技能是區域炸彈，連線紫色時經過此炸彈釋放後，會消除一菱形範圍的障礙。有了兔子還要擔心什麼?" en="" jp="" kr="" /> 
+    <item id="8015" statuscode="-1" chs="跟着我!炸弹!" cht="跟着我!炸彈!" en="" jp="" kr="" /> 
+    <item id="8016" statuscode="-1" chs="担心炸弹炸不到想炸的区域吗? 当连线经过炸弹可以将它移动到想要破坏的地方，妈妈再也不担心我炸空了!" cht="擔心炸彈炸不到想炸的區域嗎? 當連線經過炸彈可以將它移動到想要破壞的地方，媽媽再也不擔心我炸空了!" en="" jp="" kr="" /> 
+    <item id="8017" statuscode="-1" chs="炸弹也转弯" cht="炸彈也轉彎" en="" jp="" kr="" /> 
+    <item id="8018" statuscode="-1" chs="红色的竖排炸弹不小心消到蓝色的竖排炸弹，感觉好浪费阿？没关系，被重迭的炸弹会转向成横排炸弹喔!" cht="紅色的豎棑炸彈不小心消到蓝色的豎排炸彈，感覺好浪費阿？没關係，被重選的炸彈會轉向成横排炸彈喔!" en="" jp="" kr="" /> 
+    <item id="8019" statuscode="-1" chs="变色吧!转换石" cht="變色吧!轉換石" en="" jp="" kr="" /> 
+    <item id="8020" statuscode="-1" chs="猴子的技能是转换石，连线黄色时经过此转换石可以将范围内的消除物都变成黄色的，轻易打出高额连段。" cht="猴子的技能是轉換石，連線黄色時經過此轉換石可以將範圍内的方塊都變成黄色的，輕易打出高額連段。" en="" jp="" kr="" /> 
+    <item id="8021" statuscode="-1" chs="讨厌的障碍" cht="討厭的障礙" en="" jp="" kr="" /> 
+    <item id="8022" statuscode="-1" chs="哎呀! 有个树桩档在路中间怎么办?没问题，大丈夫，萌大奶，只要消除树桩相邻的消除物就可将其移除的。" cht="哎呀! 有個樹樁檔在路中間怎辦?沒問題，大丈夫，萌大奶，只要消除樹樁相鄰的消除物就可將其移除的。" en="" jp="" kr="" /> 
+    <item id="8023" statuscode="-1" chs="集气!集气!" cht="集氣!集氣!" en="" jp="" kr="" /> 
+    <item id="8024" statuscode="-1" chs="需要更多的炸弹? 只要收集够多的消除物，就可以使出连续炸弹了。对了，点击宠物区还可查看集气状态喔。" cht="需要更多的炸弹? 只要收集夠多的消除物，就可以使出連續炸彈了。對了，點擊寵物區還可查看集氣狀態喔。" en="" jp="" kr="" /> 
+    <item id="8025" statuscode="-1" chs="没用没用没用" cht="没用没用没用" en="" jp="" kr="" /> 
+    <item id="8026" statuscode="-1" chs="某些怪物天生对某种颜色的消除物免疫喔。当看到绿色的护盾就别用绿色攻击怪物了。" cht="某些怪物天生對某種颜色的消除物免疫喔。當看到綠色的護盾就别用綠色攻擊怪物了。" en="" jp="" kr="" /> 
+    <item id="8027" statuscode="-1" chs="怪物也有技能!" cht="怪物也有技能!" en="" jp="" kr="" /> 
+    <item id="8028" statuscode="-1" chs="不仅小宠物有技能，怪物也身怀绝技！别怕，消除他们造成的障碍，用连线辗过他们吧!" cht="不僅宠物有技能，怪物也身懷絕技！别怕，消除他們造成的障礙，用連線輾過他們吧!" en="" jp="" kr="" /> 
+    <item id="8029" statuscode="-1" chs="来人阻止那怪物!" cht="来人阻止那怪物!" en="" jp="" kr="" /> 
+    <item id="8030" statuscode="-1" chs="怪物超讨厌的，一直丢障碍物。没关系，只要对它造成足够大的伤害，它就会停止施放技能一阵子。" cht="怪物超討厭的，一直丢障礙物。没關係，只要對牠造成足夠大的傷害，牠就會停止施放技能一陣子。" en="" jp="" kr="" /> 
+    <item id="8031" statuscode="-1" chs="换人上阵!" cht="换人上阵!" en="" jp="" kr="" /> 
+    <item id="8032" statuscode="-1" chs="抽到了新的小宠物，该怎么换人上场呢? 只要在“选人界面”上下滑动，点击查看选择不同的小宠物呢。" cht="抽到了新的寵物，該怎麼換人上場呢? 只要在“選關界面”上下滑動，點擊查看選擇不同的寵物呢。" en="" jp="" kr="" /> 
+    <item id="8033" statuscode="-1" chs="哎呀!差一点点?" cht="哎呀!差一點點?" en="" jp="" kr="" /> 
+    <item id="8034" statuscode="-1" chs="差一点点就过关嘞了呢? 没关系，花钻石即可增加步数，让你克服难关。" cht="差一點點就過關了呢? 沒關係，花鑽石即可增加步數，讓你克服難關。" en="" jp="" kr="" /> 
+    <item id="8035" statuscode="-1" chs="剪刀?能吃吗?" cht="剪刀?能吃吗?" en="" jp="" kr="" /> 
+    <item id="8036" statuscode="-1" chs="剪刀可以用来在福袋区抽奖，想要获得更多的剪刀? 只要通过更多的关卡就可以买买买了。" cht="剪刀可以用來在福袋區抽獎，想要獲得更多的剪刀? 只要通過更多的關卡就可以買買買了。" en="" jp="" kr="" /> 
+    <item id="8037" statuscode="-1" chs="福袋耶!!" cht="福袋耶!!" en="" jp="" kr="" /> 
+    <item id="8038" statuscode="-1" chs="缺钱，缺粮，缺宠物? 快到福袋抽取更多的未知神秘礼物。" cht="缺錢，缺糧，缺寵物? 快到福袋抽取更多的未知神秘禮物。" en="" jp="" kr="" /> 
+    <item id="8039" statuscode="-1" chs="体力是啥?" cht="體力是啥?" en="" jp="" kr="" /> 
+    <item id="8040" statuscode="-1" chs="体力是啥? 闯关需要更多的体力值，随时注意体力满了没，努力朝胜利的目标前进吧!" cht="體力是啥? 闖關需要更多的體力值，隨時注意體力滿了沒，努力朝勝利的目標前進吧!" en="" jp="" kr="" /> 
+    <item id="8041" statuscode="-1" chs="没体力了?" cht="没體力了?" en="" jp="" kr="" /> 
+    <item id="8042" statuscode="-1" chs="哎呀，好累阿，没体力了。点击这个图标可以用钻石购买充满体力，超划算的。" cht="哎呀，好累阿，没體力了。點擊這個圖標可以用鑽石購買充滿體力，超划算的。" en="" jp="" kr="" /> 
+    <item id="8043" statuscode="-1" chs="我有哪些宠物?" cht="我有哪些寵物?" en="" jp="" kr="" /> 
+    <item id="8044" statuscode="-1" chs="点击这个图标可以查看所有宠物的信息，试试看吧。" cht="點擊這個圖標可以查看所有寵物的信息，試試看吧。" en="" jp="" kr="" /> 
+    <item id="8045" statuscode="-1" chs="宠物需要变强?" cht="寵物需要變強?" en="" jp="" kr="" /> 
+    <item id="8046" statuscode="-1" chs="在宠物功能点击下方可强化提升宠物的强度，也许有意外的惊喜呢。" cht="在寵物功能點擊下方可强化提升寵物的强度，也許有意外的驚喜呢。" en="" jp="" kr="" /> 
+    <item id="10001" statuscode="-1" chs="摇钱树活动" cht="搖錢樹活动" en="TimeLimited" jp="" kr="" /> 
+    <item id="10002" statuscode="-1" chs="开放时间内，可以参加活动{0}次" cht="開放時間内，可以参加活動{0}次" en="" jp="" kr="" /> 
+    <item id="10003" statuscode="-1" chs="倒计时" cht="倒數計時" en="" jp="" kr="" /> 
+    <item id="10004" statuscode="-1" chs="总奖励" cht="總獎勵" en="" jp="" kr="" /> 
+    <item id="10005" statuscode="-1" chs="追加奖励" cht="追加獎勵" en="" jp="" kr="" /> 
+    <item id="10006" statuscode="-1" chs="早晨&lt;color=#51f500&gt;7:00&lt;/color&gt; -凌晨 &lt;color=#51f500&gt;2:00&lt;/color&gt;" cht="早晨&lt;color=#51f500&gt;7:00&lt;/color&gt; -凌晨 &lt;color=#51f500&gt;2:00&lt;/color&gt;" en="" jp="" kr="" /> 
+    <item id="10007" statuscode="-1" chs="活动开放时间" cht="活動開放時間" en="" jp="" kr="" /> 
+    <item id="10008" statuscode="-1" chs="活动次数已用完，请改天再来" cht="活動次數已用完，請改天再来" en="" jp="" kr="" /> 
+    <item id="10009" statuscode="-1" chs="不在活动时间内，请改天再来" cht="不在活動時間内，請改天再来" en="" jp="" kr="" /> 
+    <item id="10010" statuscode="-1" chs="摇钱树" cht="搖錢樹" en="" jp="" kr="" /> 
+    <item id="10011" statuscode="-1" chs="奖励：" cht="獎勵：" en="" jp="" kr="" /> 
+    <item id="11001" statuscode="-1" chs="将任意1只宠物等级提升至2级" cht="將任意1隻寵物等级提升至2級" en="" jp="" kr="" /> 
+    <item id="11002" statuscode="-1" chs="将任意1只宠物等级提升至3级" cht="將任意1隻寵物等级提升至3級" en="" jp="" kr="" /> 
+    <item id="11003" statuscode="-1" chs="将任意1只宠物等级提升至4级" cht="將任意1隻寵物等级提升至4級" en="" jp="" kr="" /> 
+    <item id="11004" statuscode="-1" chs="将任意1只宠物等级提升至5级" cht="將任意1隻寵物等级提升至5級" en="" jp="" kr="" /> 
+    <item id="11005" statuscode="-1" chs="将任意1只宠物等级提升至6级" cht="將任意1隻寵物等级提升至6級" en="" jp="" kr="" /> 
+    <item id="11006" statuscode="-1" chs="将任意1只宠物等级提升至7级" cht="將任意1隻寵物等级提升至7級" en="" jp="" kr="" /> 
+    <item id="11007" statuscode="-1" chs="将任意1只宠物等级提升至8级" cht="將任意1隻寵物等级提升至8級" en="" jp="" kr="" /> 
+    <item id="11008" statuscode="-1" chs="将任意1只宠物等级提升至9级" cht="將任意1隻寵物等级提升至9級" en="" jp="" kr="" /> 
+    <item id="11009" statuscode="-1" chs="将任意1只宠物等级提升至10级" cht="將任意1隻寵物等级提升至10級" en="" jp="" kr="" /> 
+    <item id="11010" statuscode="-1" chs="将任意1只宠物等级提升至11级" cht="將任意1隻寵物等级提升至11級" en="" jp="" kr="" /> 
+    <item id="11011" statuscode="-1" chs="将任意1只宠物等级提升至12级" cht="將任意1隻寵物等级提升至12級" en="" jp="" kr="" /> 
+    <item id="11012" statuscode="-1" chs="将任意1只宠物等级提升至13级" cht="將任意1隻寵物等级提升至13級" en="" jp="" kr="" /> 
+    <item id="11013" statuscode="-1" chs="将任意1只宠物等级提升至14级" cht="將任意1隻寵物等级提升至14級" en="" jp="" kr="" /> 
+    <item id="11014" statuscode="-1" chs="将任意1只宠物等级提升至15级" cht="將任意1隻寵物等级提升至15級" en="" jp="" kr="" /> 
+    <item id="11015" statuscode="-1" chs="将任意1只宠物等级提升至16级" cht="將任意1隻寵物等级提升至16級" en="" jp="" kr="" /> 
+    <item id="11016" statuscode="-1" chs="将任意1只宠物等级提升至17级" cht="將任意1隻寵物等级提升至17級" en="" jp="" kr="" /> 
+    <item id="11017" statuscode="-1" chs="将任意1只宠物等级提升至18级" cht="將任意1隻寵物等级提升至18級" en="" jp="" kr="" /> 
+    <item id="11018" statuscode="-1" chs="将任意1只宠物等级提升至19级" cht="將任意1隻寵物等级提升至19級" en="" jp="" kr="" /> 
+    <item id="11019" statuscode="-1" chs="将任意1只宠物等级提升至20级" cht="將任意1隻寵物等级提升至20級" en="" jp="" kr="" /> 
+    <item id="11020" statuscode="-1" chs="将任意2只宠物等级提升至2级" cht="將任意2隻寵物等级提升至2級" en="" jp="" kr="" /> 
+    <item id="11021" statuscode="-1" chs="将任意2只宠物等级提升至3级" cht="將任意2隻寵物等级提升至3級" en="" jp="" kr="" /> 
+    <item id="11022" statuscode="-1" chs="将任意2只宠物等级提升至4级" cht="將任意2隻寵物等级提升至4級" en="" jp="" kr="" /> 
+    <item id="11023" statuscode="-1" chs="将任意2只宠物等级提升至5级" cht="將任意2隻寵物等级提升至5級" en="" jp="" kr="" /> 
+    <item id="11024" statuscode="-1" chs="将任意2只宠物等级提升至6级" cht="將任意2隻寵物等级提升至6級" en="" jp="" kr="" /> 
+    <item id="11025" statuscode="-1" chs="将任意2只宠物等级提升至7级" cht="將任意2隻寵物等级提升至7級" en="" jp="" kr="" /> 
+    <item id="11026" statuscode="-1" chs="将任意2只宠物等级提升至8级" cht="將任意2隻寵物等级提升至8級" en="" jp="" kr="" /> 
+    <item id="11027" statuscode="-1" chs="将任意2只宠物等级提升至9级" cht="將任意2隻寵物等级提升至9級" en="" jp="" kr="" /> 
+    <item id="11028" statuscode="-1" chs="将任意2只宠物等级提升至10级" cht="將任意2隻寵物等级提升至10級" en="" jp="" kr="" /> 
+    <item id="11029" statuscode="-1" chs="将任意2只宠物等级提升至11级" cht="將任意2隻寵物等级提升至11級" en="" jp="" kr="" /> 
+    <item id="11030" statuscode="-1" chs="将任意2只宠物等级提升至12级" cht="將任意2隻寵物等级提升至12級" en="" jp="" kr="" /> 
+    <item id="11031" statuscode="-1" chs="将任意2只宠物等级提升至13级" cht="將任意2隻寵物等级提升至13級" en="" jp="" kr="" /> 
+    <item id="11032" statuscode="-1" chs="将任意2只宠物等级提升至14级" cht="將任意2隻寵物等级提升至14級" en="" jp="" kr="" /> 
+    <item id="11033" statuscode="-1" chs="将任意2只宠物等级提升至15级" cht="將任意2隻寵物等级提升至15級" en="" jp="" kr="" /> 
+    <item id="11034" statuscode="-1" chs="将任意2只宠物等级提升至16级" cht="將任意2隻寵物等级提升至16級" en="" jp="" kr="" /> 
+    <item id="11035" statuscode="-1" chs="将任意2只宠物等级提升至17级" cht="將任意2隻寵物等级提升至17級" en="" jp="" kr="" /> 
+    <item id="11036" statuscode="-1" chs="将任意2只宠物等级提升至18级" cht="將任意2隻寵物等级提升至18級" en="" jp="" kr="" /> 
+    <item id="11037" statuscode="-1" chs="将任意2只宠物等级提升至19级" cht="將任意2隻寵物等级提升至19級" en="" jp="" kr="" /> 
+    <item id="11038" statuscode="-1" chs="将任意2只宠物等级提升至20级" cht="將任意2隻寵物等级提升至20級" en="" jp="" kr="" /> 
+    <item id="11039" statuscode="-1" chs="将任意3只宠物等级提升至2级" cht="將任意3隻寵物等级提升至2級" en="" jp="" kr="" /> 
+    <item id="11040" statuscode="-1" chs="将任意3只宠物等级提升至3级" cht="將任意3隻寵物等级提升至3級" en="" jp="" kr="" /> 
+    <item id="11041" statuscode="-1" chs="将任意3只宠物等级提升至4级" cht="將任意3隻寵物等级提升至4級" en="" jp="" kr="" /> 
+    <item id="11042" statuscode="-1" chs="将任意3只宠物等级提升至5级" cht="將任意3隻寵物等级提升至5級" en="" jp="" kr="" /> 
+    <item id="11043" statuscode="-1" chs="将任意3只宠物等级提升至6级" cht="將任意3隻寵物等级提升至6級" en="" jp="" kr="" /> 
+    <item id="11044" statuscode="-1" chs="将任意3只宠物等级提升至7级" cht="將任意3隻寵物等级提升至7級" en="" jp="" kr="" /> 
+    <item id="11045" statuscode="-1" chs="将任意3只宠物等级提升至8级" cht="將任意3隻寵物等级提升至8級" en="" jp="" kr="" /> 
+    <item id="11046" statuscode="-1" chs="将任意3只宠物等级提升至9级" cht="將任意3隻寵物等级提升至9級" en="" jp="" kr="" /> 
+    <item id="11047" statuscode="-1" chs="将任意3只宠物等级提升至10级" cht="將任意3隻寵物等级提升至10級" en="" jp="" kr="" /> 
+    <item id="11048" statuscode="-1" chs="将任意3只宠物等级提升至11级" cht="將任意3隻寵物等级提升至11級" en="" jp="" kr="" /> 
+    <item id="11049" statuscode="-1" chs="将任意3只宠物等级提升至12级" cht="將任意3隻寵物等级提升至12級" en="" jp="" kr="" /> 
+    <item id="11050" statuscode="-1" chs="将任意3只宠物等级提升至13级" cht="將任意3隻寵物等级提升至13級" en="" jp="" kr="" /> 
+    <item id="11051" statuscode="-1" chs="将任意3只宠物等级提升至14级" cht="將任意3隻寵物等级提升至14級" en="" jp="" kr="" /> 
+    <item id="11052" statuscode="-1" chs="将任意3只宠物等级提升至15级" cht="將任意3隻寵物等级提升至15級" en="" jp="" kr="" /> 
+    <item id="11053" statuscode="-1" chs="将任意3只宠物等级提升至16级" cht="將任意3隻寵物等级提升至16級" en="" jp="" kr="" /> 
+    <item id="11054" statuscode="-1" chs="将任意3只宠物等级提升至17级" cht="將任意3隻寵物等级提升至17級" en="" jp="" kr="" /> 
+    <item id="11055" statuscode="-1" chs="将任意3只宠物等级提升至18级" cht="將任意3隻寵物等级提升至18級" en="" jp="" kr="" /> 
+    <item id="11056" statuscode="-1" chs="将任意3只宠物等级提升至19级" cht="將任意3隻寵物等级提升至19級" en="" jp="" kr="" /> 
+    <item id="11057" statuscode="-1" chs="将任意3只宠物等级提升至20级" cht="將任意3隻寵物等级提升至20級" en="" jp="" kr="" /> 
+    <item id="11058" statuscode="-1" chs="将任意4只宠物等级提升至2级" cht="將任意4隻寵物等级提升至2級" en="" jp="" kr="" /> 
+    <item id="11059" statuscode="-1" chs="将任意4只宠物等级提升至3级" cht="將任意4隻寵物等级提升至3級" en="" jp="" kr="" /> 
+    <item id="11060" statuscode="-1" chs="将任意4只宠物等级提升至4级" cht="將任意4隻寵物等级提升至4級" en="" jp="" kr="" /> 
+    <item id="11061" statuscode="-1" chs="将任意4只宠物等级提升至5级" cht="將任意4隻寵物等级提升至5級" en="" jp="" kr="" /> 
+    <item id="11062" statuscode="-1" chs="将任意4只宠物等级提升至6级" cht="將任意4隻寵物等级提升至6級" en="" jp="" kr="" /> 
+    <item id="11063" statuscode="-1" chs="将任意4只宠物等级提升至7级" cht="將任意4隻寵物等级提升至7級" en="" jp="" kr="" /> 
+    <item id="11064" statuscode="-1" chs="将任意4只宠物等级提升至8级" cht="將任意4隻寵物等级提升至8級" en="" jp="" kr="" /> 
+    <item id="11065" statuscode="-1" chs="将任意4只宠物等级提升至9级" cht="將任意4隻寵物等级提升至9級" en="" jp="" kr="" /> 
+    <item id="11066" statuscode="-1" chs="将任意4只宠物等级提升至10级" cht="將任意4隻寵物等级提升至10級" en="" jp="" kr="" /> 
+    <item id="11067" statuscode="-1" chs="将任意4只宠物等级提升至11级" cht="將任意4隻寵物等级提升至11級" en="" jp="" kr="" /> 
+    <item id="11068" statuscode="-1" chs="将任意4只宠物等级提升至12级" cht="將任意4隻寵物等级提升至12級" en="" jp="" kr="" /> 
+    <item id="11069" statuscode="-1" chs="将任意4只宠物等级提升至13级" cht="將任意4隻寵物等级提升至13級" en="" jp="" kr="" /> 
+    <item id="11070" statuscode="-1" chs="将任意4只宠物等级提升至14级" cht="將任意4隻寵物等级提升至14級" en="" jp="" kr="" /> 
+    <item id="11071" statuscode="-1" chs="将任意4只宠物等级提升至15级" cht="將任意4隻寵物等级提升至15級" en="" jp="" kr="" /> 
+    <item id="11072" statuscode="-1" chs="将任意4只宠物等级提升至16级" cht="將任意4隻寵物等级提升至16級" en="" jp="" kr="" /> 
+    <item id="11073" statuscode="-1" chs="将任意4只宠物等级提升至17级" cht="將任意4隻寵物等级提升至17級" en="" jp="" kr="" /> 
+    <item id="11074" statuscode="-1" chs="将任意4只宠物等级提升至18级" cht="將任意4隻寵物等级提升至18級" en="" jp="" kr="" /> 
+    <item id="11075" statuscode="-1" chs="将任意4只宠物等级提升至19级" cht="將任意4隻寵物等级提升至19級" en="" jp="" kr="" /> 
+    <item id="11076" statuscode="-1" chs="将任意4只宠物等级提升至20级" cht="將任意4隻寵物等级提升至20級" en="" jp="" kr="" /> 
+    <item id="11077" statuscode="-1" chs="将任意5只宠物等级提升至2级" cht="將任意5隻寵物等级提升至2級" en="" jp="" kr="" /> 
+    <item id="11078" statuscode="-1" chs="将任意5只宠物等级提升至3级" cht="將任意5隻寵物等级提升至3級" en="" jp="" kr="" /> 
+    <item id="11079" statuscode="-1" chs="将任意5只宠物等级提升至4级" cht="將任意5隻寵物等级提升至4級" en="" jp="" kr="" /> 
+    <item id="11080" statuscode="-1" chs="将任意5只宠物等级提升至5级" cht="將任意5隻寵物等级提升至5級" en="" jp="" kr="" /> 
+    <item id="11081" statuscode="-1" chs="将任意5只宠物等级提升至6级" cht="將任意5隻寵物等级提升至6級" en="" jp="" kr="" /> 
+    <item id="11082" statuscode="-1" chs="将任意5只宠物等级提升至7级" cht="將任意5隻寵物等级提升至7級" en="" jp="" kr="" /> 
+    <item id="11083" statuscode="-1" chs="将任意5只宠物等级提升至8级" cht="將任意5隻寵物等级提升至8級" en="" jp="" kr="" /> 
+    <item id="11084" statuscode="-1" chs="将任意5只宠物等级提升至9级" cht="將任意5隻寵物等级提升至9級" en="" jp="" kr="" /> 
+    <item id="11085" statuscode="-1" chs="将任意5只宠物等级提升至10级" cht="將任意5隻寵物等级提升至10級" en="" jp="" kr="" /> 
+    <item id="11086" statuscode="-1" chs="将任意5只宠物等级提升至11级" cht="將任意5隻寵物等级提升至11級" en="" jp="" kr="" /> 
+    <item id="11087" statuscode="-1" chs="将任意5只宠物等级提升至12级" cht="將任意5隻寵物等级提升至12級" en="" jp="" kr="" /> 
+    <item id="11088" statuscode="-1" chs="将任意5只宠物等级提升至13级" cht="將任意5隻寵物等级提升至13級" en="" jp="" kr="" /> 
+    <item id="11089" statuscode="-1" chs="将任意5只宠物等级提升至14级" cht="將任意5隻寵物等级提升至14級" en="" jp="" kr="" /> 
+    <item id="11090" statuscode="-1" chs="将任意5只宠物等级提升至15级" cht="將任意5隻寵物等级提升至15級" en="" jp="" kr="" /> 
+    <item id="11091" statuscode="-1" chs="将任意5只宠物等级提升至16级" cht="將任意5隻寵物等级提升至16級" en="" jp="" kr="" /> 
+    <item id="11092" statuscode="-1" chs="将任意5只宠物等级提升至17级" cht="將任意5隻寵物等级提升至17級" en="" jp="" kr="" /> 
+    <item id="11093" statuscode="-1" chs="将任意5只宠物等级提升至18级" cht="將任意5隻寵物等级提升至18級" en="" jp="" kr="" /> 
+    <item id="11094" statuscode="-1" chs="将任意5只宠物等级提升至19级" cht="將任意5隻寵物等级提升至19級" en="" jp="" kr="" /> 
+    <item id="11095" statuscode="-1" chs="将任意5只宠物等级提升至20级" cht="將任意5隻寵物等级提升至20級" en="" jp="" kr="" /> 
+    <item id="11096" statuscode="-1" chs="将咕咚提升至5级" cht="將咕咚提升至5級" en="" jp="" kr="" /> 
+    <item id="11097" statuscode="-1" chs="将咕咚提升至10级" cht="將咕咚提升至10級" en="" jp="" kr="" /> 
+    <item id="11098" statuscode="-1" chs="将咕咚提升至15级" cht="將咕咚提升至15級" en="" jp="" kr="" /> 
+    <item id="11099" statuscode="-1" chs="将咕咚提升至20级" cht="將咕咚提升至20級" en="" jp="" kr="" /> 
+    <item id="11100" statuscode="-1" chs="将阿布提升至5级" cht="將阿布提升至5級" en="" jp="" kr="" /> 
+    <item id="11101" statuscode="-1" chs="将阿布提升至10级" cht="將阿布提升至10級" en="" jp="" kr="" /> 
+    <item id="11102" statuscode="-1" chs="将阿布提升至15级" cht="將阿布提升至15級" en="" jp="" kr="" /> 
+    <item id="11103" statuscode="-1" chs="将阿布提升至20级" cht="將阿布提升至20級" en="" jp="" kr="" /> 
+    <item id="11104" statuscode="-1" chs="将阿泰提升至5级" cht="將阿泰提升至5級" en="" jp="" kr="" /> 
+    <item id="11105" statuscode="-1" chs="将阿泰提升至10级" cht="將阿泰提升至10級" en="" jp="" kr="" /> 
+    <item id="11106" statuscode="-1" chs="将阿泰提升至15级" cht="將阿泰提升至15級" en="" jp="" kr="" /> 
+    <item id="11107" statuscode="-1" chs="将阿泰提升至20级" cht="將阿泰提升至20級" en="" jp="" kr="" /> 
+    <item id="11108" statuscode="-1" chs="将引力提升至5级" cht="將引力提升至5級" en="" jp="" kr="" /> 
+    <item id="11109" statuscode="-1" chs="将引力提升至10级" cht="將引力提升至10級" en="" jp="" kr="" /> 
+    <item id="11110" statuscode="-1" chs="将引力提升至15级" cht="將引力提升至15級" en="" jp="" kr="" /> 
+    <item id="11111" statuscode="-1" chs="将引力提升至20级" cht="將引力提升至20級" en="" jp="" kr="" /> 
+    <item id="11112" statuscode="-1" chs="将红毛提升至5级" cht="將紅毛提升至5級" en="" jp="" kr="" /> 
+    <item id="11113" statuscode="-1" chs="将红毛提升至10级" cht="將紅毛提升至10級" en="" jp="" kr="" /> 
+    <item id="11114" statuscode="-1" chs="将红毛提升至15级" cht="將紅毛提升至15級" en="" jp="" kr="" /> 
+    <item id="11115" statuscode="-1" chs="将红毛提升至20级" cht="將紅毛提升至20級" en="" jp="" kr="" /> 
+    <item id="11116" statuscode="-1" chs="将巨炮提升至5级" cht="將巨砲提升至5級" en="" jp="" kr="" /> 
+    <item id="11117" statuscode="-1" chs="将巨炮提升至10级" cht="將巨砲提升至10級" en="" jp="" kr="" /> 
+    <item id="11118" statuscode="-1" chs="将巨炮提升至15级" cht="將巨砲提升至15級" en="" jp="" kr="" /> 
+    <item id="11119" statuscode="-1" chs="将巨炮提升至20级" cht="將巨砲提升至20級" en="" jp="" kr="" /> 
+    <item id="11120" statuscode="-1" chs="将醉不倒提升至5级" cht="將醉不倒提升至5級" en="" jp="" kr="" /> 
+    <item id="11121" statuscode="-1" chs="将醉不倒提升至10级" cht="將醉不倒提升至10級" en="" jp="" kr="" /> 
+    <item id="11122" statuscode="-1" chs="将醉不倒提升至15级" cht="將醉不倒提升至15級" en="" jp="" kr="" /> 
+    <item id="11123" statuscode="-1" chs="将醉不倒提升至20级" cht="將醉不倒提升至20級" en="" jp="" kr="" /> 
+    <item id="11124" statuscode="-1" chs="将大龙提升至5级" cht="將大龍提升至5級" en="" jp="" kr="" /> 
+    <item id="11125" statuscode="-1" chs="将大龙提升至10级" cht="將大龍提升至10級" en="" jp="" kr="" /> 
+    <item id="11126" statuscode="-1" chs="将大龙提升至15级" cht="將大龍提升至15級" en="" jp="" kr="" /> 
+    <item id="11127" statuscode="-1" chs="将大龙提升至20级" cht="將大龍提升至20級" en="" jp="" kr="" /> 
+    <item id="11128" statuscode="-1" chs="将大球提升至5级" cht="將大球提升至5級" en="" jp="" kr="" /> 
+    <item id="11129" statuscode="-1" chs="将大球提升至10级" cht="將大球提升至10級" en="" jp="" kr="" /> 
+    <item id="11130" statuscode="-1" chs="将大球提升至15级" cht="將大球提升至15級" en="" jp="" kr="" /> 
+    <item id="11131" statuscode="-1" chs="将大球提升至20级" cht="將大球提升至20級" en="" jp="" kr="" /> 
+    <item id="11132" statuscode="-1" chs="将绿豆提升至5级" cht="將綠豆提升至5級" en="" jp="" kr="" /> 
+    <item id="11133" statuscode="-1" chs="将绿豆提升至10级" cht="將綠豆提升至10級" en="" jp="" kr="" /> 
+    <item id="11134" statuscode="-1" chs="将绿豆提升至15级" cht="將綠豆提升至15級" en="" jp="" kr="" /> 
+    <item id="11135" statuscode="-1" chs="将绿豆提升至20级" cht="將綠豆提升至20級" en="" jp="" kr="" /> 
+    <item id="11136" statuscode="-1" chs="将萌萌提升至5级" cht="將萌萌提升至5級" en="" jp="" kr="" /> 
+    <item id="11137" statuscode="-1" chs="将萌萌提升至10级" cht="將萌萌提升至10級" en="" jp="" kr="" /> 
+    <item id="11138" statuscode="-1" chs="将萌萌提升至15级" cht="將萌萌提升至15級" en="" jp="" kr="" /> 
+    <item id="11139" statuscode="-1" chs="将萌萌提升至20级" cht="將萌萌提升至20級" en="" jp="" kr="" /> 
+    <item id="11140" statuscode="-1" chs="将清风提升至5级" cht="將清風提升至5級" en="" jp="" kr="" /> 
+    <item id="11141" statuscode="-1" chs="将清风提升至10级" cht="將清風提升至10級" en="" jp="" kr="" /> 
+    <item id="11142" statuscode="-1" chs="将清风提升至15级" cht="將清風提升至15級" en="" jp="" kr="" /> 
+    <item id="11143" statuscode="-1" chs="将清风提升至20级" cht="將清風提升至20級" en="" jp="" kr="" /> 
+    <item id="11144" statuscode="-1" chs="将豆豆提升至5级" cht="將豆豆提升至5級" en="" jp="" kr="" /> 
+    <item id="11145" statuscode="-1" chs="将豆豆提升至10级" cht="將豆豆提升至10級" en="" jp="" kr="" /> 
+    <item id="11146" statuscode="-1" chs="将豆豆提升至15级" cht="將豆豆提升至15級" en="" jp="" kr="" /> 
+    <item id="11147" statuscode="-1" chs="将豆豆提升至20级" cht="將豆豆提升至20級" en="" jp="" kr="" /> 
+    <item id="11148" statuscode="-1" chs="将小兰提升至5级" cht="將小蘭提升至5級" en="" jp="" kr="" /> 
+    <item id="11149" statuscode="-1" chs="将小兰提升至10级" cht="將小蘭提升至10級" en="" jp="" kr="" /> 
+    <item id="11150" statuscode="-1" chs="将小兰提升至15级" cht="將小蘭提升至15級" en="" jp="" kr="" /> 
+    <item id="11151" statuscode="-1" chs="将小兰提升至20级" cht="將小蘭提升至20級" en="" jp="" kr="" /> 
+    <item id="11152" statuscode="-1" chs="将库鲁提升至5级" cht="將庫魯提升至5級" en="" jp="" kr="" /> 
+    <item id="11153" statuscode="-1" chs="将库鲁提升至10级" cht="將庫魯提升至10級" en="" jp="" kr="" /> 
+    <item id="11154" statuscode="-1" chs="将库鲁提升至15级" cht="將庫魯提升至15級" en="" jp="" kr="" /> 
+    <item id="11155" statuscode="-1" chs="将库鲁提升至20级" cht="將庫魯提升至20級" en="" jp="" kr="" /> 
+    <item id="11156" statuscode="-1" chs="将松爆提升至5级" cht="將松爆提升至5級" en="" jp="" kr="" /> 
+    <item id="11157" statuscode="-1" chs="将松爆提升至10级" cht="將松爆提升至10級" en="" jp="" kr="" /> 
+    <item id="11158" statuscode="-1" chs="将松爆提升至15级" cht="將松爆提升至15級" en="" jp="" kr="" /> 
+    <item id="11159" statuscode="-1" chs="将松爆提升至20级" cht="將松爆提升至20級" en="" jp="" kr="" /> 
+    <item id="11160" statuscode="-1" chs="将皮皮提升至5级" cht="將皮皮提升至5級" en="" jp="" kr="" /> 
+    <item id="11161" statuscode="-1" chs="将皮皮提升至10级" cht="將皮皮提升至10級" en="" jp="" kr="" /> 
+    <item id="11162" statuscode="-1" chs="将皮皮提升至15级" cht="將皮皮提升至15級" en="" jp="" kr="" /> 
+    <item id="11163" statuscode="-1" chs="将皮皮提升至20级" cht="將皮皮提升至20級" en="" jp="" kr="" /> 
+    <item id="11164" statuscode="-1" chs="将玲珑提升至5级" cht="將玲瓏提升至5級" en="" jp="" kr="" /> 
+    <item id="11165" statuscode="-1" chs="将玲珑提升至10级" cht="將玲瓏提升至10級" en="" jp="" kr="" /> 
+    <item id="11166" statuscode="-1" chs="将玲珑提升至15级" cht="將玲瓏提升至15級" en="" jp="" kr="" /> 
+    <item id="11167" statuscode="-1" chs="将玲珑提升至20级" cht="將玲瓏提升至20級" en="" jp="" kr="" /> 
+    <item id="11168" statuscode="-1" chs="将莎莎提升至5级" cht="將莎莎提升至5級" en="" jp="" kr="" /> 
+    <item id="11169" statuscode="-1" chs="将莎莎提升至10级" cht="將莎莎提升至10級" en="" jp="" kr="" /> 
+    <item id="11170" statuscode="-1" chs="将莎莎提升至15级" cht="將莎莎提升至15級" en="" jp="" kr="" /> 
+    <item id="11171" statuscode="-1" chs="将莎莎提升至20级" cht="將莎莎提升至20級" en="" jp="" kr="" /> 
+    <item id="11172" statuscode="-1" chs="将斑提升至5级" cht="將斑提升至5級" en="" jp="" kr="" /> 
+    <item id="11173" statuscode="-1" chs="将斑提升至10级" cht="將斑提升至10級" en="" jp="" kr="" /> 
+    <item id="11174" statuscode="-1" chs="将斑提升至15级" cht="將斑提升至15級" en="" jp="" kr="" /> 
+    <item id="11175" statuscode="-1" chs="将斑提升至20级" cht="將斑提升至20級" en="" jp="" kr="" /> 
+    <item id="11501" statuscode="-1" chs="拥有1只宠物" cht="擁有1隻寵物" en="" jp="" kr="" /> 
+    <item id="11502" statuscode="-1" chs="拥有2只宠物" cht="擁有2隻寵物" en="" jp="" kr="" /> 
+    <item id="11503" statuscode="-1" chs="拥有3只宠物" cht="擁有3隻寵物" en="" jp="" kr="" /> 
+    <item id="11504" statuscode="-1" chs="拥有4只宠物" cht="擁有4隻寵物" en="" jp="" kr="" /> 
+    <item id="11505" statuscode="-1" chs="拥有5只宠物" cht="擁有5隻寵物" en="" jp="" kr="" /> 
+    <item id="11506" statuscode="-1" chs="拥有6只宠物" cht="擁有6隻寵物" en="" jp="" kr="" /> 
+    <item id="11507" statuscode="-1" chs="拥有7只宠物" cht="擁有7隻寵物" en="" jp="" kr="" /> 
+    <item id="11508" statuscode="-1" chs="拥有8只宠物" cht="擁有8隻寵物" en="" jp="" kr="" /> 
+    <item id="11509" statuscode="-1" chs="拥有9只宠物" cht="擁有9隻寵物" en="" jp="" kr="" /> 
+    <item id="11510" statuscode="-1" chs="拥有10只宠物" cht="擁有10隻寵物" en="" jp="" kr="" /> 
+    <item id="11511" statuscode="-1" chs="拥有11只宠物" cht="擁有11隻寵物" en="" jp="" kr="" /> 
+    <item id="11512" statuscode="-1" chs="拥有12只宠物" cht="擁有12隻寵物" en="" jp="" kr="" /> 
+    <item id="11513" statuscode="-1" chs="拥有13只宠物" cht="擁有13隻寵物" en="" jp="" kr="" /> 
+    <item id="11514" statuscode="-1" chs="拥有14只宠物" cht="擁有14隻寵物" en="" jp="" kr="" /> 
+    <item id="11515" statuscode="-1" chs="拥有15只宠物" cht="擁有15隻寵物" en="" jp="" kr="" /> 
+    <item id="11516" statuscode="-1" chs="拥有16只宠物" cht="擁有16隻寵物" en="" jp="" kr="" /> 
+    <item id="11517" statuscode="-1" chs="拥有17只宠物" cht="擁有17隻寵物" en="" jp="" kr="" /> 
+    <item id="11518" statuscode="-1" chs="拥有18只宠物" cht="擁有18隻寵物" en="" jp="" kr="" /> 
+    <item id="11519" statuscode="-1" chs="拥有19只宠物" cht="擁有19隻寵物" en="" jp="" kr="" /> 
+    <item id="11520" statuscode="-1" chs="拥有20只宠物" cht="擁有20隻寵物" en="" jp="" kr="" /> 
+    <item id="11701" statuscode="-1" chs="拥有1只5级宠物" cht="擁有1隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11702" statuscode="-1" chs="拥有2只5级宠物" cht="擁有2隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11703" statuscode="-1" chs="拥有3只5级宠物" cht="擁有3隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11704" statuscode="-1" chs="拥有4只5级宠物" cht="擁有4隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11705" statuscode="-1" chs="拥有5只5级宠物" cht="擁有5隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11706" statuscode="-1" chs="拥有6只5级宠物" cht="擁有6隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11707" statuscode="-1" chs="拥有7只5级宠物" cht="擁有7隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11708" statuscode="-1" chs="拥有8只5级宠物" cht="擁有8隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11709" statuscode="-1" chs="拥有9只5级宠物" cht="擁有9隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11710" statuscode="-1" chs="拥有10只5级宠物" cht="擁有10隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11711" statuscode="-1" chs="拥有11只5级宠物" cht="擁有11隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11712" statuscode="-1" chs="拥有12只5级宠物" cht="擁有12隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11713" statuscode="-1" chs="拥有13只5级宠物" cht="擁有13隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11714" statuscode="-1" chs="拥有14只5级宠物" cht="擁有14隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11715" statuscode="-1" chs="拥有15只5级宠物" cht="擁有15隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11716" statuscode="-1" chs="拥有16只5级宠物" cht="擁有16隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11717" statuscode="-1" chs="拥有17只5级宠物" cht="擁有17隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11718" statuscode="-1" chs="拥有18只5级宠物" cht="擁有18隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11719" statuscode="-1" chs="拥有19只5级宠物" cht="擁有19隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11720" statuscode="-1" chs="拥有20只5级宠物" cht="擁有20隻5級寵物" en="" jp="" kr="" /> 
+    <item id="11721" statuscode="-1" chs="拥有1只10级宠物" cht="擁有1隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11722" statuscode="-1" chs="拥有2只10级宠物" cht="擁有2隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11723" statuscode="-1" chs="拥有3只10级宠物" cht="擁有3隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11724" statuscode="-1" chs="拥有4只10级宠物" cht="擁有4隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11725" statuscode="-1" chs="拥有5只10级宠物" cht="擁有5隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11726" statuscode="-1" chs="拥有6只10级宠物" cht="擁有6隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11727" statuscode="-1" chs="拥有7只10级宠物" cht="擁有7隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11728" statuscode="-1" chs="拥有8只10级宠物" cht="擁有8隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11729" statuscode="-1" chs="拥有9只10级宠物" cht="擁有9隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11730" statuscode="-1" chs="拥有10只10级宠物" cht="擁有10隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11731" statuscode="-1" chs="拥有11只10级宠物" cht="擁有11隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11732" statuscode="-1" chs="拥有12只10级宠物" cht="擁有12隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11733" statuscode="-1" chs="拥有13只10级宠物" cht="擁有13隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11734" statuscode="-1" chs="拥有14只10级宠物" cht="擁有14隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11735" statuscode="-1" chs="拥有15只10级宠物" cht="擁有15隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11736" statuscode="-1" chs="拥有16只10级宠物" cht="擁有16隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11737" statuscode="-1" chs="拥有17只10级宠物" cht="擁有17隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11738" statuscode="-1" chs="拥有18只10级宠物" cht="擁有18隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11739" statuscode="-1" chs="拥有19只10级宠物" cht="擁有19隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11740" statuscode="-1" chs="拥有20只10级宠物" cht="擁有20隻10級寵物" en="" jp="" kr="" /> 
+    <item id="11741" statuscode="-1" chs="拥有1只15级宠物" cht="擁有1隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11742" statuscode="-1" chs="拥有2只15级宠物" cht="擁有2隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11743" statuscode="-1" chs="拥有3只15级宠物" cht="擁有3隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11744" statuscode="-1" chs="拥有4只15级宠物" cht="擁有4隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11745" statuscode="-1" chs="拥有5只15级宠物" cht="擁有5隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11746" statuscode="-1" chs="拥有6只15级宠物" cht="擁有6隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11747" statuscode="-1" chs="拥有7只15级宠物" cht="擁有7隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11748" statuscode="-1" chs="拥有8只15级宠物" cht="擁有8隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11749" statuscode="-1" chs="拥有9只15级宠物" cht="擁有9隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11750" statuscode="-1" chs="拥有10只15级宠物" cht="擁有10隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11751" statuscode="-1" chs="拥有11只15级宠物" cht="擁有11隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11752" statuscode="-1" chs="拥有12只15级宠物" cht="擁有12隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11753" statuscode="-1" chs="拥有13只15级宠物" cht="擁有13隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11754" statuscode="-1" chs="拥有14只15级宠物" cht="擁有14隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11755" statuscode="-1" chs="拥有15只15级宠物" cht="擁有15隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11756" statuscode="-1" chs="拥有16只15级宠物" cht="擁有16隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11757" statuscode="-1" chs="拥有17只15级宠物" cht="擁有17隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11758" statuscode="-1" chs="拥有18只15级宠物" cht="擁有18隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11759" statuscode="-1" chs="拥有19只15级宠物" cht="擁有19隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11760" statuscode="-1" chs="拥有20只15级宠物" cht="擁有20隻15級寵物" en="" jp="" kr="" /> 
+    <item id="11761" statuscode="-1" chs="拥有1只20级宠物" cht="擁有1隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11762" statuscode="-1" chs="拥有2只20级宠物" cht="擁有2隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11763" statuscode="-1" chs="拥有3只20级宠物" cht="擁有3隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11764" statuscode="-1" chs="拥有4只20级宠物" cht="擁有4隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11765" statuscode="-1" chs="拥有5只20级宠物" cht="擁有5隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11766" statuscode="-1" chs="拥有6只20级宠物" cht="擁有6隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11767" statuscode="-1" chs="拥有7只20级宠物" cht="擁有7隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11768" statuscode="-1" chs="拥有8只20级宠物" cht="擁有8隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11769" statuscode="-1" chs="拥有9只20级宠物" cht="擁有9隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11770" statuscode="-1" chs="拥有10只20级宠物" cht="擁有10隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11771" statuscode="-1" chs="拥有11只20级宠物" cht="擁有11隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11772" statuscode="-1" chs="拥有12只20级宠物" cht="擁有12隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11773" statuscode="-1" chs="拥有13只20级宠物" cht="擁有13隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11774" statuscode="-1" chs="拥有14只20级宠物" cht="擁有14隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11775" statuscode="-1" chs="拥有15只20级宠物" cht="擁有15隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11776" statuscode="-1" chs="拥有16只20级宠物" cht="擁有16隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11777" statuscode="-1" chs="拥有17只20级宠物" cht="擁有17隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11778" statuscode="-1" chs="拥有18只20级宠物" cht="擁有18隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11779" statuscode="-1" chs="拥有19只20级宠物" cht="擁有19隻20級寵物" en="" jp="" kr="" /> 
+    <item id="11780" statuscode="-1" chs="拥有20只20级宠物" cht="擁有20隻20級寵物" en="" jp="" kr="" /> 
+    <item id="12101" statuscode="-1" chs="成功挑战第7关" cht="成功挑戰第7關" en="" jp="" kr="" /> 
+    <item id="12102" statuscode="-1" chs="成功挑战第10关" cht="成功挑戰第10關" en="" jp="" kr="" /> 
+    <item id="12103" statuscode="-1" chs="成功挑战第12关" cht="成功挑戰第12關" en="" jp="" kr="" /> 
+    <item id="12104" statuscode="-1" chs="成功挑战第15关" cht="成功挑戰第15關" en="" jp="" kr="" /> 
+    <item id="12105" statuscode="-1" chs="成功挑战第18关" cht="成功挑戰第18關" en="" jp="" kr="" /> 
+    <item id="12106" statuscode="-1" chs="成功挑战第20关" cht="成功挑戰第20關" en="" jp="" kr="" /> 
+    <item id="12107" statuscode="-1" chs="成功挑战第25关" cht="成功挑戰第25關" en="" jp="" kr="" /> 
+    <item id="12108" statuscode="-1" chs="成功挑战第30关" cht="成功挑戰第30關" en="" jp="" kr="" /> 
+    <item id="12109" statuscode="-1" chs="成功挑战第35关" cht="成功挑戰第35關" en="" jp="" kr="" /> 
+    <item id="12110" statuscode="-1" chs="成功挑战第40关" cht="成功挑戰第40關" en="" jp="" kr="" /> 
+    <item id="12111" statuscode="-1" chs="成功挑战第45关" cht="成功挑戰第45關" en="" jp="" kr="" /> 
+    <item id="12112" statuscode="-1" chs="成功挑战第50关" cht="成功挑戰第50關" en="" jp="" kr="" /> 
+    <item id="12113" statuscode="-1" chs="成功挑战第55关" cht="成功挑戰第55關" en="" jp="" kr="" /> 
+    <item id="12114" statuscode="-1" chs="成功挑战第60关" cht="成功挑戰第60關" en="" jp="" kr="" /> 
+    <item id="12115" statuscode="-1" chs="成功挑战第65关" cht="成功挑戰第65關" en="" jp="" kr="" /> 
+    <item id="12116" statuscode="-1" chs="成功挑战第70关" cht="成功挑戰第70關" en="" jp="" kr="" /> 
+    <item id="12117" statuscode="-1" chs="成功挑战第75关" cht="成功挑戰第75關" en="" jp="" kr="" /> 
+    <item id="12118" statuscode="-1" chs="成功挑战第80关" cht="成功挑戰第80關" en="" jp="" kr="" /> 
+    <item id="12119" statuscode="-1" chs="成功挑战第85关" cht="成功挑戰第85關" en="" jp="" kr="" /> 
+    <item id="12120" statuscode="-1" chs="成功挑战第90关" cht="成功挑戰第90關" en="" jp="" kr="" /> 
+    <item id="12121" statuscode="-1" chs="成功挑战第95关" cht="成功挑戰第95關" en="" jp="" kr="" /> 
+    <item id="12122" statuscode="-1" chs="成功挑战第100关" cht="成功挑戰第100關" en="" jp="" kr="" /> 
+    <item id="12123" statuscode="-1" chs="成功挑战第9关" cht="成功挑戰第9關" en="" jp="" kr="" /> 
+    <item id="12124" statuscode="-1" chs="成功挑战第11关" cht="成功挑戰第11關" en="" jp="" kr="" /> 
+    <item id="12125" statuscode="-1" chs="成功挑战第13关" cht="成功挑戰第13關" en="" jp="" kr="" /> 
+    <item id="12126" statuscode="-1" chs="成功挑战第17关" cht="成功挑戰第17關" en="" jp="" kr="" /> 
+    <item id="12127" statuscode="-1" chs="成功挑战第19关" cht="成功挑戰第19關" en="" jp="" kr="" /> 
+    <item id="12128" statuscode="-1" chs="成功挑战第21关" cht="成功挑戰第21關" en="" jp="" kr="" /> 
+    <item id="12129" statuscode="-1" chs="成功挑战第23关" cht="成功挑戰第23關" en="" jp="" kr="" /> 
+    <item id="12701" statuscode="-1" chs="挑战关卡失败5次" cht="挑戰關卡失敗5次" en="" jp="" kr="" /> 
+    <item id="12702" statuscode="-1" chs="挑战关卡失败10次" cht="挑戰關卡失敗10次" en="" jp="" kr="" /> 
+    <item id="12703" statuscode="-1" chs="挑战关卡失败15次" cht="挑戰關卡失敗15次" en="" jp="" kr="" /> 
+    <item id="12704" statuscode="-1" chs="挑战关卡失败20次" cht="挑戰關卡失敗20次" en="" jp="" kr="" /> 
+    <item id="12705" statuscode="-1" chs="挑战关卡失败25次" cht="挑戰關卡失敗25次" en="" jp="" kr="" /> 
+    <item id="12706" statuscode="-1" chs="挑战关卡失败30次" cht="挑戰關卡失敗30次" en="" jp="" kr="" /> 
+    <item id="12707" statuscode="-1" chs="挑战关卡失败35次" cht="挑戰關卡失敗35次" en="" jp="" kr="" /> 
+    <item id="12708" statuscode="-1" chs="挑战关卡失败40次" cht="挑戰關卡失敗40次" en="" jp="" kr="" /> 
+    <item id="12709" statuscode="-1" chs="挑战关卡失败45次" cht="挑戰關卡失敗45次" en="" jp="" kr="" /> 
+    <item id="12710" statuscode="-1" chs="挑战关卡失败50次" cht="挑戰關卡失敗50次" en="" jp="" kr="" /> 
+    <item id="12711" statuscode="-1" chs="挑战关卡失败55次" cht="挑戰關卡失敗55次" en="" jp="" kr="" /> 
+    <item id="12712" statuscode="-1" chs="挑战关卡失败60次" cht="挑戰關卡失敗60次" en="" jp="" kr="" /> 
+    <item id="12713" statuscode="-1" chs="挑战关卡失败65次" cht="挑戰關卡失敗65次" en="" jp="" kr="" /> 
+    <item id="12714" statuscode="-1" chs="挑战关卡失败70次" cht="挑戰關卡失敗70次" en="" jp="" kr="" /> 
+    <item id="12715" statuscode="-1" chs="挑战关卡失败75次" cht="挑戰關卡失敗75次" en="" jp="" kr="" /> 
+    <item id="12716" statuscode="-1" chs="挑战关卡失败80次" cht="挑戰關卡失敗80次" en="" jp="" kr="" /> 
+    <item id="12717" statuscode="-1" chs="挑战关卡失败85次" cht="挑戰關卡失敗85次" en="" jp="" kr="" /> 
+    <item id="12718" statuscode="-1" chs="挑战关卡失败90次" cht="挑戰關卡失敗90次" en="" jp="" kr="" /> 
+    <item id="12719" statuscode="-1" chs="挑战关卡失败95次" cht="挑戰關卡失敗95次" en="" jp="" kr="" /> 
+    <item id="12720" statuscode="-1" chs="挑战关卡失败100次" cht="挑戰關卡失敗100次" en="" jp="" kr="" /> 
+    <item id="13101" statuscode="-1" chs="累计抽奖达到5次" cht="累計抽獎達到5次" en="" jp="" kr="" /> 
+    <item id="13102" statuscode="-1" chs="累计抽奖达到10次" cht="累計抽獎達到10次" en="" jp="" kr="" /> 
+    <item id="13103" statuscode="-1" chs="累计抽奖达到15次" cht="累計抽獎達到15次" en="" jp="" kr="" /> 
+    <item id="13104" statuscode="-1" chs="累计抽奖达到20次" cht="累計抽獎達到20次" en="" jp="" kr="" /> 
+    <item id="13105" statuscode="-1" chs="累计抽奖达到25次" cht="累計抽獎達到25次" en="" jp="" kr="" /> 
+    <item id="13106" statuscode="-1" chs="累计抽奖达到30次" cht="累計抽獎達到30次" en="" jp="" kr="" /> 
+    <item id="13107" statuscode="-1" chs="累计抽奖达到40次" cht="累計抽獎達到40次" en="" jp="" kr="" /> 
+    <item id="13108" statuscode="-1" chs="累计抽奖达到50次" cht="累計抽獎達到50次" en="" jp="" kr="" /> 
+    <item id="13109" statuscode="-1" chs="累计抽奖达到60次" cht="累計抽獎達到60次" en="" jp="" kr="" /> 
+    <item id="13110" statuscode="-1" chs="累计抽奖达到70次" cht="累計抽獎達到70次" en="" jp="" kr="" /> 
+    <item id="13111" statuscode="-1" chs="累计抽奖达到80次" cht="累計抽獎達到80次" en="" jp="" kr="" /> 
+    <item id="13112" statuscode="-1" chs="累计抽奖达到90次" cht="累計抽獎達到90次" en="" jp="" kr="" /> 
+    <item id="13113" statuscode="-1" chs="累计抽奖达到100次" cht="累計抽獎達到100次" en="" jp="" kr="" /> 
+    <item id="13114" statuscode="-1" chs="累计抽奖达到150次" cht="累計抽獎達到150次" en="" jp="" kr="" /> 
+    <item id="13115" statuscode="-1" chs="累计抽奖达到200次" cht="累計抽獎達到200次" en="" jp="" kr="" /> 
+    <item id="13116" statuscode="-1" chs="累计抽奖达到250次" cht="累計抽獎達到250次" en="" jp="" kr="" /> 
+    <item id="13117" statuscode="-1" chs="累计抽奖达到300次" cht="累計抽獎達到300次" en="" jp="" kr="" /> 
+    <item id="13118" statuscode="-1" chs="累计抽奖达到350次" cht="累計抽獎達到350次" en="" jp="" kr="" /> 
+    <item id="13119" statuscode="-1" chs="累计抽奖达到400次" cht="累計抽獎達到400次" en="" jp="" kr="" /> 
+    <item id="13120" statuscode="-1" chs="累计抽奖达到450次" cht="累計抽獎達到450次" en="" jp="" kr="" /> 
+    <item id="13121" statuscode="-1" chs="累计抽奖达到500次" cht="累計抽獎達到500次" en="" jp="" kr="" /> 
+    <item id="13122" statuscode="-1" chs="累计抽奖达到550次" cht="累計抽獎達到550次" en="" jp="" kr="" /> 
+    <item id="13123" statuscode="-1" chs="累计抽奖达到600次" cht="累計抽獎達到600次" en="" jp="" kr="" /> 
+    <item id="13124" statuscode="-1" chs="累计抽奖达到650次" cht="累計抽獎達到650次" en="" jp="" kr="" /> 
+    <item id="13125" statuscode="-1" chs="累计抽奖达到700次" cht="累計抽獎達到700次" en="" jp="" kr="" /> 
+    <item id="13126" statuscode="-1" chs="累计抽奖达到750次" cht="累計抽獎達到750次" en="" jp="" kr="" /> 
+    <item id="13127" statuscode="-1" chs="累计抽奖达到800次" cht="累計抽獎達到800次" en="" jp="" kr="" /> 
+    <item id="13128" statuscode="-1" chs="累计抽奖达到850次" cht="累計抽獎達到850次" en="" jp="" kr="" /> 
+    <item id="13129" statuscode="-1" chs="累计抽奖达到900次" cht="累計抽獎達到900次" en="" jp="" kr="" /> 
+    <item id="13130" statuscode="-1" chs="累计抽奖达到950次" cht="累計抽獎達到950次" en="" jp="" kr="" /> 
+    <item id="13131" statuscode="-1" chs="累计抽奖达到1000次" cht="累計抽獎達到1000次" en="" jp="" kr="" /> 
+    <item id="13801" statuscode="-1" chs="累计消耗钻石100枚" cht="累計消耗鑽石100枚" en="" jp="" kr="" /> 
+    <item id="13802" statuscode="-1" chs="累计消耗钻石200枚" cht="累計消耗鑽石200枚" en="" jp="" kr="" /> 
+    <item id="13803" statuscode="-1" chs="累计消耗钻石300枚" cht="累計消耗鑽石300枚" en="" jp="" kr="" /> 
+    <item id="13804" statuscode="-1" chs="累计消耗钻石400枚" cht="累計消耗鑽石400枚" en="" jp="" kr="" /> 
+    <item id="13805" statuscode="-1" chs="累计消耗钻石500枚" cht="累計消耗鑽石500枚" en="" jp="" kr="" /> 
+    <item id="13806" statuscode="-1" chs="累计消耗钻石600枚" cht="累計消耗鑽石600枚" en="" jp="" kr="" /> 
+    <item id="13807" statuscode="-1" chs="累计消耗钻石700枚" cht="累計消耗鑽石700枚" en="" jp="" kr="" /> 
+    <item id="13808" statuscode="-1" chs="累计消耗钻石800枚" cht="累計消耗鑽石800枚" en="" jp="" kr="" /> 
+    <item id="13809" statuscode="-1" chs="累计消耗钻石900枚" cht="累計消耗鑽石900枚" en="" jp="" kr="" /> 
+    <item id="13810" statuscode="-1" chs="累计消耗钻石1000枚" cht="累計消耗鑽石1000枚" en="" jp="" kr="" /> 
+    <item id="14401" statuscode="-1" chs="进行1次抽奖" cht="進行1次抽獎" en="" jp="" kr="" /> 
+    <item id="14402" statuscode="-1" chs="进行2次抽奖" cht="進行2次抽獎" en="" jp="" kr="" /> 
+    <item id="14403" statuscode="-1" chs="进行3次抽奖" cht="進行3次抽獎" en="" jp="" kr="" /> 
+    <item id="14404" statuscode="-1" chs="进行4次抽奖" cht="進行4次抽獎" en="" jp="" kr="" /> 
+    <item id="14405" statuscode="-1" chs="进行5次抽奖" cht="進行5次抽獎" en="" jp="" kr="" /> 
+    <item id="14406" statuscode="-1" chs="进行6次抽奖" cht="進行6次抽獎" en="" jp="" kr="" /> 
+    <item id="14407" statuscode="-1" chs="进行7次抽奖" cht="進行7次抽獎" en="" jp="" kr="" /> 
+    <item id="14408" statuscode="-1" chs="进行8次抽奖" cht="進行8次抽獎" en="" jp="" kr="" /> 
+    <item id="14409" statuscode="-1" chs="进行9次抽奖" cht="進行9次抽獎" en="" jp="" kr="" /> 
+    <item id="14410" statuscode="-1" chs="进行10次抽奖" cht="進行10次抽獎" en="" jp="" kr="" /> 
+    <item id="14411" statuscode="-1" chs="消耗10枚钻石" cht="消耗10枚鑽石" en="" jp="" kr="" /> 
+    <item id="14412" statuscode="-1" chs="消耗20枚钻石" cht="消耗20枚鑽石" en="" jp="" kr="" /> 
+    <item id="14413" statuscode="-1" chs="消耗30枚钻石" cht="消耗30枚鑽石" en="" jp="" kr="" /> 
+    <item id="14414" statuscode="-1" chs="消耗40枚钻石" cht="消耗40枚鑽石" en="" jp="" kr="" /> 
+    <item id="14415" statuscode="-1" chs="消耗50枚钻石" cht="消耗50枚鑽石" en="" jp="" kr="" /> 
+    <item id="14416" statuscode="-1" chs="消耗60枚钻石" cht="消耗60枚鑽石" en="" jp="" kr="" /> 
+    <item id="14417" statuscode="-1" chs="消耗70枚钻石" cht="消耗70枚鑽石" en="" jp="" kr="" /> 
+    <item id="14418" statuscode="-1" chs="消耗80枚钻石" cht="消耗80枚鑽石" en="" jp="" kr="" /> 
+    <item id="14419" statuscode="-1" chs="消耗90枚钻石" cht="消耗90枚鑽石" en="" jp="" kr="" /> 
+    <item id="14420" statuscode="-1" chs="消耗100枚钻石" cht="消耗100枚鑽石" en="" jp="" kr="" /> 
+    <item id="14421" statuscode="-1" chs="任务每天可完成6次，凌晨5点自动刷新。已完成任务不受刷新影响。" cht="任務每天可完成6次，凌晨5點自動刷新。已完成任務不受刷新影響。" en="" jp="" kr="" /> 
+    <item id="14422" statuscode="-1" chs="关卡" cht="關卡" en="" jp="" kr="" /> 
+    <item id="14423" statuscode="-1" chs="抽奖" cht="抽獎" en="" jp="" kr="" /> 
+    <item id="14424" statuscode="-1" chs="水果" cht="水果" en="" jp="" kr="" /> 
+    <item id="20001" statuscode="-1" chs="畅玩套装" cht="暢玩套裝" en="" jp="" kr="" /> 
+    <item id="20002" statuscode="-1" chs="#1#金币X{0}、橘子X{1}、桃子X{2}和轻松解锁X{3}" cht="#1#金幣X{0}、橘子X{1}、桃子X{2}和輕鬆解鎖X{3}" en="" jp="" kr="" /> 
+    <item id="20003" statuscode="-1" chs="闯关套装" cht="闖關套裝" en="" jp="" kr="" /> 
+    <item id="20004" statuscode="-1" chs="#2#金币X{0}、橘子X{1}、桃子X{2}和得分UPX{3}" cht="#2#金幣X{0}、橘子X{1}、桃子X{2}和得分UPX{3}" en="" jp="" kr="" /> 
+    <item id="20005" statuscode="-1" chs="冲星套装" cht="衝星套裝" en="" jp="" kr="" /> 
+    <item id="20006" statuscode="-1" chs="#3#金币X{0}、橘子X{1}、桃子X{2}和减少血量X{3}" cht="#3#金幣X{0}、橘子X{1}、桃子X{2}和減少血量X{3}" en="" jp="" kr="" /> 
+    <item id="20007" statuscode="-1" chs="初级作战包" cht="初級作戰包" en="" jp="" kr="" /> 
+    <item id="20008" statuscode="-1" chs="#1#加步数X{0}、减少血量X{1}、魔棒X{2}和冷却X{3}" cht="#1#加步數X{0}、減少血量X{1}、魔棒X{2}和冷卻X{3}" en="" jp="" kr="" /> 
+    <item id="20009" statuscode="-1" chs="中级作战包" cht="中級作戰包" en="" jp="" kr="" /> 
+    <item id="20010" statuscode="-1" chs="#2#轻松解锁X{0}、攻击UPX{1}、拳套X{2}和击剑X{3}" cht="#2#輕鬆解鎖X{0}、攻擊UPX{1}、拳套X{2}和擊劍X{3}" en="" jp="" kr="" /> 
+    <item id="20011" statuscode="-1" chs="高级作战包" cht="高級作戰包" en="" jp="" kr="" /> 
+    <item id="20012" statuscode="-1" chs="#3#拳套X{0}、击剑X{1}、魔棒X{2}和冷却X{3}" cht="#3#拳套X{0}、擊劍X{1}、魔棒X{2}和冷卻X{3}" en="" jp="" kr="" /> 
+    <item id="20013" statuscode="-1" chs="体力恢复" cht="體力恢復" en="" jp="" kr="" /> 
+    <item id="20014" statuscode="-1" chs="恢复体力值{0}点" cht="恢復體力值{0}點" en="" jp="" kr="" /> 
+    <item id="20015" statuscode="-1" chs="增加体力上限" cht="增加體力上限" en="" jp="" kr="" /> 
+    <item id="20016" statuscode="-1" chs="增加体力上限{0}点" cht="增加體力上限{0}点" en="" jp="" kr="" /> 
+    <item id="20017" statuscode="-1" chs="宠物定型剂" cht="寵物定型劑" en="" jp="" kr="" /> 
+    <item id="20018" statuscode="-1" chs="变更宠物外形，技能伤害值不受影响" cht="變更寵物外形，技能傷害值不受影響" en="" jp="" kr="" /> 
+    <item id="20019" statuscode="-1" chs="加步数" cht="加步數" en="" jp="" kr="" /> 
+    <item id="20020" statuscode="-1" chs="增加闯关步数{0}步" cht="增加闖關步數{0}步" en="" jp="" kr="" /> 
+    <item id="20021" statuscode="-1" chs="减少血量" cht="减少血量" en="" jp="" kr="" /> 
+    <item id="20022" statuscode="-1" chs="减少怪物血量{0}%" cht="减少怪物血量{0}%" en="" jp="" kr="" /> 
+    <item id="20023" statuscode="-1" chs="轻松解锁" cht="輕鬆解鎖" en="" jp="" kr="" /> 
+    <item id="20024" statuscode="-1" chs="减少闯关目标量{0}%" cht="減少闖關目標量{0}%" en="" jp="" kr="" /> 
+    <item id="20025" statuscode="-1" chs="得分up" cht="得分up" en="" jp="" kr="" /> 
+    <item id="20026" statuscode="-1" chs="闯关总分增加{0}%" cht="闖關總分增加{0}%" en="" jp="" kr="" /> 
+    <item id="20027" statuscode="-1" chs="奖励up" cht="獎勵up" en="" jp="" kr="" /> 
+    <item id="20028" statuscode="-1" chs="闯关奖励增加{0}%" cht="闖關獎勵增加{0}%" en="" jp="" kr="" /> 
+    <item id="20029" statuscode="-1" chs="攻击up" cht="攻擊up" en="" jp="" kr="" /> 
+    <item id="20030" statuscode="-1" chs="增加本场出战宠物攻击{0}%" cht="增加本場出戰寵物攻擊{0}%" en="" jp="" kr="" /> 
+    <item id="20031" statuscode="-1" chs="拳套" cht="拳套" en="" jp="" kr="" /> 
+    <item id="20032" statuscode="-1" chs="破坏{0}格可消除的物体" cht="破壞{0}格可消除的物體" en="" jp="" kr="" /> 
+    <item id="20033" statuscode="-1" chs="击剑" cht="擊劍" en="" jp="" kr="" /> 
+    <item id="20034" statuscode="-1" chs="消除任意同颜色的消除物" cht="消除任意同顏色的消除物" en="" jp="" kr="" /> 
+    <item id="20035" statuscode="-1" chs="魔棒" cht="魔棒" en="" jp="" kr="" /> 
+    <item id="20036" statuscode="-1" chs="将同色系消除物排列至一起" cht="將同色系消除物排列至一起" en="" jp="" kr="" /> 
+    <item id="20037" statuscode="-1" chs="冷卻" cht="冷卻" en="" jp="" kr="" /> 
+    <item id="20038" statuscode="-1" chs="下回合触发释放宠物技能" cht="下回合觸發釋放寵物技能" en="" jp="" kr="" /> 
+    <item id="20039" statuscode="-1" chs="金币" cht="金幣" en="" jp="" kr="" /> 
+    <item id="20040" statuscode="-1" chs="#2#用于购买被动道具" cht="#2#用於購買被動道具" en="" jp="" kr="" /> 
+    <item id="20041" statuscode="-1" chs="&lt;color=#c0fce5&gt;&lt;size=40&gt;您已成功购买&lt;/size&gt;&lt;/color&gt;\r\n&lt;color=#48fd77&gt;&lt;size=34&gt;{0}x{1}&lt;/size&gt;&lt;/color&gt;" cht="&lt;color=#c0fce5&gt;&lt;size=40&gt;您已成功購買&lt;/size&gt;&lt;/color&gt;\r\n&lt;color=#48fd77&gt;&lt;size=34&gt;{0}x{1}&lt;/size&gt;&lt;/color&gt;" en="" jp="" kr="" /> 
+    <item id="20042" statuscode="-1" chs="钻石不足，是否充值？" cht="鑽石不足，是否儲值？" en="" jp="" kr="" /> 
+    <item id="20043" statuscode="-1" chs="充值" cht="儲值" en="" jp="" kr="" /> 
+    <item id="20044" statuscode="-1" chs="道具" cht="道具" en="" jp="" kr="" /> 
+    <item id="20045" statuscode="-1" chs="套装" cht="套装" en="" jp="" kr="" /> 
+    <item id="20046" statuscode="-1" chs="商城" cht="商城" en="" jp="" kr="" /> 
+    <item id="20047" statuscode="-1" chs="金币不足，是否充值？" cht="金幣不足，是否儲值？" en="" jp="" kr="" /> 
+    <item id="20048" statuscode="-1" chs="购买" cht="購買" en="" jp="" kr="" /> 
+
+</root>

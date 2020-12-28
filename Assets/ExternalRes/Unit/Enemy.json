@@ -1,0 +1,130 @@
+{
+	"settings":[
+		{"Animation":"Idle", "LoopTime":true},
+		{"Animation":"Shock", "LoopTime":true},
+		{"Animation":"Weak_Idle", "LoopTime":true}
+	],
+	"events":[
+		{"Animation":"Attack", "Function":"OnEvent", "Parameter":"Attack", "FrameIndex":22, "FrameCount":60},
+		{"Animation":"Weak_Attack", "Function":"OnEvent", "Parameter":"Weak_Attack", "FrameIndex":16, "FrameCount":60}
+	],
+	"parameters":[
+		{"Name":"TriggerHit", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerAttack", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerIdle", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerDie", "Type":"Trigger", "Value":false},
+		{"Name":"IsComboAttack", "Type":"Boolean", "Value":false},
+		{"Name":"TriggerWeakIdle", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerWeakHit", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerWeakDie", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerWeakAttack", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerShock", "Type":"Trigger", "Value":false}
+	],
+	"controllers":[
+		{"From":"Idle", "To":"Attack", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerAttack", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Attack", "To":"Idle", "HasExitTime":true, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[]
+		},
+		{"From":"Idle", "To":"Hit", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerHit", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Hit", "To":"Idle", "HasExitTime":true, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"IsComboAttack", "Mode":"IfNot", "Threshold":0},
+				{"Parameter":"TriggerIdle", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle", "To":"Shock", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerShock", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Shock", "To":"Idle", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerIdle", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Shock", "To":"Hit", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerHit", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Shock", "To":"Weak_Hit", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWeakHit", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Hit", "To":"Weak_Idle", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWeakIdle", "Mode":"If", "Threshold":0},
+				{"Parameter":"IsComboAttack", "Mode":"IfNot", "Threshold":0}
+			]
+		},
+		{"From":"Hit", "To":"Hit", "HasExitTime":true, "ExitTime":0.1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"IsComboAttack", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Hit", "To":"Die", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerDie", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Die", "To":"Exit", "HasExitTime":true, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[]
+		},
+		{"From":"Weak_Idle", "To":"Weak_Hit", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWeakHit", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Weak_Hit", "To":"Weak_Idle", "HasExitTime":true, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWeakIdle", "Mode":"If", "Threshold":0},
+				{"Parameter":"IsComboAttack", "Mode":"IfNot", "Threshold":0}
+			]
+		},
+		{"From":"Weak_Idle", "To":"Weak_Attack", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWeakAttack", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Weak_Attack", "To":"Weak_Idle", "HasExitTime":true, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[]
+		},
+		{"From":"Weak_Idle", "To":"Shock", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerShock", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Shock", "To":"Weak_Idle", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWeakIdle", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Weak_Hit", "To":"Weak_Attack", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWeakAttack", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Weak_Hit", "To":"Weak_Hit", "HasExitTime":true, "ExitTime":0.1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"IsComboAttack", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Weak_Hit", "To":"Weak_Die", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWeakDie", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Weak_Die", "To":"Exit", "HasExitTime":true, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[]
+		}
+	]
+}

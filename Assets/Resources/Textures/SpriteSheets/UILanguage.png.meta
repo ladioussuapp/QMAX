@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 532d3154b5a2f394081e0338dd2691b3
+timeCreated: 1450075448
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: beibao_0000
+    21300002: shop_0001
+    21300004: shop_0002
+    21300006: shop_0003
+    21300008: shop_0004
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: beibao_0000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 132
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 33.5}
+        - {x: -66, y: -33.5}
+        - {x: -4, y: -33.5}
+        - {x: -2, y: -31.5}
+        - {x: -2, y: 33.5}
+      - - {x: 3, y: 33.5}
+        - {x: 2, y: 32.5}
+        - {x: -2, y: 19.5}
+        - {x: -2, y: -27.5}
+        - {x: -1, y: -32.5}
+        - {x: 6, y: -33.5}
+        - {x: 66, y: -33.5}
+        - {x: 66, y: 33.5}
+    - name: shop_0001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 25}
+        - {x: 1.5, y: 22}
+        - {x: 1.5, y: 10}
+        - {x: 1.5, y: 17}
+        - {x: -5.5, y: 25}
+        - {x: -48.5, y: 25}
+        - {x: -48.5, y: -25}
+        - {x: 48.5, y: -25}
+        - {x: 48.5, y: 24}
+        - {x: 45.5, y: 25}
+    - name: shop_0002
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 56
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 17}
+        - {x: -30.5, y: 15}
+        - {x: -30.5, y: -16}
+        - {x: -29.5, y: -17}
+        - {x: 30.5, y: -17}
+        - {x: 30.5, y: 17}
+    - name: shop_0003
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 92
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 17}
+        - {x: -31.5, y: -17}
+        - {x: 31.5, y: -17}
+        - {x: 31.5, y: 17}
+    - name: shop_0004
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 22
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 17.5}
+        - {x: -31, y: -16.5}
+        - {x: -30, y: -17.5}
+        - {x: 30, y: -17.5}
+        - {x: 31, y: -15.5}
+        - {x: 31, y: 15.5}
+        - {x: 28, y: 17.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

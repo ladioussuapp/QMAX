@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: a083a30e29de29a4eabd2cb22eb43c48
+timeCreated: 1437358980
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EffectLoading...A
+    21300002: EffectLoading...D
+    21300004: EffectLoading...G
+    21300006: EffectLoading...I
+    21300008: EffectLoading...L
+    21300010: EffectLoading...N
+    21300012: EffectLoading...O
+    21300014: EffectLoading...dian
+    21300016: Loading_001
+    21300018: Loading_002
+    21300020: Loading_003
+    21300022: Loading_A01
+    21300024: Loading_A02
+    21300026: Loading_A03
+    21300028: Loading_A04
+    21300030: Loading_A05
+    21300032: Loading_A06
+    21300034: Loading_A07
+    21300036: Loading_A08
+    21300038: Tip_xiongmao
+    21300040: wenli
+    21300042: zhizao
+    21300044: Tip_Bg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 256
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: Loading_A01
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 133
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -26.5}
+        - {x: -20.5, y: -29.5}
+        - {x: 23.5, y: -29.5}
+        - {x: 23.5, y: 17.5}
+        - {x: 19.5, y: 29.5}
+        - {x: -21.5, y: 29.5}
+        - {x: -23.5, y: 28.5}
+    - name: Loading_A02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 23}
+        - {x: -20.5, y: 23}
+        - {x: -24.5, y: 19}
+        - {x: -24.5, y: -22}
+        - {x: -19.5, y: -23}
+        - {x: 15.5, y: -23}
+        - {x: 22.5, y: -15}
+        - {x: 24.5, y: -11}
+        - {x: 24.5, y: 19}
+    - name: Loading_A03
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 14
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -24, y: 21}
+        - {x: -24, y: -23}
+        - {x: 21, y: -23}
+        - {x: 24, y: -21}
+        - {x: 24, y: 23}
+    - name: Loading_A04
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 194
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 30}
+        - {x: -24, y: 14}
+        - {x: -24, y: -23}
+        - {x: -16, y: -30}
+        - {x: 24, y: -30}
+        - {x: 24, y: 30}
+    - name: Loading_A05
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 192
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Loading_A06
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 14
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 23}
+        - {x: -23.5, y: -23}
+        - {x: 23.5, y: -23}
+        - {x: 23.5, y: 20}
+        - {x: 17.5, y: 23}
+    - name: Loading_A07
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 72
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 29.5}
+        - {x: -23.5, y: 22.5}
+        - {x: -23.5, y: -28.5}
+        - {x: -21.5, y: -29.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 23.5, y: -21.5}
+        - {x: 23.5, y: 26.5}
+        - {x: 22.5, y: 29.5}
+    - name: Loading_A08
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 38
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tip_xiongmao
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 163
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: 92}
+        - {x: 40.5, y: 96}
+        - {x: -37.5, y: 96}
+        - {x: -81.5, y: 65}
+        - {x: -81.5, y: -8}
+        - {x: -74.5, y: -29}
+        - {x: -67.5, y: -95}
+        - {x: -63.5, y: -96}
+        - {x: 74.5, y: -96}
+        - {x: 79.5, y: -93}
+        - {x: 81.5, y: -62}
+        - {x: 81.5, y: 72}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

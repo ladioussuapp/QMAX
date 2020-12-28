@@ -1,0 +1,1916 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: movie3
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .188481405, y: 1.22500038, z: 1}
+        inSlope: {x: 2.39933586, y: -.250000954, z: 0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: .366666675
+        value: {x: .188481405, y: 1.22500038, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: .0246170815, y: -.216693252, z: 0}
+        tangentMode: 0
+      - time: .433333337
+        value: {x: .428415, y: 1.20000029, z: 1}
+        inSlope: {x: 7.66853189, y: -.305433333, z: 0}
+        outSlope: {x: 7.66853189, y: -.443974525, z: 0}
+        tangentMode: 0
+      - time: .5
+        value: {x: 1.29093027, y: .646284223, z: 1}
+        inSlope: {x: .0960728899, y: -.0406089202, z: 0}
+        outSlope: {x: .00749820331, y: .0186406001, z: 0}
+        tangentMode: 0
+      - time: .566666663
+        value: {x: .78932476, y: 1.63465989, z: 1}
+        inSlope: {x: -.0154873934, y: -.00358537771, z: 0}
+        outSlope: {x: -.079013817, y: .00508325547, z: 0}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: 1.31312168, y: .768375993, z: 1}
+        inSlope: {x: .0618541762, y: -.0689729303, z: 0}
+        outSlope: {x: .000628545124, y: .0452397466, z: 0}
+        tangentMode: 0
+      - time: .766666651
+        value: {x: 1.14610302, y: 1.0889827, z: 1}
+        inSlope: {x: -.00198407541, y: .0827399939, z: 0}
+        outSlope: {x: -.0786543712, y: .076231651, z: 0}
+        tangentMode: 0
+      - time: .866666675
+        value: {x: 1.15729523, y: .985604346, z: 1}
+        inSlope: {x: .0245017447, y: -.0455744229, z: 0}
+        outSlope: {x: -.0279383212, y: -.115324952, z: 0}
+        tangentMode: 0
+      - time: .933333337
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -2.7667942, y: -.0370228179, z: 0}
+        outSlope: {x: -2.35942864, y: .215934828, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: movie3/GameObject/Panda (1)
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -.231917426, y: -.231917426, z: -.231917426}
+        outSlope: {x: -.231917426, y: -.231917426, z: -.231917426}
+        tangentMode: 0
+      - time: .699999988
+        value: {x: .837657809, y: .837657809, z: .837657809}
+        inSlope: {x: .0122061595, y: .0122061595, z: .0122061595}
+        outSlope: {x: .0122061595, y: .0122061595, z: .0122061595}
+        tangentMode: 0
+      - time: 1.33333337
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: .256329745, y: .256329745, z: .256329745}
+        outSlope: {x: .256329745, y: .256329745, z: .256329745}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: movie3/GameObject/Panda (2)
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 276
+        inSlope: -6860
+        outSlope: -0
+        tangentMode: 17
+      - time: .366666675
+        value: 276
+        inSlope: 0
+        outSlope: -9812.05176
+        tangentMode: 5
+      - time: .433333337
+        value: -410
+        inSlope: -2545.79346
+        outSlope: -2478.32031
+        tangentMode: 1
+      - time: .5
+        value: -482
+        inSlope: 15.9128122
+        outSlope: -18.5256691
+        tangentMode: 1
+      - time: .566666663
+        value: -427
+        inSlope: 166.612274
+        outSlope: 161.058609
+        tangentMode: 1
+      - time: .666666687
+        value: -412
+        inSlope: 115.132057
+        outSlope: 114.351967
+        tangentMode: 1
+      - time: .766666651
+        value: -389
+        inSlope: 43.0926514
+        outSlope: 29.1078968
+        tangentMode: 1
+      - time: .866666675
+        value: -398
+        inSlope: -126.001633
+        outSlope: -67.4999924
+        tangentMode: 1
+      - time: .933333337
+        value: -373
+        inSlope: -45.0000038
+        outSlope: -45.0000038
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/Panda (1)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .466666669
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: movie3/GameObject/GameObject
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: movie3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .300000012
+        value: 0
+        inSlope: 0
+        outSlope: 2.99999976
+        tangentMode: 5
+      - time: .400000006
+        value: 1
+        inSlope: 10.000001
+        outSlope: 10.000001
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/Panda (1)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.r
+    path: movie3/GameObject/GameObject (1)/BG (1)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.g
+    path: movie3/GameObject/GameObject (1)/BG (1)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.b
+    path: movie3/GameObject/GameObject (1)/BG (1)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 188
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 188
+        inSlope: 0
+        outSlope: -188
+        tangentMode: 5
+      - time: .533333361
+        value: 0
+        inSlope: -512.727234
+        outSlope: -512.727234
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/GameObject
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -116
+        inSlope: 0
+        outSlope: 142
+        tangentMode: 5
+      - time: .533333361
+        value: 26
+        inSlope: 387.272705
+        outSlope: 387.272705
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/GameObject
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -227
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -227
+        inSlope: 0
+        outSlope: 184
+        tangentMode: 5
+      - time: .533333361
+        value: -43
+        inSlope: 501.818176
+        outSlope: 501.818176
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/GameObject (1)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -116
+        inSlope: 0
+        outSlope: 98
+        tangentMode: 5
+      - time: .533333361
+        value: -18
+        inSlope: 267.272736
+        outSlope: 267.272736
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/GameObject (1)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -10
+        inSlope: 0
+        outSlope: -597.000061
+        tangentMode: 5
+      - time: .533333361
+        value: -408
+        inSlope: -1492.49988
+        outSlope: -1492.49988
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/cLOUD
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -336
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -336
+        inSlope: 0
+        outSlope: 126.000008
+        tangentMode: 5
+      - time: .533333361
+        value: -252
+        inSlope: 314.999969
+        outSlope: 314.999969
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/cLOUD
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -19
+        inSlope: 0
+        outSlope: 598.500061
+        tangentMode: 5
+      - time: .533333361
+        value: 380
+        inSlope: 1496.24988
+        outSlope: 1496.24988
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/cLOUD1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -357
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -357
+        inSlope: 0
+        outSlope: 139.500015
+        tangentMode: 5
+      - time: .533333361
+        value: -264
+        inSlope: 348.749969
+        outSlope: 348.749969
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/cLOUD1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -255
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .600000024
+        value: -255
+        inSlope: 0
+        outSlope: 468.750031
+        tangentMode: 5
+      - time: .699999988
+        value: -159
+        inSlope: 1315
+        outSlope: 1315
+        tangentMode: 9
+      - time: .800000012
+        value: 8
+        inSlope: 674.999756
+        outSlope: 674.999756
+        tangentMode: 10
+      - time: .899999976
+        value: -24
+        inSlope: 34.9999542
+        outSlope: 34.9999542
+        tangentMode: 10
+      - time: .966666639
+        value: 2
+        inSlope: 390.000031
+        outSlope: 390.000031
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/King
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 1.50000012
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 3.74999976
+        outSlope: 3.74999976
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/cLOUD1
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 1.50000012
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 3.74999976
+        outSlope: 3.74999976
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/cLOUD
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 2.72727275
+        outSlope: 2.72727275
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/GameObject (1)/BG (4)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 2.72727275
+        outSlope: 2.72727275
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/GameObject (1)/BG (5)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 2.72727275
+        outSlope: 2.72727275
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/GameObject/BG (5)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 2.72727275
+        outSlope: 2.72727275
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/GameObject/BG (4)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 0
+        outSlope: 1.87500012
+        tangentMode: 5
+      - time: .800000012
+        value: 1
+        inSlope: 5.00000048
+        outSlope: 5.00000048
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/King
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 62
+        inSlope: -7.14285707
+        outSlope: -7.14285707
+        tangentMode: 10
+      - time: .699999988
+        value: 57
+        inSlope: 51.4285583
+        outSlope: 51.4285583
+        tangentMode: 10
+      - time: .800000012
+        value: 68
+        inSlope: 49.9999847
+        outSlope: 49.9999847
+        tangentMode: 10
+      - time: .899999976
+        value: 67
+        inSlope: 32.5
+        outSlope: 32.5
+        tangentMode: 10
+      - time: .966666639
+        value: 72
+        inSlope: 75.0000076
+        outSlope: 75.0000076
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/King
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: .789473593
+        outSlope: .789473593
+        tangentMode: 10
+      - time: 1.33333337
+        value: 1
+        inSlope: 1.57894719
+        outSlope: 1.57894719
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/Panda (2)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .699999988
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: movie3/GameObject/Panda (2)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .699999988
+        value: -189
+        inSlope: -59.9999962
+        outSlope: -59.9999962
+        tangentMode: 10
+      - time: 1.33333337
+        value: -227
+        inSlope: -59.9999962
+        outSlope: -59.9999962
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/Panda (2)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .699999988
+        value: -99
+        inSlope: 55.2631531
+        outSlope: 55.2631531
+        tangentMode: 10
+      - time: 1.33333337
+        value: -64
+        inSlope: 55.2631531
+        outSlope: 55.2631531
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/Panda (2)
+    classID: 224
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 538318409
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 188433802
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 538318409
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 678165878
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2965548192
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 538318409
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3931596803
+      attribute: 2526845255
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3931596803
+      attribute: 4215373228
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3931596803
+      attribute: 2334886179
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1570918259
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1570918259
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3093351945
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3093351945
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1603323179
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1603323179
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 792692274
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 792692274
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2238649570
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 792692274
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1603323179
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2627748327
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2243653798
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1782264335
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1931477838
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2238649570
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2238649570
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 188433802
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 188433802
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 188433802
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 188433802
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 2
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .188481405
+        inSlope: 2.39933586
+        outSlope: -0
+        tangentMode: 17
+      - time: .366666675
+        value: .188481405
+        inSlope: 0
+        outSlope: .0246170815
+        tangentMode: 5
+      - time: .433333337
+        value: .428415
+        inSlope: 7.66853189
+        outSlope: 7.66853189
+        tangentMode: 1
+      - time: .5
+        value: 1.29093027
+        inSlope: .0960728899
+        outSlope: .00749820331
+        tangentMode: 1
+      - time: .566666663
+        value: .78932476
+        inSlope: -.0154873934
+        outSlope: -.079013817
+        tangentMode: 1
+      - time: .666666687
+        value: 1.31312168
+        inSlope: .0618541762
+        outSlope: .000628545124
+        tangentMode: 1
+      - time: .766666651
+        value: 1.14610302
+        inSlope: -.00198407541
+        outSlope: -.0786543712
+        tangentMode: 1
+      - time: .866666675
+        value: 1.15729523
+        inSlope: .0245017447
+        outSlope: -.0279383212
+        tangentMode: 1
+      - time: .933333337
+        value: 1
+        inSlope: -2.7667942
+        outSlope: -2.35942864
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: movie3/GameObject/Panda (1)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.22500038
+        inSlope: -.250000954
+        outSlope: -0
+        tangentMode: 17
+      - time: .366666675
+        value: 1.22500038
+        inSlope: 0
+        outSlope: -.216693252
+        tangentMode: 5
+      - time: .433333337
+        value: 1.20000029
+        inSlope: -.305433333
+        outSlope: -.443974525
+        tangentMode: 1
+      - time: .5
+        value: .646284223
+        inSlope: -.0406089202
+        outSlope: .0186406001
+        tangentMode: 1
+      - time: .566666663
+        value: 1.63465989
+        inSlope: -.00358537771
+        outSlope: .00508325547
+        tangentMode: 1
+      - time: .666666687
+        value: .768375993
+        inSlope: -.0689729303
+        outSlope: .0452397466
+        tangentMode: 1
+      - time: .766666651
+        value: 1.0889827
+        inSlope: .0827399939
+        outSlope: .076231651
+        tangentMode: 1
+      - time: .866666675
+        value: .985604346
+        inSlope: -.0455744229
+        outSlope: -.115324952
+        tangentMode: 1
+      - time: .933333337
+        value: 1
+        inSlope: -.0370228179
+        outSlope: .215934828
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: movie3/GameObject/Panda (1)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 17
+      - time: .366666675
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 5
+      - time: .433333337
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .566666663
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .666666687
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .766666651
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .866666675
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .933333337
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: movie3/GameObject/Panda (1)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 276
+        inSlope: -6860
+        outSlope: -0
+        tangentMode: 17
+      - time: .366666675
+        value: 276
+        inSlope: 0
+        outSlope: -9812.05176
+        tangentMode: 5
+      - time: .433333337
+        value: -410
+        inSlope: -2545.79346
+        outSlope: -2478.32031
+        tangentMode: 1
+      - time: .5
+        value: -482
+        inSlope: 15.9128122
+        outSlope: -18.5256691
+        tangentMode: 1
+      - time: .566666663
+        value: -427
+        inSlope: 166.612274
+        outSlope: 161.058609
+        tangentMode: 1
+      - time: .666666687
+        value: -412
+        inSlope: 115.132057
+        outSlope: 114.351967
+        tangentMode: 1
+      - time: .766666651
+        value: -389
+        inSlope: 43.0926514
+        outSlope: 29.1078968
+        tangentMode: 1
+      - time: .866666675
+        value: -398
+        inSlope: -126.001633
+        outSlope: -67.4999924
+        tangentMode: 1
+      - time: .933333337
+        value: -373
+        inSlope: -45.0000038
+        outSlope: -45.0000038
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/Panda (1)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .466666669
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: movie3/GameObject/GameObject
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: movie3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .300000012
+        value: 0
+        inSlope: 0
+        outSlope: 2.99999976
+        tangentMode: 5
+      - time: .400000006
+        value: 1
+        inSlope: 10.000001
+        outSlope: 10.000001
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/Panda (1)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.r
+    path: movie3/GameObject/GameObject (1)/BG (1)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.g
+    path: movie3/GameObject/GameObject (1)/BG (1)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      - time: .166666672
+        value: 1
+        inSlope: 6
+        outSlope: 6
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.b
+    path: movie3/GameObject/GameObject (1)/BG (1)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 188
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 188
+        inSlope: 0
+        outSlope: -188
+        tangentMode: 5
+      - time: .533333361
+        value: 0
+        inSlope: -512.727234
+        outSlope: -512.727234
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/GameObject
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -116
+        inSlope: 0
+        outSlope: 142
+        tangentMode: 5
+      - time: .533333361
+        value: 26
+        inSlope: 387.272705
+        outSlope: 387.272705
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/GameObject
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -227
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -227
+        inSlope: 0
+        outSlope: 184
+        tangentMode: 5
+      - time: .533333361
+        value: -43
+        inSlope: 501.818176
+        outSlope: 501.818176
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/GameObject (1)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -116
+        inSlope: 0
+        outSlope: 98
+        tangentMode: 5
+      - time: .533333361
+        value: -18
+        inSlope: 267.272736
+        outSlope: 267.272736
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/GameObject (1)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -10
+        inSlope: 0
+        outSlope: -597.000061
+        tangentMode: 5
+      - time: .533333361
+        value: -408
+        inSlope: -1492.49988
+        outSlope: -1492.49988
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/cLOUD
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -336
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -336
+        inSlope: 0
+        outSlope: 126.000008
+        tangentMode: 5
+      - time: .533333361
+        value: -252
+        inSlope: 314.999969
+        outSlope: 314.999969
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/cLOUD
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -19
+        inSlope: 0
+        outSlope: 598.500061
+        tangentMode: 5
+      - time: .533333361
+        value: 380
+        inSlope: 1496.24988
+        outSlope: 1496.24988
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/cLOUD1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -357
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: -357
+        inSlope: 0
+        outSlope: 139.500015
+        tangentMode: 5
+      - time: .533333361
+        value: -264
+        inSlope: 348.749969
+        outSlope: 348.749969
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/cLOUD1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -255
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .600000024
+        value: -255
+        inSlope: 0
+        outSlope: 468.750031
+        tangentMode: 5
+      - time: .699999988
+        value: -159
+        inSlope: 1315
+        outSlope: 1315
+        tangentMode: 9
+      - time: .800000012
+        value: 8
+        inSlope: 674.999756
+        outSlope: 674.999756
+        tangentMode: 10
+      - time: .899999976
+        value: -24
+        inSlope: 34.9999542
+        outSlope: 34.9999542
+        tangentMode: 10
+      - time: .966666639
+        value: 2
+        inSlope: 390.000031
+        outSlope: 390.000031
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/GameObject (1)/King
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 1.50000012
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 3.74999976
+        outSlope: 3.74999976
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/cLOUD1
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .266666681
+        value: 0
+        inSlope: 0
+        outSlope: 1.50000012
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 3.74999976
+        outSlope: 3.74999976
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/cLOUD
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 2.72727275
+        outSlope: 2.72727275
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/GameObject (1)/BG (4)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 2.72727275
+        outSlope: 2.72727275
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/GameObject (1)/BG (5)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 2.72727275
+        outSlope: 2.72727275
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/GameObject/BG (5)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 5
+      - time: .533333361
+        value: 1
+        inSlope: 2.72727275
+        outSlope: 2.72727275
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/GameObject/BG (4)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 0
+        outSlope: 1.87500012
+        tangentMode: 5
+      - time: .800000012
+        value: 1
+        inSlope: 5.00000048
+        outSlope: 5.00000048
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/GameObject (1)/King
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 62
+        inSlope: -7.14285707
+        outSlope: -7.14285707
+        tangentMode: 10
+      - time: .699999988
+        value: 57
+        inSlope: 51.4285583
+        outSlope: 51.4285583
+        tangentMode: 10
+      - time: .800000012
+        value: 68
+        inSlope: 49.9999847
+        outSlope: 49.9999847
+        tangentMode: 10
+      - time: .899999976
+        value: 67
+        inSlope: 32.5
+        outSlope: 32.5
+        tangentMode: 10
+      - time: .966666639
+        value: 72
+        inSlope: 75.0000076
+        outSlope: 75.0000076
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/GameObject (1)/King
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .699999988
+        value: 0
+        inSlope: .789473593
+        outSlope: .789473593
+        tangentMode: 10
+      - time: 1.33333337
+        value: 1
+        inSlope: 1.57894719
+        outSlope: 1.57894719
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: movie3/GameObject/Panda (2)
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .699999988
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: movie3/GameObject/Panda (2)
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .699999988
+        value: -189
+        inSlope: -59.9999962
+        outSlope: -59.9999962
+        tangentMode: 10
+      - time: 1.33333337
+        value: -227
+        inSlope: -59.9999962
+        outSlope: -59.9999962
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: movie3/GameObject/Panda (2)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: .699999988
+        value: -99
+        inSlope: 55.2631531
+        outSlope: 55.2631531
+        tangentMode: 10
+      - time: 1.33333337
+        value: -64
+        inSlope: 55.2631531
+        outSlope: 55.2631531
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: movie3/GameObject/Panda (2)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.231917426
+        outSlope: -.231917426
+        tangentMode: 10
+      - time: .699999988
+        value: .837657809
+        inSlope: .0122061595
+        outSlope: .0122061595
+        tangentMode: 10
+      - time: 1.33333337
+        value: 1
+        inSlope: .256329745
+        outSlope: .256329745
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: movie3/GameObject/Panda (2)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.231917426
+        outSlope: -.231917426
+        tangentMode: 10
+      - time: .699999988
+        value: .837657809
+        inSlope: .0122061595
+        outSlope: .0122061595
+        tangentMode: 10
+      - time: 1.33333337
+        value: 1
+        inSlope: .256329745
+        outSlope: .256329745
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: movie3/GameObject/Panda (2)
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.231917426
+        outSlope: -.231917426
+        tangentMode: 10
+      - time: .699999988
+        value: .837657809
+        inSlope: .0122061595
+        outSlope: .0122061595
+        tangentMode: 10
+      - time: 1.33333337
+        value: 1
+        inSlope: .256329745
+        outSlope: .256329745
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: movie3/GameObject/Panda (2)
+    classID: 224
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events:
+  - time: 2
+    functionName: MovieAnimEnd
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 3
+    messageOptions: 0

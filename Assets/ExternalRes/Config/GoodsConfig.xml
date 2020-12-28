@@ -1,0 +1,41 @@
+<root>
+    <!-- 
+    id:道具编号
+    sortId:排序编号
+    goodsStringId:名称字符串编号
+    goodsContentId:描述字符串编号
+    goodsType:道具类型
+    subType:道具子类型
+    usable:是否使用
+    arg0:参数0
+    arg1:参数1
+    arg2:参数2
+    goodsIcon:图片资源路径
+    eliminateAnim:消除特效路径
+    goodsTipsGif:道具提示路径
+    -->
+    <item id="1" sortId="1" goodsStringId="20001" goodsContentId="20002" goodsType="0" subType="0" usable="1" arg0="35000,500,50,1" arg1="0" arg2="0" goodsIcon="SuitLittle" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="2" sortId="2" goodsStringId="20003" goodsContentId="20004" goodsType="0" subType="0" usable="1" arg0="43750,1250,125,2" arg1="0" arg2="0" goodsIcon="SuitMore" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="3" sortId="3" goodsStringId="20005" goodsContentId="20006" goodsType="0" subType="0" usable="1" arg0="87500,2500,250,5" arg1="0" arg2="0" goodsIcon="SuitSome" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="21" sortId="4" goodsStringId="20007" goodsContentId="20008" goodsType="0" subType="0" usable="1" arg0="5,5,3,3" arg1="0" arg2="0" goodsIcon="MatLittle" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="22" sortId="5" goodsStringId="20009" goodsContentId="20010" goodsType="0" subType="0" usable="1" arg0="6,6,5,5" arg1="0" arg2="0" goodsIcon="MatMore" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="23" sortId="6" goodsStringId="20011" goodsContentId="20012" goodsType="0" subType="0" usable="1" arg0="8,8,9,9" arg1="0" arg2="0" goodsIcon="MatSome" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="41" sortId="7" goodsStringId="20013" goodsContentId="20014" goodsType="1" subType="1" usable="1" arg0="5" arg1="0" arg2="0" goodsIcon="EnergyA" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="42" sortId="8" goodsStringId="20015" goodsContentId="20016" goodsType="1" subType="2" usable="1" arg0="3" arg1="0" arg2="0" goodsIcon="EnergyB" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="51" sortId="9" goodsStringId="20017" goodsContentId="20018" goodsType="3" subType="0" usable="0" arg0="0" arg1="0" arg2="0" goodsIcon="EnergyC" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="101" sortId="10" goodsStringId="20019" goodsContentId="20020" goodsType="2" subType="3" usable="0" arg0="5" arg1="0" arg2="0" goodsIcon="MoveUp" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="102" sortId="11" goodsStringId="20021" goodsContentId="20022" goodsType="2" subType="3" usable="0" arg0="20" arg1="0" arg2="0" goodsIcon="HpDown" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="103" sortId="12" goodsStringId="20023" goodsContentId="20024" goodsType="2" subType="3" usable="0" arg0="15" arg1="0" arg2="0" goodsIcon="CollectDown" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="104" sortId="13" goodsStringId="20025" goodsContentId="20026" goodsType="2" subType="3" usable="0" arg0="15" arg1="0" arg2="0" goodsIcon="GoalUp" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="105" sortId="14" goodsStringId="20027" goodsContentId="20028" goodsType="2" subType="3" usable="0" arg0="50" arg1="0" arg2="0" goodsIcon="GiftUp" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="106" sortId="15" goodsStringId="20029" goodsContentId="20030" goodsType="2" subType="3" usable="0" arg0="15" arg1="0" arg2="0" goodsIcon="AttackUp" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="201" sortId="16" goodsStringId="20031" goodsContentId="20032" goodsType="2" subType="4" usable="0" arg0="1" arg1="0" arg2="0" goodsIcon="Goods_1" eliminateAnim="" goodsTipsGif="TipsQuanTao" /> 
+    <item id="202" sortId="17" goodsStringId="20033" goodsContentId="20034" goodsType="2" subType="4" usable="0" arg0="0" arg1="0" arg2="0" goodsIcon="Goods_2" eliminateAnim="" goodsTipsGif="TipsjiJian" /> 
+    <item id="203" sortId="18" goodsStringId="20035" goodsContentId="20036" goodsType="2" subType="4" usable="0" arg0="0" arg1="0" arg2="0" goodsIcon="Goods_3" eliminateAnim="" goodsTipsGif="TipsMoBang" /> 
+    <item id="204" sortId="19" goodsStringId="20037" goodsContentId="20038" goodsType="2" subType="4" usable="0" arg0="0" arg1="0" arg2="0" goodsIcon="Goods_4" eliminateAnim="" goodsTipsGif="TipsCool" /> 
+    <item id="301" sortId="-1" goodsStringId="20039" goodsContentId="20040" goodsType="3" subType="0" usable="0" arg0="1" arg1="0" arg2="0" goodsIcon="GoldLittle" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="302" sortId="-1" goodsStringId="1501" goodsContentId="1514" goodsType="4" subType="0" usable="0" arg0="1" arg1="0" arg2="0" goodsIcon="Icon2" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="303" sortId="-1" goodsStringId="1510" goodsContentId="1514" goodsType="5" subType="0" usable="0" arg0="1" arg1="0" arg2="0" goodsIcon="UpgradeA_b" eliminateAnim="" goodsTipsGif="" /> 
+    <item id="304" sortId="-1" goodsStringId="1503" goodsContentId="1518" goodsType="6" subType="0" usable="0" arg0="1" arg1="0" arg2="0" goodsIcon="UpgradeB_b" eliminateAnim="" goodsTipsGif="" /> 
+
+</root>

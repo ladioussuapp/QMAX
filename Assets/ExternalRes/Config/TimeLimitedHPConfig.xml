@@ -1,0 +1,64 @@
+<root>
+    <!-- 
+    id:标示
+    level:大树等级
+    hp:血量
+    hp_total:累积血量
+    UpgradeA:获得橘子
+    UpgradeB:获得桃子
+    Gem:获得钻石
+    key:获得剪刀
+    lvupA:升级用橘子
+    lvupB:升级用桃子
+    -->
+    <item id="1" level="1" hp="630" hp_total="630" UpgradeA="20" UpgradeB="0" Gem="0" key="0" lvupA="0" lvupB="0" /> 
+    <item id="2" level="1" hp="630" hp_total="1260" UpgradeA="30" UpgradeB="0" Gem="0" key="0" lvupA="0" lvupB="0" /> 
+    <item id="3" level="1" hp="735" hp_total="1995" UpgradeA="30" UpgradeB="0" Gem="1" key="0" lvupA="0" lvupB="0" /> 
+    <item id="4" level="1" hp="735" hp_total="2730" UpgradeA="40" UpgradeB="0" Gem="0" key="0" lvupA="0" lvupB="0" /> 
+    <item id="5" level="1" hp="840" hp_total="3570" UpgradeA="40" UpgradeB="0" Gem="0" key="0" lvupA="0" lvupB="0" /> 
+    <item id="6" level="1" hp="840" hp_total="4410" UpgradeA="50" UpgradeB="0" Gem="1" key="0" lvupA="0" lvupB="0" /> 
+    <item id="7" level="1" hp="945" hp_total="5355" UpgradeA="50" UpgradeB="0" Gem="0" key="0" lvupA="0" lvupB="0" /> 
+    <item id="8" level="1" hp="945" hp_total="6300" UpgradeA="50" UpgradeB="0" Gem="0" key="0" lvupA="0" lvupB="0" /> 
+    <item id="9" level="1" hp="1050" hp_total="7350" UpgradeA="60" UpgradeB="0" Gem="1" key="0" lvupA="0" lvupB="0" /> 
+    <item id="10" level="1" hp="1050" hp_total="8400" UpgradeA="60" UpgradeB="10" Gem="0" key="0" lvupA="0" lvupB="0" /> 
+    <item id="11" level="2" hp="1125" hp_total="9525" UpgradeA="170" UpgradeB="10" Gem="0" key="0" lvupA="500" lvupB="50" /> 
+    <item id="12" level="3" hp="1200" hp_total="10725" UpgradeA="170" UpgradeB="10" Gem="1" key="0" lvupA="900" lvupB="100" /> 
+    <item id="13" level="4" hp="1274" hp_total="11999" UpgradeA="170" UpgradeB="20" Gem="0" key="0" lvupA="1400" lvupB="150" /> 
+    <item id="14" level="5" hp="1350" hp_total="13349" UpgradeA="200" UpgradeB="20" Gem="0" key="0" lvupA="1900" lvupB="250" /> 
+    <item id="15" level="6" hp="1426" hp_total="14775" UpgradeA="210" UpgradeB="20" Gem="1" key="0" lvupA="2500" lvupB="300" /> 
+    <item id="16" level="7" hp="1500" hp_total="16275" UpgradeA="210" UpgradeB="20" Gem="0" key="0" lvupA="3000" lvupB="400" /> 
+    <item id="17" level="8" hp="1575" hp_total="17850" UpgradeA="210" UpgradeB="20" Gem="0" key="0" lvupA="3700" lvupB="500" /> 
+    <item id="18" level="9" hp="1625" hp_total="19475" UpgradeA="210" UpgradeB="20" Gem="1" key="0" lvupA="4300" lvupB="600" /> 
+    <item id="19" level="10" hp="1738" hp_total="21213" UpgradeA="210" UpgradeB="30" Gem="0" key="0" lvupA="5000" lvupB="700" /> 
+    <item id="20" level="11" hp="1838" hp_total="23051" UpgradeA="210" UpgradeB="30" Gem="0" key="0" lvupA="5700" lvupB="800" /> 
+    <item id="21" level="12" hp="2038" hp_total="25089" UpgradeA="230" UpgradeB="30" Gem="1" key="0" lvupA="6500" lvupB="950" /> 
+    <item id="22" level="13" hp="2175" hp_total="27264" UpgradeA="230" UpgradeB="30" Gem="0" key="0" lvupA="7300" lvupB="1050" /> 
+    <item id="23" level="14" hp="2275" hp_total="29539" UpgradeA="230" UpgradeB="40" Gem="0" key="0" lvupA="8000" lvupB="1200" /> 
+    <item id="24" level="15" hp="2412" hp_total="31951" UpgradeA="230" UpgradeB="40" Gem="1" key="0" lvupA="8900" lvupB="1350" /> 
+    <item id="25" level="16" hp="2512" hp_total="34463" UpgradeA="230" UpgradeB="60" Gem="0" key="0" lvupA="9700" lvupB="1450" /> 
+    <item id="26" level="17" hp="2650" hp_total="37113" UpgradeA="230" UpgradeB="60" Gem="0" key="0" lvupA="10600" lvupB="1600" /> 
+    <item id="27" level="18" hp="2750" hp_total="39863" UpgradeA="430" UpgradeB="90" Gem="1" key="0" lvupA="11400" lvupB="1750" /> 
+    <item id="28" level="19" hp="2888" hp_total="42751" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="12300" lvupB="1900" /> 
+    <item id="29" level="20" hp="2988" hp_total="45739" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="13300" lvupB="2100" /> 
+    <item id="30" level="21" hp="3125" hp_total="48864" UpgradeA="660" UpgradeB="170" Gem="1" key="0" lvupA="14200" lvupB="2250" /> 
+    <item id="31" level="22" hp="3225" hp_total="52089" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="15200" lvupB="2400" /> 
+    <item id="32" level="23" hp="3362" hp_total="55451" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="16100" lvupB="2600" /> 
+    <item id="33" level="24" hp="3462" hp_total="58913" UpgradeA="660" UpgradeB="170" Gem="1" key="0" lvupA="17100" lvupB="2750" /> 
+    <item id="34" level="25" hp="3600" hp_total="62513" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="18100" lvupB="2950" /> 
+    <item id="35" level="26" hp="3700" hp_total="66213" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="19100" lvupB="3100" /> 
+    <item id="36" level="27" hp="3838" hp_total="70051" UpgradeA="660" UpgradeB="170" Gem="1" key="0" lvupA="20200" lvupB="3300" /> 
+    <item id="37" level="28" hp="3938" hp_total="73989" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="21200" lvupB="3500" /> 
+    <item id="38" level="29" hp="4075" hp_total="78064" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="22300" lvupB="3700" /> 
+    <item id="39" level="30" hp="4175" hp_total="82239" UpgradeA="660" UpgradeB="170" Gem="1" key="0" lvupA="23400" lvupB="3900" /> 
+    <item id="40" level="31" hp="4312" hp_total="86551" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="24500" lvupB="4100" /> 
+    <item id="41" level="32" hp="4412" hp_total="90963" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="25600" lvupB="4300" /> 
+    <item id="42" level="33" hp="4550" hp_total="95513" UpgradeA="660" UpgradeB="170" Gem="1" key="0" lvupA="26700" lvupB="4500" /> 
+    <item id="43" level="34" hp="4650" hp_total="100163" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="27900" lvupB="4750" /> 
+    <item id="44" level="35" hp="4788" hp_total="104951" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="29000" lvupB="4950" /> 
+    <item id="45" level="36" hp="5025" hp_total="109976" UpgradeA="660" UpgradeB="170" Gem="1" key="0" lvupA="30200" lvupB="5150" /> 
+    <item id="46" level="37" hp="5262" hp_total="115238" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="31400" lvupB="5400" /> 
+    <item id="47" level="38" hp="5500" hp_total="120738" UpgradeA="660" UpgradeB="170" Gem="0" key="0" lvupA="32600" lvupB="5600" /> 
+    <item id="48" level="39" hp="5738" hp_total="126476" UpgradeA="660" UpgradeB="170" Gem="1" key="0" lvupA="33800" lvupB="5850" /> 
+    <item id="49" level="40" hp="6250" hp_total="132726" UpgradeA="660" UpgradeB="170" Gem="1" key="0" lvupA="35000" lvupB="6100" /> 
+
+</root>

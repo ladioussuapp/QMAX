@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: d26c398be2d2fc5438a8b3d39e59750c
+timeCreated: 1450775430
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIDialog_001
+    21300002: UIDialog_002
+    21300004: UIDialog_003
+    21300006: UIDialog_004
+    21300008: UIDialog_005
+    21300010: UIDialog_006
+    21300012: UIDialog_007
+    21300014: UIDialog_008
+    21300016: UIDialog_009
+    21300018: UIDialog_010
+    21300020: UIDialog_011
+    21300022: UIDialog_012
+    21300024: UIDialog_013
+    21300026: UIDialog_014
+    21300028: UIDialog_015
+    21300030: UIDialog_020
+    21300032: UIDialog_021
+    21300034: UIDialog_022
+    21300036: UIDialog_023
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: 47
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: 4
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: UIDialog_001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 322
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 185, y: 0, z: 132, w: 0}
+    - name: UIDialog_013
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 456
+        width: 171
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIDialog_020
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 381
+        width: 167
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIDialog_021
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 306
+        width: 167
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIDialog_022
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 284
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIDialog_023
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 264
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

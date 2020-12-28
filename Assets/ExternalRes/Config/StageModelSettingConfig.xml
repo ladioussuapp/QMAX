@@ -1,0 +1,23 @@
+<root>
+    <!-- 
+    mapId:地圖id
+    mapModel:地圖
+    levelRange:地圖關卡
+    skyTexture:背景貼圖
+    -->
+    <item mapId="1" mapModel="Chapter2Model2Prefab" levelRange="1,2,3,4,5,6,7,8,9,10001" skyTexture="MapSky1" /> 
+    <item mapId="2" mapModel="Chapter2Model1Prefab" levelRange="10,11,12,13,14,15,16,17,18,19,20,21,22,23,10002,10003,10004" skyTexture="MapSky1" /> 
+    <item mapId="3" mapModel="Chapter3Model1Prefab" levelRange="24,25,26,27,28,29,30,31,32,33,10005" skyTexture="MapSky3" /> 
+    <item mapId="4" mapModel="Chapter3Model2Prefab" levelRange="34,35,36,37,38,39,40,41,42,43,10006" skyTexture="MapSky3" /> 
+    <item mapId="5" mapModel="Chapter1Model2Prefab" levelRange="44,45,46,47,48,49,50,51,52,53,54" skyTexture="MapSky2" /> 
+    <item mapId="6" mapModel="Chapter1Model1Prefab" levelRange="55,56,57,58,59,60,61,62,63,10007" skyTexture="MapSky2" /> 
+    <item mapId="7" mapModel="Chapter4Model1Prefab" levelRange="64,65,66,67,68,69,70,71,72,73,74,10008" skyTexture="MapSky2" /> 
+    <item mapId="8" mapModel="Chapter4Model2Prefab" levelRange="75,76,77,78,79,80,81,82,83,84" skyTexture="MapSky2" /> 
+    <item mapId="9" mapModel="Chapter5Model1Prefab" levelRange="85,86,87,88,89,90,91,92,93,10009" skyTexture="MapSky5" /> 
+    <item mapId="10" mapModel="Chapter5Model2Prefab" levelRange="94,95,96,97,98,99,100,101,102,103,10010" skyTexture="MapSky5" /> 
+    <item mapId="11" mapModel="Chapter5Model3Prefab" levelRange="104,105,106,107,108,109,110,111,112,113,114,115,116,117" skyTexture="MapSky5" /> 
+    <item mapId="12" mapModel="Chapter5Model4Prefab" levelRange="118,119,120,121,122,123,124" skyTexture="MapSky5" /> 
+    <item mapId="13" mapModel="Chapter6Model1Prefab" levelRange="125,126,127,128,129,130,131,132,133,134,135" skyTexture="MapSky5" /> 
+    <item mapId="14" mapModel="Chapter6Model2Prefab" levelRange="136,137,138,139,140" skyTexture="MapSky5" /> 
+
+</root>

@@ -1,0 +1,7943 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Goal1
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item1/NumText
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item1/ImgIcon
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item2/ImgIcon
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item2/NumText
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item3/ImgIcon
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item3/NumText
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item4/NumText
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item4/ImgIcon
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: .0289547388, y: .0289546922, z: .0289546922}
+        outSlope: {x: .0289547388, y: .0289546922, z: .0289546922}
+        tangentMode: 0
+      - time: 2.61666656
+        value: {x: 1.07576489, y: 1.07576478, z: 1.07576478}
+        inSlope: {x: .151276991, y: .151276961, z: .151276961}
+        outSlope: {x: .151276991, y: .151276961, z: .151276961}
+        tangentMode: 0
+      - time: 2.7166667
+        value: {x: 1.10312486, y: 1.10312474, z: 1.10312474}
+        inSlope: {x: -2.36607528, y: -2.36607456, z: -2.36607456}
+        outSlope: {x: -2.36607528, y: -2.36607456, z: -2.36607456}
+        tangentMode: 0
+      - time: 2.76666665
+        value: {x: .852837622, y: .852837563, z: .852837563}
+        inSlope: {x: -2.69062567, y: -2.69062495, z: -2.69062495}
+        outSlope: {x: -2.69062567, y: -2.69062495, z: -2.69062495}
+        tangentMode: 0
+      - time: 2.9000001
+        value: {x: .802770674, y: .802770615, z: .802770615}
+        inSlope: {x: -1.03752112, y: -1.03752112, z: -1.03752112}
+        outSlope: {x: -1.03752112, y: -1.03752112, z: -1.03752112}
+        tangentMode: 0
+      - time: 3.0666666
+        value: {x: .519514203, y: .519514143, z: .519514143}
+        inSlope: {x: -1.6995405, y: -1.6995405, z: -1.6995405}
+        outSlope: {x: -1.6995405, y: -1.6995405, z: -1.6995405}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/CloneIcon1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: .0742873773, y: .074287422, z: .074287422}
+        outSlope: {x: .017669186, y: .0176692288, z: .0176692288}
+        tangentMode: 0
+      - time: 2.76666665
+        value: {x: 1.04888475, y: 1.04888487, z: 1.04888487}
+        inSlope: {x: .017669186, y: .0176692288, z: .0176692288}
+        outSlope: {x: .402241141, y: .402239949, z: .402239949}
+        tangentMode: 0
+      - time: 2.86666656
+        value: {x: 1.08910882, y: 1.08910882, z: 1.08910882}
+        inSlope: {x: .402241141, y: .402239949, z: .402239949}
+        outSlope: {x: -3.53422356, y: -3.53422356, z: -3.53422356}
+        tangentMode: 0
+      - time: 2.91666675
+        value: {x: .912396967, y: .912396967, z: .912396967}
+        inSlope: {x: -3.53422356, y: -3.53422356, z: -3.53422356}
+        outSlope: {x: -1.54648721, y: -1.54648626, z: -1.54648626}
+        tangentMode: 0
+      - time: 3.04999995
+        value: {x: .706198871, y: .70619899, z: .70619899}
+        inSlope: {x: -1.54648721, y: -1.54648626, z: -1.54648626}
+        outSlope: {x: -1.09392095, y: -1.0939213, z: -1.0939213}
+        tangentMode: 0
+      - time: 3.2166667
+        value: {x: .523878634, y: .523878694, z: .523878694}
+        inSlope: {x: -1.09392095, y: -1.0939213, z: -1.0939213}
+        outSlope: {x: -3.91468072, y: -3.9146812, z: -3.9146812}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/CloneIcon2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: .0489148386, y: .0489148386, z: .0489148386}
+        outSlope: {x: .0108117647, y: .0108118057, z: .0108118057}
+        tangentMode: 0
+      - time: 2.91666675
+        value: {x: 1.03153431, y: 1.03153443, z: 1.03153443}
+        inSlope: {x: .0108117647, y: .0108118057, z: .0108118057}
+        outSlope: {x: -.346443981, y: -.346448153, z: -.346448153}
+        tangentMode: 0
+      - time: 3.01666665
+        value: {x: .996889949, y: .996889651, z: .996889651}
+        inSlope: {x: -.346443981, y: -.346448153, z: -.346448153}
+        outSlope: {x: -3.69749784, y: -3.69749308, z: -3.69749308}
+        tangentMode: 0
+      - time: 3.0666666
+        value: {x: .812015235, y: .812015176, z: .812015176}
+        inSlope: {x: -3.69749784, y: -3.69749308, z: -3.69749308}
+        outSlope: {x: -.307115793, y: -.307115793, z: -.307115793}
+        tangentMode: 0
+      - time: 3.20000005
+        value: {x: .771066427, y: .771066368, z: .771066368}
+        inSlope: {x: -.307115793, y: -.307115793, z: -.307115793}
+        outSlope: {x: -1.52020741, y: -1.52020705, z: -1.52020705}
+        tangentMode: 0
+      - time: 3.36666656
+        value: {x: .517698765, y: .517698765, z: .517698765}
+        inSlope: {x: -1.52020741, y: -1.52020705, z: -1.52020705}
+        outSlope: {x: -4.48013449, y: -4.48013401, z: -4.48013401}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/CloneIcon3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: .0112872021, y: .0112871248, z: .0112871248}
+        outSlope: {x: .0112872021, y: .0112871248, z: .0112871248}
+        tangentMode: 0
+      - time: 3.0666666
+        value: {x: 1.03461409, y: 1.03461385, z: 1.03461385}
+        inSlope: {x: -.193471983, y: -.19347322, z: -.19347322}
+        outSlope: {x: -.193471983, y: -.19347322, z: -.19347322}
+        tangentMode: 0
+      - time: 3.16666675
+        value: {x: .994790912, y: .994790435, z: .994790435}
+        inSlope: {x: -1.48027098, y: -1.48026919, z: -1.48026919}
+        outSlope: {x: -1.48027098, y: -1.48026919, z: -1.48026919}
+        tangentMode: 0
+      - time: 3.2166667
+        value: {x: .866675496, y: .866675317, z: .866675317}
+        inSlope: {x: -1.65315711, y: -1.6531539, z: -1.6531539}
+        outSlope: {x: -1.65315711, y: -1.6531539, z: -1.6531539}
+        tangentMode: 0
+      - time: 3.3499999
+        value: {x: .767475128, y: .767475009, z: .767475009}
+        inSlope: {x: -1.13825572, y: -1.13825536, z: -1.13825536}
+        outSlope: {x: -1.13825572, y: -1.13825536, z: -1.13825536}
+        tangentMode: 0
+      - time: 3.51666665
+        value: {x: .512057006, y: .512056947, z: .512056947}
+        inSlope: {x: -1.53250802, y: -1.53250766, z: -1.53250766}
+        outSlope: {x: -1.53250802, y: -1.53250766, z: -1.53250766}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/CloneIcon4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: 2.5666666
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: .89999944, y: .89999944, z: .89999944}
+        tangentMode: 0
+      - time: 2.73333335
+        value: {x: 1.14999998, y: 1.14999998, z: 1.14999998}
+        inSlope: {x: .89999944, y: .89999944, z: .89999944}
+        outSlope: {x: -5.66666269, y: -5.66666269, z: -5.66666269}
+        tangentMode: 0
+      - time: 2.88333344
+        value: {x: .300000012, y: .300000012, z: .300000012}
+        inSlope: {x: -5.66666269, y: -5.66666269, z: -5.66666269}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: 2.76666665
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: .89999944, y: .89999944, z: .89999944}
+        tangentMode: 0
+      - time: 2.9333334
+        value: {x: 1.14999998, y: 1.14999998, z: 1.14999998}
+        inSlope: {x: .89999944, y: .89999944, z: .89999944}
+        outSlope: {x: -5.66667175, y: -5.66667175, z: -5.66667175}
+        tangentMode: 0
+      - time: 3.08333325
+        value: {x: .300000012, y: .300000012, z: .300000012}
+        inSlope: {x: -5.66667175, y: -5.66667175, z: -5.66667175}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: 2.91666675
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: .900000691, y: .900000691, z: .900000691}
+        tangentMode: 0
+      - time: 3.08333325
+        value: {x: 1.14999998, y: 1.14999998, z: 1.14999998}
+        inSlope: {x: .900000691, y: .900000691, z: .900000691}
+        outSlope: {x: -5.66666269, y: -5.66666269, z: -5.66666269}
+        tangentMode: 0
+      - time: 3.23333335
+        value: {x: .300000012, y: .300000012, z: .300000012}
+        inSlope: {x: -5.66666269, y: -5.66666269, z: -5.66666269}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: 3.08333325
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: .89999944, y: .89999944, z: .89999944}
+        tangentMode: 0
+      - time: 3.25
+        value: {x: 1.14999998, y: 1.14999998, z: 1.14999998}
+        inSlope: {x: .89999944, y: .89999944, z: .89999944}
+        outSlope: {x: -5.66666269, y: -5.66666269, z: -5.66666269}
+        tangentMode: 0
+      - time: 3.4000001
+        value: {x: .300000012, y: .300000012, z: .300000012}
+        inSlope: {x: -5.66666269, y: -5.66666269, z: -5.66666269}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: UiGoalTip/List/Item4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3.0666666
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        outSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        tangentMode: 0
+      - time: 3.11666656
+        value: {x: 1.20000005, y: 1.20000005, z: 1.20000005}
+        inSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        outSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        tangentMode: 0
+      - time: 3.16666675
+        value: {x: .899999976, y: .899999976, z: .899999976}
+        inSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        outSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        tangentMode: 0
+      - time: 3.2166667
+        value: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
+        inSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        outSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        tangentMode: 0
+      - time: 3.26666665
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        outSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: DynamicLayer/Goal/goal/ImgGoal1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3.0666666
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        outSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        tangentMode: 0
+      - time: 3.11666656
+        value: {x: 1.20000005, y: 1.20000005, z: 1.20000005}
+        inSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        outSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        tangentMode: 0
+      - time: 3.16666675
+        value: {x: .899999976, y: .899999976, z: .899999976}
+        inSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        outSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        tangentMode: 0
+      - time: 3.2166667
+        value: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
+        inSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        outSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        tangentMode: 0
+      - time: 3.26666665
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        outSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: DynamicLayer/Text/text/TxtGoal1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3.23333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        outSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        tangentMode: 0
+      - time: 3.2833333
+        value: {x: 1.20000005, y: 1.20000005, z: 1.20000005}
+        inSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        outSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        tangentMode: 0
+      - time: 3.33333325
+        value: {x: .899999976, y: .899999976, z: .899999976}
+        inSlope: {x: -1.00001073, y: -1.00001073, z: -1.00001073}
+        outSlope: {x: -1.00001073, y: -1.00001073, z: -1.00001073}
+        tangentMode: 0
+      - time: 3.38333344
+        value: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
+        inSlope: {x: .999991655, y: .999991655, z: .999991655}
+        outSlope: {x: .999991655, y: .999991655, z: .999991655}
+        tangentMode: 0
+      - time: 3.4333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        outSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: DynamicLayer/Text/text (1)/TxtGoal2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3.23333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        outSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        tangentMode: 0
+      - time: 3.2833333
+        value: {x: 1.20000005, y: 1.20000005, z: 1.20000005}
+        inSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        outSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        tangentMode: 0
+      - time: 3.33333325
+        value: {x: .899999976, y: .899999976, z: .899999976}
+        inSlope: {x: -1.00001073, y: -1.00001073, z: -1.00001073}
+        outSlope: {x: -1.00001073, y: -1.00001073, z: -1.00001073}
+        tangentMode: 0
+      - time: 3.38333344
+        value: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
+        inSlope: {x: .999991655, y: .999991655, z: .999991655}
+        outSlope: {x: .999991655, y: .999991655, z: .999991655}
+        tangentMode: 0
+      - time: 3.4333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        outSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: DynamicLayer/Goal/goal (1)/ImgGoal2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3.38333344
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        outSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        tangentMode: 0
+      - time: 3.4333334
+        value: {x: 1.20000005, y: 1.20000005, z: 1.20000005}
+        inSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        outSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        tangentMode: 0
+      - time: 3.48333335
+        value: {x: .899999976, y: .899999976, z: .899999976}
+        inSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        outSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        tangentMode: 0
+      - time: 3.5333333
+        value: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
+        inSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        outSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        tangentMode: 0
+      - time: 3.58333325
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        outSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: DynamicLayer/Text/text (2)/TxtGoal3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3.38333344
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        outSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        tangentMode: 0
+      - time: 3.4333334
+        value: {x: 1.20000005, y: 1.20000005, z: 1.20000005}
+        inSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        outSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        tangentMode: 0
+      - time: 3.48333335
+        value: {x: .899999976, y: .899999976, z: .899999976}
+        inSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        outSlope: {x: -1.00000119, y: -1.00000119, z: -1.00000119}
+        tangentMode: 0
+      - time: 3.5333333
+        value: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
+        inSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        outSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        tangentMode: 0
+      - time: 3.58333325
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        outSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: DynamicLayer/Goal/goal (2)/ImgGoal3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3.5333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        outSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        tangentMode: 0
+      - time: 3.58333325
+        value: {x: 1.20000005, y: 1.20000005, z: 1.20000005}
+        inSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        outSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        tangentMode: 0
+      - time: 3.63333344
+        value: {x: .899999976, y: .899999976, z: .899999976}
+        inSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        outSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        tangentMode: 0
+      - time: 3.6833334
+        value: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
+        inSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        outSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        tangentMode: 0
+      - time: 3.73333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        outSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: DynamicLayer/Goal/goal (3)/ImgGoal4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3.5333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        outSlope: {x: 2.00000238, y: 2.00000238, z: 2.00000238}
+        tangentMode: 0
+      - time: 3.58333325
+        value: {x: 1.20000005, y: 1.20000005, z: 1.20000005}
+        inSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        outSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        tangentMode: 0
+      - time: 3.63333344
+        value: {x: .899999976, y: .899999976, z: .899999976}
+        inSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        outSlope: {x: -.999986887, y: -.999986887, z: -.999986887}
+        tangentMode: 0
+      - time: 3.6833334
+        value: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
+        inSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        outSlope: {x: 1.00000119, y: 1.00000119, z: 1.00000119}
+        tangentMode: 0
+      - time: 3.73333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        outSlope: {x: -2.00000238, y: -2.00000238, z: -2.00000238}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: DynamicLayer/Text/text (3)/TxtGoal4
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.08333325
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.4000001
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 54
+        inSlope: -26.8831177
+        outSlope: -26.8831177
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 54
+        inSlope: -116.883118
+        outSlope: -116.883118
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 54
+        inSlope: -71.2987061
+        outSlope: -71.2987061
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 54
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.08333325
+        value: 54
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 582
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 903
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .116666667
+        value: 547.470459
+        inSlope: -8322.11816
+        outSlope: -8322.11816
+        tangentMode: 10
+      - time: .200000003
+        value: -247
+        inSlope: -64.4749451
+        outSlope: -65.454689
+        tangentMode: 1
+      - time: .400000006
+        value: -229
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 7
+      - time: 2.5666666
+        value: -229
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 7
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .0666666701
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.9000001
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 709
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .0833333358
+        value: 903.538025
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .316666663
+        value: -112
+        inSlope: -7.37031841
+        outSlope: .0643534809
+        tangentMode: 1
+      - time: .466666669
+        value: -81
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: 2.76666665
+        value: -81
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 842
+        inSlope: 0
+        outSlope: Infinity
+        tangentMode: 1
+      - time: .0500000007
+        value: 903
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .200000003
+        value: 571.158569
+        inSlope: -2907.25513
+        outSlope: -2907.25513
+        tangentMode: 1
+      - time: .300000012
+        value: 29
+        inSlope: 3.11774468
+        outSlope: -11.2060509
+        tangentMode: 1
+      - time: .5
+        value: 66.9414062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: 2.91666675
+        value: 66.9414062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 967
+        inSlope: 0
+        outSlope: -10.5691099
+        tangentMode: 1
+      - time: .0666666701
+        value: 905.310486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .283333331
+        value: 539.440613
+        inSlope: -2397.54468
+        outSlope: -2397.54468
+        tangentMode: 1
+      - time: .400000006
+        value: 170
+        inSlope: -8.41631317
+        outSlope: -3.7185514
+        tangentMode: 1
+      - time: .616666675
+        value: 208
+        inSlope: -3.50181413
+        outSlope: -0
+        tangentMode: 1
+      - time: 3.08333325
+        value: 208
+        inSlope: -3.50181413
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 10
+        inSlope: -2.11055279
+        outSlope: Infinity
+        tangentMode: 25
+      - time: 3.3166666
+        value: 10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 23.0555553
+        outSlope: 23.0555553
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 22.2222214
+        outSlope: 22.2222214
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 20
+        outSlope: 20
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 20
+        outSlope: 20
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 20
+        outSlope: 20
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 20
+        outSlope: 20
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0500000007
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: SliderPlayerHp/Fill Area/Fill
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -2.38418579e-06
+        outSlope: -2.38418579e-06
+        tangentMode: 10
+      - time: .0500000007
+        value: -1.1920929e-07
+        inSlope: -1.05963818e-06
+        outSlope: -1.05963818e-06
+        tangentMode: 10
+      - time: .5
+        value: 0
+        inSlope: 2.64909545e-07
+        outSlope: 2.64909545e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: SliderPlayerHp/Fill Area/Fill
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item1/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item1/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item1/NumText
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.61666656
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item1/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item2/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item2/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5999999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.86666656
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: EnemyInfo/ImageText/Char0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5999999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.86666656
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: EnemyInfo/ImageText/Char0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5999999
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.86666656
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9000001
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: EnemyInfo/ImageText/Char0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -50
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5999999
+        value: -50
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.86666656
+        value: -50
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9000001
+        value: -50
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: EnemyInfo/ImageText/Char0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.76666665
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item2/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item2/NumText
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item3/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item3/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -82
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item3/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -154
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item3/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item3/NumText
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.91666675
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item3/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item4/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item4/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -154
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item4/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -82
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item4/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item4/NumText
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.7833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.06683326
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item4/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.61666656
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.08333325
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/CloneIcon1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.76666665
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/CloneIcon2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.91666675
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.38333344
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/CloneIcon3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.5333333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/CloneIcon4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6
+        inSlope: -66.2337646
+        outSlope: 1.95652175
+        tangentMode: 21
+      - time: 3.0666666
+        value: 12
+        inSlope: 1.95652175
+        outSlope: -2549.99634
+        tangentMode: 21
+      - time: 3.16666675
+        value: -243
+        inSlope: -2549.99634
+        outSlope: 1400.00134
+        tangentMode: 21
+      - time: 3.2166667
+        value: -173
+        inSlope: 1400.00134
+        outSlope: -292.500275
+        tangentMode: 21
+      - time: 3.3499999
+        value: -212
+        inSlope: -292.500275
+        outSlope: 1061.99951
+        tangentMode: 21
+      - time: 3.51666665
+        value: -35
+        inSlope: 1061.99951
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -106
+        inSlope: -7.40259743
+        outSlope: 105.652176
+        tangentMode: 21
+      - time: 3.0666666
+        value: 218
+        inSlope: 105.652176
+        outSlope: 1429.99792
+        tangentMode: 21
+      - time: 3.16666675
+        value: 361
+        inSlope: 1429.99792
+        outSlope: 1505.45593
+        tangentMode: 21
+      - time: 3.3499999
+        value: 637
+        inSlope: 1505.45593
+        outSlope: 107.999947
+        tangentMode: 21
+      - time: 3.51666665
+        value: 655
+        inSlope: 107.999947
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -106
+        inSlope: -6.23376656
+        outSlope: 63.0857124
+        tangentMode: 21
+      - time: 2.91666675
+        value: 78
+        inSlope: 63.0857124
+        outSlope: 1420.00134
+        tangentMode: 21
+      - time: 3.01666665
+        value: 220
+        inSlope: 1420.00134
+        outSlope: 1647.27222
+        tangentMode: 21
+      - time: 3.20000005
+        value: 522
+        inSlope: 1647.27222
+        outSlope: 228.000214
+        tangentMode: 21
+      - time: 3.36666656
+        value: 560
+        inSlope: 228.000214
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6
+        inSlope: -19.4805202
+        outSlope: 1.37142849
+        tangentMode: 21
+      - time: 2.91666675
+        value: 10
+        inSlope: 1.37142849
+        outSlope: -2540.00244
+        tangentMode: 21
+      - time: 3.01666665
+        value: -244
+        inSlope: -2540.00244
+        outSlope: 1000.00098
+        tangentMode: 21
+      - time: 3.0666666
+        value: -194
+        inSlope: 1000.00098
+        outSlope: -307.499756
+        tangentMode: 21
+      - time: 3.20000005
+        value: -235
+        inSlope: -307.499756
+        outSlope: 1212.0011
+        tangentMode: 21
+      - time: 3.36666656
+        value: -33
+        inSlope: 1212.0011
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6
+        inSlope: 26.1038971
+        outSlope: 1.80722892
+        tangentMode: 21
+      - time: 2.76666665
+        value: 11
+        inSlope: 1.80722892
+        outSlope: -2570.00244
+        tangentMode: 21
+      - time: 2.86666656
+        value: -246
+        inSlope: -2570.00244
+        outSlope: 1059.99597
+        tangentMode: 21
+      - time: 2.91666675
+        value: -193
+        inSlope: 1059.99597
+        outSlope: -112.500107
+        tangentMode: 21
+      - time: 3.04999995
+        value: -208
+        inSlope: -112.500107
+        outSlope: 1043.99951
+        tangentMode: 21
+      - time: 3.2166667
+        value: -34
+        inSlope: 1043.99951
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -106
+        inSlope: -6.23376656
+        outSlope: 13.3734941
+        tangentMode: 21
+      - time: 2.76666665
+        value: -69
+        inSlope: 13.3734941
+        outSlope: 1420.00134
+        tangentMode: 21
+      - time: 2.86666656
+        value: 73
+        inSlope: 1420.00134
+        outSlope: 1849.09021
+        tangentMode: 21
+      - time: 3.04999995
+        value: 412
+        inSlope: 1849.09021
+        outSlope: 299.999847
+        tangentMode: 21
+      - time: 3.2166667
+        value: 462
+        inSlope: 299.999847
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6
+        inSlope: 69.3506546
+        outSlope: .382165611
+        tangentMode: 21
+      - time: 2.61666656
+        value: 7
+        inSlope: .382165611
+        outSlope: -2599.99634
+        tangentMode: 21
+      - time: 2.7166667
+        value: -253
+        inSlope: -2599.99634
+        outSlope: 1080.00098
+        tangentMode: 21
+      - time: 2.76666665
+        value: -199
+        inSlope: 1080.00098
+        outSlope: 74.999939
+        tangentMode: 21
+      - time: 2.9000001
+        value: -189
+        inSlope: 74.999939
+        outSlope: 918.000854
+        tangentMode: 21
+      - time: 3.0666666
+        value: -36
+        inSlope: 918.000854
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -106
+        inSlope: -7.40259743
+        outSlope: -42.4203835
+        tangentMode: 21
+      - time: 2.61666656
+        value: -217
+        inSlope: -42.4203835
+        outSlope: 1399.99805
+        tangentMode: 21
+      - time: 2.7166667
+        value: -77
+        inSlope: 1399.99805
+        outSlope: 2400.0022
+        tangentMode: 21
+      - time: 2.76666665
+        value: 43
+        inSlope: 2400.0022
+        outSlope: 1964.99841
+        tangentMode: 21
+      - time: 2.9000001
+        value: 305
+        inSlope: 1964.99841
+        outSlope: 354.000336
+        tangentMode: 21
+      - time: 3.0666666
+        value: 364
+        inSlope: 354.000336
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.61666656
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470459
+        tangentMode: 21
+      - time: 2.9000001
+        value: 0
+        inSlope: -1.76470459
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.x
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.61666656
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470459
+        tangentMode: 21
+      - time: 2.9000001
+        value: 1
+        inSlope: 1.76470459
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.61666656
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470459
+        tangentMode: 21
+      - time: 2.9000001
+        value: 0
+        inSlope: -1.76470459
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.61666656
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470459
+        tangentMode: 21
+      - time: 2.9000001
+        value: 1
+        inSlope: 1.76470459
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.04999995
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.x
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.04999995
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.04999995
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.04999995
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.20000005
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.x
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.20000005
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.20000005
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.20000005
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.0666666
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.3499999
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.x
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.0666666
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.3499999
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.0666666
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.3499999
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.0666666
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.3499999
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -82
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item1/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -82
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item2/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -154
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item2/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -154
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item1/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.5333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Goal/goal (3)/ImgGoal4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.38333344
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Text/text (2)/TxtGoal3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.5333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Text/text (3)/TxtGoal4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Text/text/TxtGoal1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Text/text (1)/TxtGoal2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Goal/goal (1)/ImgGoal2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.38333344
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Goal/goal (2)/ImgGoal3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Goal/goal/ImgGoal1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: LeftCorner/leftIcon/Slider/Fill Area/Fill
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: LeftCorner/leftIcon/Slider/Fill Area/Fill
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -86.4000015
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 27.2000008
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.x
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 27.2000008
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.61666656
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioBound1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.76666665
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioBound2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.91666675
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioBound3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioBound4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioArrive1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioArrive2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.38333344
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioArrive3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.5333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioArrive4
+    classID: 1
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 1822276309
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4120177519
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2190728185
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 485969498
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2047661002
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3808789104
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2483204838
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 174466885
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2448543355
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2188184913
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 295039942
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3257682331
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4285572433
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 751378188
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1931695471
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2694508338
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2483204838
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3808789104
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 174466885
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2047661002
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2483204838
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3808789104
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2047661002
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2047661002
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3808789104
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2483204838
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 174466885
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3131040986
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3808789104
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3808789104
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2483204838
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2483204838
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 174466885
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 174466885
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3173274831
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1679631342
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1519389483
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1662859246
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1569726251
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1256917864
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1952850861
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 780822177
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 268914276
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1822276309
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4120177519
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2190728185
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 485969498
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 485969498
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 485969498
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2190728185
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2190728185
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4120177519
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4120177519
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1822276309
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1822276309
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1822276309
+      attribute: 2089119715
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1822276309
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1822276309
+      attribute: 2711263438
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1822276309
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4120177519
+      attribute: 2089119715
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4120177519
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4120177519
+      attribute: 2711263438
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4120177519
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2190728185
+      attribute: 2089119715
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2190728185
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2190728185
+      attribute: 2711263438
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2190728185
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 485969498
+      attribute: 2089119715
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 485969498
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 485969498
+      attribute: 2711263438
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 485969498
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1931695471
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4285572433
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2694508338
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2188184913
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 295039942
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3257682331
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 751378188
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2448543355
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3166283311
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 632354709
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1387775747
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3436401312
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1217620855
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3516545741
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2795309659
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 955883512
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1679631342
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1519389483
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1662859246
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1569726251
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1952850861
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1256917864
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 780822177
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 268914276
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 174466885
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3173274831
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2047661002
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2047661002
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1679631342
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1519389483
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1662859246
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1569726251
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1917146494
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1917146494
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1917146494
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1917146494
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1952850861
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1256917864
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1952850861
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1256917864
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 780822177
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 268914276
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 780822177
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 268914276
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1519389483
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1662859246
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2047661002
+      attribute: 38095219
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3808789104
+      attribute: 38095219
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2483204838
+      attribute: 38095219
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 174466885
+      attribute: 38095219
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1569726251
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1679631342
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1809858795
+      attribute: 2711263438
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1809858795
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1268675895
+      attribute: 193093493
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1268675895
+      attribute: 3600656472
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1268675895
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1268675895
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1268675895
+      attribute: 1967290853
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1268675895
+      attribute: 38095219
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 3.73333335
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.08333325
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.4000001
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 54
+        inSlope: -26.8831177
+        outSlope: -26.8831177
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 54
+        inSlope: -116.883118
+        outSlope: -116.883118
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 54
+        inSlope: -71.2987061
+        outSlope: -71.2987061
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 54
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.08333325
+        value: 54
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 582
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0666666701
+        value: 903
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .116666667
+        value: 547.470459
+        inSlope: -8322.11816
+        outSlope: -8322.11816
+        tangentMode: 10
+      - time: .200000003
+        value: -247
+        inSlope: -64.4749451
+        outSlope: -65.454689
+        tangentMode: 1
+      - time: .400000006
+        value: -229
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 7
+      - time: 2.5666666
+        value: -229
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 7
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .0666666701
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.9000001
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 709
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .0833333358
+        value: 903.538025
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .316666663
+        value: -112
+        inSlope: -7.37031841
+        outSlope: .0643534809
+        tangentMode: 1
+      - time: .466666669
+        value: -81
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: 2.76666665
+        value: -81
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 842
+        inSlope: 0
+        outSlope: Infinity
+        tangentMode: 1
+      - time: .0500000007
+        value: 903
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .200000003
+        value: 571.158569
+        inSlope: -2907.25513
+        outSlope: -2907.25513
+        tangentMode: 1
+      - time: .300000012
+        value: 29
+        inSlope: 3.11774468
+        outSlope: -11.2060509
+        tangentMode: 1
+      - time: .5
+        value: 66.9414062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: 2.91666675
+        value: 66.9414062
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 967
+        inSlope: 0
+        outSlope: -10.5691099
+        tangentMode: 1
+      - time: .0666666701
+        value: 905.310486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .283333331
+        value: 539.440613
+        inSlope: -2397.54468
+        outSlope: -2397.54468
+        tangentMode: 1
+      - time: .400000006
+        value: 170
+        inSlope: -8.41631317
+        outSlope: -3.7185514
+        tangentMode: 1
+      - time: .616666675
+        value: 208
+        inSlope: -3.50181413
+        outSlope: -0
+        tangentMode: 1
+      - time: 3.08333325
+        value: 208
+        inSlope: -3.50181413
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 10
+        inSlope: -2.11055279
+        outSlope: Infinity
+        tangentMode: 25
+      - time: 3.3166666
+        value: 10
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 23.0555553
+        outSlope: 23.0555553
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 22.2222214
+        outSlope: 22.2222214
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 20
+        outSlope: 20
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 20
+        outSlope: 20
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 20
+        outSlope: 20
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 20
+        outSlope: 20
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .0500000007
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: SliderPlayerHp/Fill Area/Fill
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -2.38418579e-06
+        outSlope: -2.38418579e-06
+        tangentMode: 10
+      - time: .0500000007
+        value: -1.1920929e-07
+        inSlope: -1.05963818e-06
+        outSlope: -1.05963818e-06
+        tangentMode: 10
+      - time: .5
+        value: 0
+        inSlope: 2.64909545e-07
+        outSlope: 2.64909545e-07
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: SliderPlayerHp/Fill Area/Fill
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item1/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item1/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item1/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item1/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item1/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item1/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item1/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item1/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item1/NumText
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.61666656
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item1/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item2/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item2/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item2/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item2/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item2/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item2/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item2/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item2/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5999999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.86666656
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: EnemyInfo/ImageText/Char0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5999999
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.86666656
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9000001
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: EnemyInfo/ImageText/Char0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5999999
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.86666656
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9000001
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: EnemyInfo/ImageText/Char0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -50
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.5999999
+        value: -50
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.86666656
+        value: -50
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.9000001
+        value: -50
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: EnemyInfo/ImageText/Char0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.76666665
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item2/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item2/NumText
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item3/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item3/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item3/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item3/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item3/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item3/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item3/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item3/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -82
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item3/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -154
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item3/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item3/NumText
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.91666675
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item3/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item4/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item4/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item4/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item4/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item4/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item4/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item4/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/List/Item4/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -154
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item4/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -82
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item4/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item4/NumText
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.7833333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.06683326
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/List/Item4/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.61666656
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.08333325
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/CloneIcon1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.76666665
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/CloneIcon2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.91666675
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.38333344
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/CloneIcon3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.5333333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: UiGoalTip/CloneIcon4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6
+        inSlope: -66.2337646
+        outSlope: 1.95652175
+        tangentMode: 21
+      - time: 3.0666666
+        value: 12
+        inSlope: 1.95652175
+        outSlope: -2549.99634
+        tangentMode: 21
+      - time: 3.16666675
+        value: -243
+        inSlope: -2549.99634
+        outSlope: 1400.00134
+        tangentMode: 21
+      - time: 3.2166667
+        value: -173
+        inSlope: 1400.00134
+        outSlope: -292.500275
+        tangentMode: 21
+      - time: 3.3499999
+        value: -212
+        inSlope: -292.500275
+        outSlope: 1061.99951
+        tangentMode: 21
+      - time: 3.51666665
+        value: -35
+        inSlope: 1061.99951
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -106
+        inSlope: -7.40259743
+        outSlope: 105.652176
+        tangentMode: 21
+      - time: 3.0666666
+        value: 218
+        inSlope: 105.652176
+        outSlope: 1429.99792
+        tangentMode: 21
+      - time: 3.16666675
+        value: 361
+        inSlope: 1429.99792
+        outSlope: 1505.45593
+        tangentMode: 21
+      - time: 3.3499999
+        value: 637
+        inSlope: 1505.45593
+        outSlope: 107.999947
+        tangentMode: 21
+      - time: 3.51666665
+        value: 655
+        inSlope: 107.999947
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -106
+        inSlope: -6.23376656
+        outSlope: 63.0857124
+        tangentMode: 21
+      - time: 2.91666675
+        value: 78
+        inSlope: 63.0857124
+        outSlope: 1420.00134
+        tangentMode: 21
+      - time: 3.01666665
+        value: 220
+        inSlope: 1420.00134
+        outSlope: 1647.27222
+        tangentMode: 21
+      - time: 3.20000005
+        value: 522
+        inSlope: 1647.27222
+        outSlope: 228.000214
+        tangentMode: 21
+      - time: 3.36666656
+        value: 560
+        inSlope: 228.000214
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6
+        inSlope: -19.4805202
+        outSlope: 1.37142849
+        tangentMode: 21
+      - time: 2.91666675
+        value: 10
+        inSlope: 1.37142849
+        outSlope: -2540.00244
+        tangentMode: 21
+      - time: 3.01666665
+        value: -244
+        inSlope: -2540.00244
+        outSlope: 1000.00098
+        tangentMode: 21
+      - time: 3.0666666
+        value: -194
+        inSlope: 1000.00098
+        outSlope: -307.499756
+        tangentMode: 21
+      - time: 3.20000005
+        value: -235
+        inSlope: -307.499756
+        outSlope: 1212.0011
+        tangentMode: 21
+      - time: 3.36666656
+        value: -33
+        inSlope: 1212.0011
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6
+        inSlope: 26.1038971
+        outSlope: 1.80722892
+        tangentMode: 21
+      - time: 2.76666665
+        value: 11
+        inSlope: 1.80722892
+        outSlope: -2570.00244
+        tangentMode: 21
+      - time: 2.86666656
+        value: -246
+        inSlope: -2570.00244
+        outSlope: 1059.99597
+        tangentMode: 21
+      - time: 2.91666675
+        value: -193
+        inSlope: 1059.99597
+        outSlope: -112.500107
+        tangentMode: 21
+      - time: 3.04999995
+        value: -208
+        inSlope: -112.500107
+        outSlope: 1043.99951
+        tangentMode: 21
+      - time: 3.2166667
+        value: -34
+        inSlope: 1043.99951
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -106
+        inSlope: -6.23376656
+        outSlope: 13.3734941
+        tangentMode: 21
+      - time: 2.76666665
+        value: -69
+        inSlope: 13.3734941
+        outSlope: 1420.00134
+        tangentMode: 21
+      - time: 2.86666656
+        value: 73
+        inSlope: 1420.00134
+        outSlope: 1849.09021
+        tangentMode: 21
+      - time: 3.04999995
+        value: 412
+        inSlope: 1849.09021
+        outSlope: 299.999847
+        tangentMode: 21
+      - time: 3.2166667
+        value: 462
+        inSlope: 299.999847
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 6
+        inSlope: 69.3506546
+        outSlope: .382165611
+        tangentMode: 21
+      - time: 2.61666656
+        value: 7
+        inSlope: .382165611
+        outSlope: -2599.99634
+        tangentMode: 21
+      - time: 2.7166667
+        value: -253
+        inSlope: -2599.99634
+        outSlope: 1080.00098
+        tangentMode: 21
+      - time: 2.76666665
+        value: -199
+        inSlope: 1080.00098
+        outSlope: 74.999939
+        tangentMode: 21
+      - time: 2.9000001
+        value: -189
+        inSlope: 74.999939
+        outSlope: 918.000854
+        tangentMode: 21
+      - time: 3.0666666
+        value: -36
+        inSlope: 918.000854
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -106
+        inSlope: -7.40259743
+        outSlope: -42.4203835
+        tangentMode: 21
+      - time: 2.61666656
+        value: -217
+        inSlope: -42.4203835
+        outSlope: 1399.99805
+        tangentMode: 21
+      - time: 2.7166667
+        value: -77
+        inSlope: 1399.99805
+        outSlope: 2400.0022
+        tangentMode: 21
+      - time: 2.76666665
+        value: 43
+        inSlope: 2400.0022
+        outSlope: 1964.99841
+        tangentMode: 21
+      - time: 2.9000001
+        value: 305
+        inSlope: 1964.99841
+        outSlope: 354.000336
+        tangentMode: 21
+      - time: 3.0666666
+        value: 364
+        inSlope: 354.000336
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0289547388
+        outSlope: .0289547388
+        tangentMode: 10
+      - time: 2.61666656
+        value: 1.07576489
+        inSlope: .151276991
+        outSlope: .151276991
+        tangentMode: 10
+      - time: 2.7166667
+        value: 1.10312486
+        inSlope: -2.36607528
+        outSlope: -2.36607528
+        tangentMode: 10
+      - time: 2.76666665
+        value: .852837622
+        inSlope: -2.69062567
+        outSlope: -2.69062567
+        tangentMode: 10
+      - time: 2.9000001
+        value: .802770674
+        inSlope: -1.03752112
+        outSlope: -1.03752112
+        tangentMode: 10
+      - time: 3.0666666
+        value: .519514203
+        inSlope: -1.6995405
+        outSlope: -1.6995405
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0289546922
+        outSlope: .0289546922
+        tangentMode: 10
+      - time: 2.61666656
+        value: 1.07576478
+        inSlope: .151276961
+        outSlope: .151276961
+        tangentMode: 10
+      - time: 2.7166667
+        value: 1.10312474
+        inSlope: -2.36607456
+        outSlope: -2.36607456
+        tangentMode: 10
+      - time: 2.76666665
+        value: .852837563
+        inSlope: -2.69062495
+        outSlope: -2.69062495
+        tangentMode: 10
+      - time: 2.9000001
+        value: .802770615
+        inSlope: -1.03752112
+        outSlope: -1.03752112
+        tangentMode: 10
+      - time: 3.0666666
+        value: .519514143
+        inSlope: -1.6995405
+        outSlope: -1.6995405
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0289546922
+        outSlope: .0289546922
+        tangentMode: 10
+      - time: 2.61666656
+        value: 1.07576478
+        inSlope: .151276961
+        outSlope: .151276961
+        tangentMode: 10
+      - time: 2.7166667
+        value: 1.10312474
+        inSlope: -2.36607456
+        outSlope: -2.36607456
+        tangentMode: 10
+      - time: 2.76666665
+        value: .852837563
+        inSlope: -2.69062495
+        outSlope: -2.69062495
+        tangentMode: 10
+      - time: 2.9000001
+        value: .802770615
+        inSlope: -1.03752112
+        outSlope: -1.03752112
+        tangentMode: 10
+      - time: 3.0666666
+        value: .519514143
+        inSlope: -1.6995405
+        outSlope: -1.6995405
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0742873773
+        outSlope: .017669186
+        tangentMode: 21
+      - time: 2.76666665
+        value: 1.04888475
+        inSlope: .017669186
+        outSlope: .402241141
+        tangentMode: 21
+      - time: 2.86666656
+        value: 1.08910882
+        inSlope: .402241141
+        outSlope: -3.53422356
+        tangentMode: 21
+      - time: 2.91666675
+        value: .912396967
+        inSlope: -3.53422356
+        outSlope: -1.54648721
+        tangentMode: 21
+      - time: 3.04999995
+        value: .706198871
+        inSlope: -1.54648721
+        outSlope: -1.09392095
+        tangentMode: 21
+      - time: 3.2166667
+        value: .523878634
+        inSlope: -1.09392095
+        outSlope: -3.91468072
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .074287422
+        outSlope: .0176692288
+        tangentMode: 21
+      - time: 2.76666665
+        value: 1.04888487
+        inSlope: .0176692288
+        outSlope: .402239949
+        tangentMode: 21
+      - time: 2.86666656
+        value: 1.08910882
+        inSlope: .402239949
+        outSlope: -3.53422356
+        tangentMode: 21
+      - time: 2.91666675
+        value: .912396967
+        inSlope: -3.53422356
+        outSlope: -1.54648626
+        tangentMode: 21
+      - time: 3.04999995
+        value: .70619899
+        inSlope: -1.54648626
+        outSlope: -1.0939213
+        tangentMode: 21
+      - time: 3.2166667
+        value: .523878694
+        inSlope: -1.0939213
+        outSlope: -3.9146812
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .074287422
+        outSlope: .0176692288
+        tangentMode: 21
+      - time: 2.76666665
+        value: 1.04888487
+        inSlope: .0176692288
+        outSlope: .402239949
+        tangentMode: 21
+      - time: 2.86666656
+        value: 1.08910882
+        inSlope: .402239949
+        outSlope: -3.53422356
+        tangentMode: 21
+      - time: 2.91666675
+        value: .912396967
+        inSlope: -3.53422356
+        outSlope: -1.54648626
+        tangentMode: 21
+      - time: 3.04999995
+        value: .70619899
+        inSlope: -1.54648626
+        outSlope: -1.0939213
+        tangentMode: 21
+      - time: 3.2166667
+        value: .523878694
+        inSlope: -1.0939213
+        outSlope: -3.9146812
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0489148386
+        outSlope: .0108117647
+        tangentMode: 21
+      - time: 2.91666675
+        value: 1.03153431
+        inSlope: .0108117647
+        outSlope: -.346443981
+        tangentMode: 21
+      - time: 3.01666665
+        value: .996889949
+        inSlope: -.346443981
+        outSlope: -3.69749784
+        tangentMode: 21
+      - time: 3.0666666
+        value: .812015235
+        inSlope: -3.69749784
+        outSlope: -.307115793
+        tangentMode: 21
+      - time: 3.20000005
+        value: .771066427
+        inSlope: -.307115793
+        outSlope: -1.52020741
+        tangentMode: 21
+      - time: 3.36666656
+        value: .517698765
+        inSlope: -1.52020741
+        outSlope: -4.48013449
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0489148386
+        outSlope: .0108118057
+        tangentMode: 21
+      - time: 2.91666675
+        value: 1.03153443
+        inSlope: .0108118057
+        outSlope: -.346448153
+        tangentMode: 21
+      - time: 3.01666665
+        value: .996889651
+        inSlope: -.346448153
+        outSlope: -3.69749308
+        tangentMode: 21
+      - time: 3.0666666
+        value: .812015176
+        inSlope: -3.69749308
+        outSlope: -.307115793
+        tangentMode: 21
+      - time: 3.20000005
+        value: .771066368
+        inSlope: -.307115793
+        outSlope: -1.52020705
+        tangentMode: 21
+      - time: 3.36666656
+        value: .517698765
+        inSlope: -1.52020705
+        outSlope: -4.48013401
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0489148386
+        outSlope: .0108118057
+        tangentMode: 21
+      - time: 2.91666675
+        value: 1.03153443
+        inSlope: .0108118057
+        outSlope: -.346448153
+        tangentMode: 21
+      - time: 3.01666665
+        value: .996889651
+        inSlope: -.346448153
+        outSlope: -3.69749308
+        tangentMode: 21
+      - time: 3.0666666
+        value: .812015176
+        inSlope: -3.69749308
+        outSlope: -.307115793
+        tangentMode: 21
+      - time: 3.20000005
+        value: .771066368
+        inSlope: -.307115793
+        outSlope: -1.52020705
+        tangentMode: 21
+      - time: 3.36666656
+        value: .517698765
+        inSlope: -1.52020705
+        outSlope: -4.48013401
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0112872021
+        outSlope: .0112872021
+        tangentMode: 10
+      - time: 3.0666666
+        value: 1.03461409
+        inSlope: -.193471983
+        outSlope: -.193471983
+        tangentMode: 10
+      - time: 3.16666675
+        value: .994790912
+        inSlope: -1.48027098
+        outSlope: -1.48027098
+        tangentMode: 10
+      - time: 3.2166667
+        value: .866675496
+        inSlope: -1.65315711
+        outSlope: -1.65315711
+        tangentMode: 10
+      - time: 3.3499999
+        value: .767475128
+        inSlope: -1.13825572
+        outSlope: -1.13825572
+        tangentMode: 10
+      - time: 3.51666665
+        value: .512057006
+        inSlope: -1.53250802
+        outSlope: -1.53250802
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0112871248
+        outSlope: .0112871248
+        tangentMode: 10
+      - time: 3.0666666
+        value: 1.03461385
+        inSlope: -.19347322
+        outSlope: -.19347322
+        tangentMode: 10
+      - time: 3.16666675
+        value: .994790435
+        inSlope: -1.48026919
+        outSlope: -1.48026919
+        tangentMode: 10
+      - time: 3.2166667
+        value: .866675317
+        inSlope: -1.6531539
+        outSlope: -1.6531539
+        tangentMode: 10
+      - time: 3.3499999
+        value: .767475009
+        inSlope: -1.13825536
+        outSlope: -1.13825536
+        tangentMode: 10
+      - time: 3.51666665
+        value: .512056947
+        inSlope: -1.53250766
+        outSlope: -1.53250766
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .0112871248
+        outSlope: .0112871248
+        tangentMode: 10
+      - time: 3.0666666
+        value: 1.03461385
+        inSlope: -.19347322
+        outSlope: -.19347322
+        tangentMode: 10
+      - time: 3.16666675
+        value: .994790435
+        inSlope: -1.48026919
+        outSlope: -1.48026919
+        tangentMode: 10
+      - time: 3.2166667
+        value: .866675317
+        inSlope: -1.6531539
+        outSlope: -1.6531539
+        tangentMode: 10
+      - time: 3.3499999
+        value: .767475009
+        inSlope: -1.13825536
+        outSlope: -1.13825536
+        tangentMode: 10
+      - time: 3.51666665
+        value: .512056947
+        inSlope: -1.53250766
+        outSlope: -1.53250766
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.61666656
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470459
+        tangentMode: 21
+      - time: 2.9000001
+        value: 0
+        inSlope: -1.76470459
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.x
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.61666656
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470459
+        tangentMode: 21
+      - time: 2.9000001
+        value: 1
+        inSlope: 1.76470459
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.61666656
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470459
+        tangentMode: 21
+      - time: 2.9000001
+        value: 0
+        inSlope: -1.76470459
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.61666656
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470459
+        tangentMode: 21
+      - time: 2.9000001
+        value: 1
+        inSlope: 1.76470459
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/CloneIcon1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.04999995
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.x
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.04999995
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.04999995
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.04999995
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/CloneIcon2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.20000005
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.x
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.20000005
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.20000005
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.20000005
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/CloneIcon3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.0666666
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.3499999
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.x
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.0666666
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.3499999
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.0666666
+        value: .5
+        inSlope: 0
+        outSlope: -1.76470613
+        tangentMode: 21
+      - time: 3.3499999
+        value: 0
+        inSlope: -1.76470613
+        outSlope: -3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .5
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.0666666
+        value: .5
+        inSlope: 0
+        outSlope: 1.76470613
+        tangentMode: 21
+      - time: 3.3499999
+        value: 1
+        inSlope: 1.76470613
+        outSlope: 3.7499969
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: UiGoalTip/CloneIcon4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.5666666
+        value: 1
+        inSlope: 0
+        outSlope: .89999944
+        tangentMode: 21
+      - time: 2.73333335
+        value: 1.14999998
+        inSlope: .89999944
+        outSlope: -5.66666269
+        tangentMode: 21
+      - time: 2.88333344
+        value: .300000012
+        inSlope: -5.66666269
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.5666666
+        value: 1
+        inSlope: 0
+        outSlope: .89999944
+        tangentMode: 21
+      - time: 2.73333335
+        value: 1.14999998
+        inSlope: .89999944
+        outSlope: -5.66666269
+        tangentMode: 21
+      - time: 2.88333344
+        value: .300000012
+        inSlope: -5.66666269
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.5666666
+        value: 1
+        inSlope: 0
+        outSlope: .89999944
+        tangentMode: 21
+      - time: 2.73333335
+        value: 1.14999998
+        inSlope: .89999944
+        outSlope: -5.66666269
+        tangentMode: 21
+      - time: 2.88333344
+        value: .300000012
+        inSlope: -5.66666269
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: 1
+        inSlope: 0
+        outSlope: .89999944
+        tangentMode: 21
+      - time: 2.9333334
+        value: 1.14999998
+        inSlope: .89999944
+        outSlope: -5.66667175
+        tangentMode: 21
+      - time: 3.08333325
+        value: .300000012
+        inSlope: -5.66667175
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: 1
+        inSlope: 0
+        outSlope: .89999944
+        tangentMode: 21
+      - time: 2.9333334
+        value: 1.14999998
+        inSlope: .89999944
+        outSlope: -5.66667175
+        tangentMode: 21
+      - time: 3.08333325
+        value: .300000012
+        inSlope: -5.66667175
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.76666665
+        value: 1
+        inSlope: 0
+        outSlope: .89999944
+        tangentMode: 21
+      - time: 2.9333334
+        value: 1.14999998
+        inSlope: .89999944
+        outSlope: -5.66667175
+        tangentMode: 21
+      - time: 3.08333325
+        value: .300000012
+        inSlope: -5.66667175
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: 1
+        inSlope: 0
+        outSlope: .900000691
+        tangentMode: 21
+      - time: 3.08333325
+        value: 1.14999998
+        inSlope: .900000691
+        outSlope: -5.66666269
+        tangentMode: 21
+      - time: 3.23333335
+        value: .300000012
+        inSlope: -5.66666269
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: 1
+        inSlope: 0
+        outSlope: .900000691
+        tangentMode: 21
+      - time: 3.08333325
+        value: 1.14999998
+        inSlope: .900000691
+        outSlope: -5.66666269
+        tangentMode: 21
+      - time: 3.23333335
+        value: .300000012
+        inSlope: -5.66666269
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 2.91666675
+        value: 1
+        inSlope: 0
+        outSlope: .900000691
+        tangentMode: 21
+      - time: 3.08333325
+        value: 1.14999998
+        inSlope: .900000691
+        outSlope: -5.66666269
+        tangentMode: 21
+      - time: 3.23333335
+        value: .300000012
+        inSlope: -5.66666269
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.08333325
+        value: 1
+        inSlope: 0
+        outSlope: .89999944
+        tangentMode: 21
+      - time: 3.25
+        value: 1.14999998
+        inSlope: .89999944
+        outSlope: -5.66666269
+        tangentMode: 21
+      - time: 3.4000001
+        value: .300000012
+        inSlope: -5.66666269
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.08333325
+        value: 1
+        inSlope: 0
+        outSlope: .89999944
+        tangentMode: 21
+      - time: 3.25
+        value: 1.14999998
+        inSlope: .89999944
+        outSlope: -5.66666269
+        tangentMode: 21
+      - time: 3.4000001
+        value: .300000012
+        inSlope: -5.66666269
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: 3.08333325
+        value: 1
+        inSlope: 0
+        outSlope: .89999944
+        tangentMode: 21
+      - time: 3.25
+        value: 1.14999998
+        inSlope: .89999944
+        outSlope: -5.66666269
+        tangentMode: 21
+      - time: 3.4000001
+        value: .300000012
+        inSlope: -5.66666269
+        outSlope: 0
+        tangentMode: 5
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -82
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item1/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -82
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item2/ImgIcon
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: UiGoalTip/List/Item1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: UiGoalTip/List/Item2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: UiGoalTip/List/Item3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 161
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: UiGoalTip/List/Item4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -154
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item2/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -154
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: UiGoalTip/List/Item1/NumText
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.5333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Goal/goal (3)/ImgGoal4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.38333344
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Text/text (2)/TxtGoal3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.5333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Text/text (3)/TxtGoal4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Text/text/TxtGoal1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Text/text (1)/TxtGoal2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Goal/goal (1)/ImgGoal2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.38333344
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Goal/goal (2)/ImgGoal3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: DynamicLayer/Goal/goal/ImgGoal1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.0666666
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.11666656
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.16666675
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.2166667
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.26666665
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: DynamicLayer/Goal/goal/ImgGoal1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.0666666
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.11666656
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.16666675
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.2166667
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.26666665
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: DynamicLayer/Goal/goal/ImgGoal1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.0666666
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.11666656
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.16666675
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.2166667
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.26666665
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: DynamicLayer/Goal/goal/ImgGoal1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.0666666
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.11666656
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.16666675
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.2166667
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.26666665
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: DynamicLayer/Text/text/TxtGoal1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.0666666
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.11666656
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.16666675
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.2166667
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.26666665
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: DynamicLayer/Text/text/TxtGoal1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.0666666
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.11666656
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.16666675
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.2166667
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.26666665
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: DynamicLayer/Text/text/TxtGoal1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.23333335
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.2833333
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.33333325
+        value: .899999976
+        inSlope: -1.00001073
+        outSlope: -1.00001073
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1.10000002
+        inSlope: .999991655
+        outSlope: .999991655
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: DynamicLayer/Text/text (1)/TxtGoal2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.23333335
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.2833333
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.33333325
+        value: .899999976
+        inSlope: -1.00001073
+        outSlope: -1.00001073
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1.10000002
+        inSlope: .999991655
+        outSlope: .999991655
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: DynamicLayer/Text/text (1)/TxtGoal2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.23333335
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.2833333
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.33333325
+        value: .899999976
+        inSlope: -1.00001073
+        outSlope: -1.00001073
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1.10000002
+        inSlope: .999991655
+        outSlope: .999991655
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: DynamicLayer/Text/text (1)/TxtGoal2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.23333335
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.2833333
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.33333325
+        value: .899999976
+        inSlope: -1.00001073
+        outSlope: -1.00001073
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1.10000002
+        inSlope: .999991655
+        outSlope: .999991655
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: DynamicLayer/Goal/goal (1)/ImgGoal2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.23333335
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.2833333
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.33333325
+        value: .899999976
+        inSlope: -1.00001073
+        outSlope: -1.00001073
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1.10000002
+        inSlope: .999991655
+        outSlope: .999991655
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: DynamicLayer/Goal/goal (1)/ImgGoal2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.23333335
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.2833333
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.33333325
+        value: .899999976
+        inSlope: -1.00001073
+        outSlope: -1.00001073
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1.10000002
+        inSlope: .999991655
+        outSlope: .999991655
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: DynamicLayer/Goal/goal (1)/ImgGoal2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.48333335
+        value: .899999976
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: DynamicLayer/Text/text (2)/TxtGoal3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.48333335
+        value: .899999976
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: DynamicLayer/Text/text (2)/TxtGoal3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.48333335
+        value: .899999976
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: DynamicLayer/Text/text (2)/TxtGoal3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.48333335
+        value: .899999976
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: DynamicLayer/Goal/goal (2)/ImgGoal3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.48333335
+        value: .899999976
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: DynamicLayer/Goal/goal (2)/ImgGoal3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.38333344
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.4333334
+        value: 1.20000005
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.48333335
+        value: .899999976
+        inSlope: -1.00000119
+        outSlope: -1.00000119
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: DynamicLayer/Goal/goal (2)/ImgGoal3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.63333344
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.6833334
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.73333335
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: DynamicLayer/Goal/goal (3)/ImgGoal4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.63333344
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.6833334
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.73333335
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: DynamicLayer/Goal/goal (3)/ImgGoal4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.63333344
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.6833334
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.73333335
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: DynamicLayer/Goal/goal (3)/ImgGoal4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.63333344
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.6833334
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.73333335
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: DynamicLayer/Text/text (3)/TxtGoal4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.63333344
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.6833334
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.73333335
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: DynamicLayer/Text/text (3)/TxtGoal4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.5333333
+        value: 1
+        inSlope: 2.00000238
+        outSlope: 2.00000238
+        tangentMode: 10
+      - time: 3.58333325
+        value: 1.20000005
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.63333344
+        value: .899999976
+        inSlope: -.999986887
+        outSlope: -.999986887
+        tangentMode: 10
+      - time: 3.6833334
+        value: 1.10000002
+        inSlope: 1.00000119
+        outSlope: 1.00000119
+        tangentMode: 10
+      - time: 3.73333335
+        value: 1
+        inSlope: -2.00000238
+        outSlope: -2.00000238
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: DynamicLayer/Text/text (3)/TxtGoal4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.x
+    path: LeftCorner/leftIcon/Slider/Fill Area/Fill
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: LeftCorner/leftIcon/Slider/Fill Area/Fill
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMin.y
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchorMax.y
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 480
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -86.4000015
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 27.2000008
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.x
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 27.2000008
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.y
+    path: Score/ScoreNum/Num0
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.61666656
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioBound1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.76666665
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioBound2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.91666675
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioBound3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioBound4
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.0666666
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioArrive1
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.23333335
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioArrive2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.38333344
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioArrive3
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.5333333
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Audio/AudioArrive4
+    classID: 1
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

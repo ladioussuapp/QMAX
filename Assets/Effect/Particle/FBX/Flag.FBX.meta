@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a92321bb8df69794f9d5e897ccd84da0
+timeCreated: 1435029880
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BoneA001
+    100002: BoneA002
+    100004: BoneA003
+    100006: BoneA004
+    100008: BoneA005
+    100010: BoneA006
+    100012: BoneA007
+    100014: BoneA008
+    100016: Chapter1Model2Modelaaa
+    100018: //RootNode
+    100020: Hongqi1
+    100022: Hongqi2
+    400000: BoneA001
+    400002: BoneA002
+    400004: BoneA003
+    400006: BoneA004
+    400008: BoneA005
+    400010: BoneA006
+    400012: BoneA007
+    400014: BoneA008
+    400016: Chapter1Model2Modelaaa
+    400018: //RootNode
+    400020: Hongqi1
+    400022: Hongqi2
+    2300000: Chapter1Model2Modelaaa
+    3300000: Chapter1Model2Modelaaa
+    4300000: Chapter1Model2Modelaaa
+    4300002: Hongqi2
+    4300004: Hongqi1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Hongqi1
+    13700002: Hongqi2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoneA001
+        weight: 1
+      - path: BoneA001/BoneA002
+        weight: 1
+      - path: BoneA001/BoneA002/BoneA003
+        weight: 1
+      - path: BoneA001/BoneA002/BoneA003/BoneA004
+        weight: 1
+      - path: BoneA001/BoneA002/BoneA003/BoneA004/BoneA005
+        weight: 1
+      - path: BoneA006
+        weight: 1
+      - path: BoneA006/BoneA007
+        weight: 1
+      - path: BoneA006/BoneA007/BoneA008
+        weight: 1
+      - path: Chapter1Model2Modelaaa
+        weight: 1
+      - path: Hongqi1
+        weight: 1
+      - path: Hongqi2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

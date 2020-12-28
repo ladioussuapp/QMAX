@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 43c3fca863656f644a42084d3eefe6db
+timeCreated: 1436769692
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: unlock_001
+    21300002: unlock_0010
+    21300004: unlock_0011
+    21300006: unlock_0012
+    21300008: unlock_0013
+    21300010: unlock_002
+    21300012: unlock_003
+    21300014: unlock_004
+    21300016: unlock_005
+    21300018: unlock_005a
+    21300020: unlock_006
+    21300022: unlock_007
+    21300024: unlock_008
+    21300026: unlock_009
+    21300028: unlock_A
+    21300030: unlock_B
+    21300032: unlock_C
+    21300034: unlock_E
+    21300036: unlock_F
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: unlock_0011
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 12
+        width: 113
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 51.5}
+        - {x: -56.5, y: 28.5}
+        - {x: -56.5, y: -40.5}
+        - {x: -41.5, y: -51.5}
+        - {x: 5.5, y: -51.5}
+        - {x: 56.5, y: -1.5}
+        - {x: 56.5, y: 17.5}
+        - {x: 42.5, y: 51.5}
+    - name: unlock_002
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 441
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 34.5}
+        - {x: -38, y: 25.5}
+        - {x: -38, y: -3.5}
+        - {x: -13, y: -34.5}
+        - {x: 4, y: -34.5}
+        - {x: 38, y: -5.5}
+        - {x: 38, y: 21.5}
+        - {x: 32, y: 34.5}
+    - name: unlock_003
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 369
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 35}
+        - {x: -37, y: 21}
+        - {x: -37, y: -24}
+        - {x: -18, y: -35}
+        - {x: 10, y: -35}
+        - {x: 37, y: -12}
+        - {x: 37, y: 15}
+        - {x: 9, y: 35}
+    - name: unlock_006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 23, z: 21, w: 21}
+      outline:
+      - - {x: -57, y: 55.5}
+        - {x: -57, y: -52.5}
+        - {x: -52, y: -55.5}
+        - {x: 50, y: -55.5}
+        - {x: 57, y: -50.5}
+        - {x: 57, y: 47.5}
+        - {x: 48, y: 55.5}
+    - name: unlock_009
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 400
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -196, y: 107}
+        - {x: -200, y: 102}
+        - {x: -200, y: -102}
+        - {x: -196, y: -107}
+        - {x: 195, y: -107}
+        - {x: 200, y: -103}
+        - {x: 200, y: 102}
+        - {x: 196, y: 107}
+    - name: unlock_A
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 205
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 40}
+        - {x: -33, y: -40}
+        - {x: 33, y: -40}
+        - {x: 33, y: 40}
+    - name: unlock_B
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 290
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 38.5}
+        - {x: -17.5, y: -36.5}
+        - {x: -16.5, y: -38.5}
+        - {x: 17.5, y: -38.5}
+        - {x: 17.5, y: 35.5}
+        - {x: 14.5, y: 38.5}
+    - name: unlock_C
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 117
+        width: 128
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 84}
+        - {x: -59, y: 77}
+        - {x: -64, y: 30}
+        - {x: -64, y: -84}
+        - {x: 64, y: -84}
+        - {x: 64, y: 51}
+        - {x: 57, y: 84}
+    - name: unlock_E
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 287
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 40}
+        - {x: -33.5, y: -32}
+        - {x: -30.5, y: -40}
+        - {x: 31.5, y: -40}
+        - {x: 33.5, y: -37}
+        - {x: 33.5, y: 40}
+    - name: unlock_F
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 124
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 39.5}
+        - {x: -33.5, y: 31.5}
+        - {x: -33.5, y: -14.5}
+        - {x: -31.5, y: -15.5}
+        - {x: -13.5, y: -6.5}
+        - {x: -3.5, y: 1.5}
+        - {x: -29.5, y: -25.5}
+        - {x: -31.5, y: -34.5}
+        - {x: -27.5, y: -39.5}
+        - {x: 30.5, y: -39.5}
+        - {x: 33.5, y: -37.5}
+        - {x: 33.5, y: 39.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

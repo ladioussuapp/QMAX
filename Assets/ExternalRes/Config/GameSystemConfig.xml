@@ -1,0 +1,38 @@
+<root>
+    <!-- 
+    gemMaxEnergy:鑽石可購上限
+    itemMaxEnergy:道具可擴上限
+    recoverEnergyPerSec:體力獲得秒數
+    friendSentEnergy:好友互送獲得體力
+    friendGetMaxEnergy:好友獲得最大體力
+    shopEnergyAddFull:買體力充滿(原價)
+    shopEnergyAddFullSale:買體力充滿(折扣)
+    shopEnergyAddPoint:買體力點數(原價)
+    shopEnergyAddPointSale:買體力點數(折扣)
+    shopEnergyMaxUp:買體力上限(原價)
+    shopEnergyMaxUpSale:買體力上限(折扣)
+    buyUpgradeAForGem:鑽石兌換A
+    buyUpgradeBForGem:鑽石兌換B
+    buyKey:購買鑰匙
+    buyMoves:購買步數
+    buyTime:購買時間
+    movesNum:購買步數次數
+    timeNum:購買時間次數
+    elementPurpleAttack:無夥伴紫色方塊攻擊力
+    elementRedAttack:無夥伴紅色方塊攻擊力
+    elementGreenAttack:無夥伴綠色方塊攻擊力
+    elementBlueAttack:無夥伴藍色方塊攻擊力
+    elementYellowAttack:無夥伴黃色方塊攻擊力
+    elementAttackMp:無夥伴投遞攻擊力倍數
+    friendWorship:觸發膜拜發抖
+    achieveMaxPerDayMission:成就每日可完成數量
+    achieveRefreshGem:每日任務刷新花費
+    buycoin:兌換金幣
+    daliyRefreshTime:每日任務刷新時間
+    daliyReportLimit:每日反饋郵件數量上限
+    cleanReportMailCountTime:每日反饋郵件數量清除時間
+    refreshStageDate:活動關卡刷新時間
+    -->
+    <item gemMaxEnergy="40" itemMaxEnergy="100" recoverEnergyPerSec="600" friendSentEnergy="1" friendGetMaxEnergy="10" shopEnergyAddFull="125" shopEnergyAddFullSale="-1" shopEnergyAddPoint="20,50|40,100" shopEnergyAddPointSale="-1" shopEnergyMaxUp="3,300" shopEnergyMaxUpSale="-1" buyUpgradeAForGem="10" buyUpgradeBForGem="1" buyKey="3,20" buyMoves="5,40" buyTime="10,40" movesNum="99" timeNum="99" elementPurpleAttack="55" elementRedAttack="55" elementGreenAttack="55" elementBlueAttack="55" elementYellowAttack="55" elementAttackMp="7" friendWorship="10" achieveMaxPerDayMission="6" achieveRefreshGem="10" buycoin="350" daliyRefreshTime="5" daliyReportLimit="10" cleanReportMailCountTime="0" refreshStageDate="2016-01-22 05:00:00" /> 
+
+</root>

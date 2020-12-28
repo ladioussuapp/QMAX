@@ -1,0 +1,697 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: DemagePlaneFly2
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: .654413939, y: .654413939, z: .654413939}
+        outSlope: {x: -0, y: -0, z: -0}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: .599999487, y: -3.30000424, z: -0}
+        tangentMode: 0
+      - time: .25
+        value: {x: 1.04999995, y: .724999666, z: 1}
+        inSlope: {x: -0, y: .0282622594, z: 0}
+        outSlope: {x: -.0681995526, y: .0117871407, z: -0}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: .00485723047, y: -.00551365595, z: 0}
+        outSlope: {x: -.00445982208, y: -.0443436876, z: -1.29129672}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: 1.29726696, y: 1.32202363, z: .928064644}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .833333313
+        value: {x: .5282166, y: .528216541, z: .528216541}
+        inSlope: {x: -3.70677948, y: -3.93183398, z: -1.29129672}
+        outSlope: {x: -1.7275728, y: -1.7275728, z: -1.7275728}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CanvasEffect/ImgIcon 2
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .333333343
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Canvas/AwardPanel
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .333333343
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: CanvasEffect/ImgIcon 2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -119
+        inSlope: 960.799866
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: -119
+        inSlope: 0
+        outSlope: -4.80001879
+        tangentMode: 21
+      - time: .25
+        value: -119.400002
+        inSlope: -4.80001831
+        outSlope: .000732421875
+        tangentMode: 1
+      - time: .333333343
+        value: -119.39994
+        inSlope: .000732421875
+        outSlope: 575.514099
+        tangentMode: 1
+      - time: .583333313
+        value: 8.10540009
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .833333313
+        value: -8
+        inSlope: 79.4339905
+        outSlope: -988.500061
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -309
+        inSlope: 355.999634
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: -309
+        inSlope: 0
+        outSlope: -85.2000809
+        tangentMode: 21
+      - time: .25
+        value: -316.100006
+        inSlope: -85.2000732
+        outSlope: 26.4208183
+        tangentMode: 1
+      - time: .333333343
+        value: -308.999817
+        inSlope: 126.418289
+        outSlope: 188.819092
+        tangentMode: 1
+      - time: .583333313
+        value: 380
+        inSlope: 1836.02234
+        outSlope: 1727.1958
+        tangentMode: 1
+      - time: .833333313
+        value: 681
+        inSlope: .00106121029
+        outSlope: -27.9000111
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 107.599998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 107.599998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 107.599998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.x
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .316666663
+        value: 0
+        inSlope: 29.9999752
+        outSlope: 29.9999752
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 59.9999504
+        outSlope: 59.9999504
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: Canvas/AwardPanel/List/Item2/ImgIcon
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -190
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: -190
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .349999994
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Canvas/AwardPanel/List/Item2/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 1252044299
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3423123599
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1252044299
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1252044299
+      attribute: 1460864421
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1252044299
+      attribute: 538195251
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1492922419
+      attribute: 304273561
+      script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1492922419
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1252044299
+      attribute: 1967290853
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1252044299
+      attribute: 2033536083
+      script: {fileID: 0}
+      classID: 224
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .833333313
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .333333343
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Canvas/AwardPanel
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .333333343
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: CanvasEffect/ImgIcon 2
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .654413939
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: .599999487
+        tangentMode: 21
+      - time: .25
+        value: 1.04999995
+        inSlope: -0
+        outSlope: -.0681995526
+        tangentMode: 1
+      - time: .333333343
+        value: 1
+        inSlope: .00485723047
+        outSlope: -.00445982208
+        tangentMode: 1
+      - time: .583333313
+        value: 1.29726696
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .833333313
+        value: .5282166
+        inSlope: -3.70677948
+        outSlope: -1.7275728
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.x
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .654413939
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: -3.30000424
+        tangentMode: 21
+      - time: .25
+        value: .724999666
+        inSlope: .0282622594
+        outSlope: .0117871407
+        tangentMode: 1
+      - time: .333333343
+        value: 1
+        inSlope: -.00551365595
+        outSlope: -.0443436876
+        tangentMode: 1
+      - time: .583333313
+        value: 1.32202363
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .833333313
+        value: .528216541
+        inSlope: -3.93183398
+        outSlope: -1.7275728
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.y
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: .654413939
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .25
+        value: 1
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 1
+      - time: .333333343
+        value: 1
+        inSlope: 0
+        outSlope: -1.29129672
+        tangentMode: 1
+      - time: .583333313
+        value: .928064644
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .833333313
+        value: .528216541
+        inSlope: -1.29129672
+        outSlope: -1.7275728
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalScale.z
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -119
+        inSlope: 960.799866
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: -119
+        inSlope: 0
+        outSlope: -4.80001879
+        tangentMode: 21
+      - time: .25
+        value: -119.400002
+        inSlope: -4.80001831
+        outSlope: .000732421875
+        tangentMode: 1
+      - time: .333333343
+        value: -119.39994
+        inSlope: .000732421875
+        outSlope: 575.514099
+        tangentMode: 1
+      - time: .583333313
+        value: 8.10540009
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
+      - time: .833333313
+        value: -8
+        inSlope: 79.4339905
+        outSlope: -988.500061
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -309
+        inSlope: 355.999634
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: -309
+        inSlope: 0
+        outSlope: -85.2000809
+        tangentMode: 21
+      - time: .25
+        value: -316.100006
+        inSlope: -85.2000732
+        outSlope: 26.4208183
+        tangentMode: 1
+      - time: .333333343
+        value: -308.999817
+        inSlope: 126.418289
+        outSlope: 188.819092
+        tangentMode: 1
+      - time: .583333313
+        value: 380
+        inSlope: 1836.02234
+        outSlope: 1727.1958
+        tangentMode: 1
+      - time: .833333313
+        value: 681
+        inSlope: .00106121029
+        outSlope: -27.9000111
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 107.599998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 107.599998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .333333343
+        value: 107.599998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_SizeDelta.x
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .316666663
+        value: 0
+        inSlope: 29.9999752
+        outSlope: 29.9999752
+        tangentMode: 10
+      - time: .333333343
+        value: 1
+        inSlope: 59.9999504
+        outSlope: 59.9999504
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: Canvas/AwardPanel/List/Item2/ImgIcon
+    classID: 114
+    script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -190
+        inSlope: 0
+        outSlope: -0
+        tangentMode: 21
+      - time: .166666672
+        value: -190
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 21
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: CanvasEffect/ImgIcon 2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .349999994
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Canvas/AwardPanel/List/Item2/ImgIcon
+    classID: 1
+    script: {fileID: 0}
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events:
+  - time: .833333313
+    functionName: OnAnimationDemagePlaneFrameEnd2
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

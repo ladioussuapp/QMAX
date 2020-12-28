@@ -1,0 +1,15 @@
+{
+    "group": "bugly",
+    "libs": ["libz.tbd"],
+    "frameworks": ["SystemConfiguration.framework",
+                   "Security.framework",
+                   "CFNetwork.framework"],
+    "headerpaths": [],
+    "files":   ["IOS/Bugly/Bugly_libc++/Bugly.framework",
+                "IOS/Bugly/Bugly_libstdc++/Bugly.framework"],
+    "folders": ["IOS/"],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "compiler_flags": [],
+    "linker_flags": [],
+    "plist": []
+}

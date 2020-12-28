@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 6dfa3b4d702527f4a85f6dca48905f93
+timeCreated: 1435045073
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CDK_001
+    21300002: CDK_0010
+    21300004: CDK_0011
+    21300006: CDK_0012
+    21300008: CDK_0013
+    21300010: CDK_0014
+    21300012: CDK_0015
+    21300014: CDK_0016
+    21300016: CDK_0017
+    21300018: CDK_0018
+    21300020: CDK_0019
+    21300022: CDK_002
+    21300024: CDK_0020
+    21300026: CDK_0021
+    21300028: CDK_0022
+    21300030: CDK_0023
+    21300032: CDK_0024
+    21300034: CDK_003
+    21300036: CDK_004
+    21300038: CDK_005
+    21300040: CDK_006
+    21300042: CDK_007
+    21300044: CDK_008
+    21300046: CDK_009
+    21300048: Energy
+    21300050: EnergyMax
+    21300052: Gem
+    21300054: Key
+    21300056: UpgradeA
+    21300058: UpgradeB
+    21300060: Stop-0011b
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: CDK_0021
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 811
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 28, z: 28, w: 28}
+      outline:
+      - - {x: -49, y: 48}
+        - {x: -49, y: -42}
+        - {x: -40, y: -48}
+        - {x: 40, y: -48}
+        - {x: 49, y: -37}
+        - {x: 49, y: 42}
+        - {x: 39, y: 48}
+    - name: CDK_0023
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 692
+        width: 395
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 186.5, y: -83}
+        - {x: 175.5, y: -70}
+        - {x: 187.5, y: 3}
+        - {x: 181.5, y: 34}
+        - {x: 173.5, y: 35}
+        - {x: 170.5, y: 89}
+        - {x: 145.5, y: 134}
+        - {x: 124.5, y: 147}
+        - {x: 90.5, y: 146}
+        - {x: 41.5, y: 165}
+        - {x: 8.5, y: 165}
+        - {x: -37.5, y: 152}
+        - {x: -57.5, y: 165}
+        - {x: -94.5, y: 165}
+        - {x: -103.5, y: 163}
+        - {x: -147.5, y: 111}
+        - {x: -148.5, y: 84}
+        - {x: -130.5, y: 45}
+        - {x: -167.5, y: 22}
+        - {x: -181.5, y: 8}
+        - {x: -185.5, y: -11}
+        - {x: -185.5, y: -36}
+        - {x: -169.5, y: -63}
+        - {x: -175.5, y: -68}
+        - {x: -177.5, y: -69}
+        - {x: -178.5, y: -73}
+        - {x: -174.5, y: -99}
+        - {x: -169.5, y: -131}
+        - {x: -142.5, y: -146}
+        - {x: -66.5, y: -132}
+        - {x: -21.5, y: -108}
+        - {x: 74.5, y: -108}
+        - {x: 100.5, y: -161}
+        - {x: 112.5, y: -165}
+        - {x: 167.5, y: -165}
+        - {x: 184.5, y: -154}
+        - {x: 188.5, y: -144}
+        - {x: 188.5, y: -99}
+      - - {x: 193.5, y: -60}
+        - {x: 190.5, y: -65}
+        - {x: 190.5, y: -73}
+        - {x: 193.5, y: -76}
+        - {x: 197.5, y: -74}
+        - {x: 197.5, y: -61}
+        - {x: 196.5, y: -60}
+      - - {x: -197.5, y: -15}
+        - {x: -194.5, y: -15}
+        - {x: -192.5, y: -14}
+        - {x: -192.5, y: -7}
+        - {x: -193.5, y: -5}
+        - {x: -197.5, y: -5}
+    - name: Energy
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 734
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 37.5}
+        - {x: -34.5, y: 32.5}
+        - {x: -34.5, y: -33.5}
+        - {x: -30.5, y: -37.5}
+        - {x: -2.5, y: -37.5}
+        - {x: 18.5, y: -32.5}
+        - {x: 34.5, y: -13.5}
+        - {x: 34.5, y: 37.5}
+    - name: EnergyMax
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 909
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 56.5}
+        - {x: -53, y: 35.5}
+        - {x: -53, y: -18.5}
+        - {x: -42, y: -55.5}
+        - {x: -34, y: -56.5}
+        - {x: 50, y: -56.5}
+        - {x: 53, y: -49.5}
+        - {x: 53, y: 8.5}
+        - {x: 24, y: 56.5}
+    - name: Gem
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 382
+        width: 153
+        height: 148
+      alignment: 9
+      pivot: {x: 0.49673203, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 74}
+        - {x: -76, y: 63}
+        - {x: -76, y: -64}
+        - {x: -74, y: -74}
+        - {x: 58, y: -74}
+        - {x: 77, y: -50}
+        - {x: 77, y: 65}
+        - {x: 44, y: 74}
+    - name: Key
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 546
+        width: 128
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5078125, y: 0.5034722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 71.5}
+        - {x: -26, y: 71.5}
+        - {x: -65, y: 11.5}
+        - {x: -65, y: -66.5}
+        - {x: -46, y: -72.5}
+        - {x: 41, y: -72.5}
+        - {x: 63, y: -35.5}
+        - {x: 63, y: 40.5}
+        - {x: 53, y: 45.5}
+    - name: UpgradeA
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 528
+        width: 156
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 81}
+        - {x: -78, y: 35}
+        - {x: -78, y: -50}
+        - {x: -61, y: -81}
+        - {x: 70, y: -81}
+        - {x: 78, y: -68}
+        - {x: 78, y: 63}
+        - {x: 74, y: 81}
+    - name: UpgradeB
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 532
+        width: 160
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 79}
+        - {x: -80, y: 28}
+        - {x: -80, y: -50}
+        - {x: -74, y: -79}
+        - {x: 15, y: -79}
+        - {x: 52, y: -72}
+        - {x: 80, y: -54}
+        - {x: 80, y: 37}
+        - {x: 72, y: 79}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 26c1a7db31e8a024a9e24d007fa56354
+timeCreated: 1439173048
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UILoginnew_002
+    21300002: UILoginnew_003
+    21300004: UILoginnew_004
+    21300006: UILoginnew_005
+    21300008: dlu-001
+    21300010: dlu-002
+    21300012: dlu-006
+    21300014: dlu-008
+    21300016: dlu-009
+    21300018: dlu-012
+    21300020: drip1
+    21300022: u_LoadBG
+    21300024: u_LoadN01
+    21300026: u_LoadN02
+    21300028: u_LoadN03
+    21300030: u_LoadN04
+    21300032: u_LoadN05
+    21300034: u_LoadN06
+    21300036: u_LoadN07
+    21300038: u_LoadN08
+    21300040: u_LoadP01
+    21300042: u_LoadP02
+    21300044: u_LoadP03
+    21300046: u_LoadP04
+    21300048: u_LoadP05
+    21300050: u_Loadcloud
+    21300052: u_Loadcloud1
+    21300054: u_Loadcloud2
+    21300056: u_Loadhill1
+    21300058: u_Loadhill2
+    21300060: u_Loadsky
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: dlu-006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 255
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 0}
+        - {x: -46.5, y: -4}
+        - {x: -46.5, y: -7}
+        - {x: -44.5, y: -9}
+        - {x: -20.5, y: -13}
+        - {x: -16.5, y: -2}
+        - {x: -16.5, y: 23}
+        - {x: -63.5, y: 34}
+        - {x: -118.5, y: 34}
+        - {x: -127.5, y: 15}
+        - {x: -127.5, y: -24}
+        - {x: -120.5, y: -34}
+        - {x: -39.5, y: -34}
+        - {x: -21.5, y: -31}
+        - {x: -19.5, y: -18}
+        - {x: -48.5, y: -9}
+        - {x: -46.5, y: -6}
+      - - {x: -10.5, y: 19}
+        - {x: -10.5, y: -17}
+        - {x: 109.5, y: -17}
+        - {x: 127.5, y: -11}
+        - {x: 127.5, y: 15}
+        - {x: 126.5, y: 19}
+    - name: drip1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 491
+        width: 423
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146.5, y: 69.5}
+        - {x: 132.5, y: 62.5}
+        - {x: -77.5, y: -20.5}
+        - {x: -211.5, y: 29.5}
+        - {x: -211.5, y: 7.5}
+        - {x: -206.5, y: 6.5}
+        - {x: -211.5, y: -3.5}
+        - {x: -211.5, y: -94.5}
+        - {x: 211.5, y: -94.5}
+        - {x: 211.5, y: 30.5}
+        - {x: 176.5, y: 69.5}
+      - - {x: 79.5, y: 8.5}
+        - {x: 74.5, y: 4.5}
+        - {x: 74.5, y: -1.5}
+        - {x: 77.5, y: -4.5}
+        - {x: 82.5, y: -4.5}
+        - {x: 87.5, y: -1.5}
+        - {x: 87.5, y: 2.5}
+        - {x: 84.5, y: 8.5}
+      - - {x: 153.5, y: 38.5}
+        - {x: 148.5, y: 38.5}
+        - {x: 143.5, y: 36.5}
+        - {x: 142.5, y: 34.5}
+        - {x: 142.5, y: 27.5}
+        - {x: 147.5, y: 24.5}
+        - {x: 153.5, y: 24.5}
+        - {x: 156.5, y: 28.5}
+        - {x: 156.5, y: 34.5}
+      - - {x: 182.5, y: 94.5}
+        - {x: 179.5, y: 93.5}
+        - {x: 179.5, y: 65.5}
+        - {x: 182.5, y: 64.5}
+        - {x: 190.5, y: 64.5}
+        - {x: 196.5, y: 69.5}
+        - {x: 196.5, y: 85.5}
+        - {x: 194.5, y: 94.5}
+    - name: u_LoadBG
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 456
+        width: 309
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112.5, y: 111}
+        - {x: 39.5, y: 129}
+        - {x: -36.5, y: 129}
+        - {x: -43.5, y: 128}
+        - {x: -46.5, y: 129}
+        - {x: -76.5, y: 129}
+        - {x: -115.5, y: 97}
+        - {x: -117.5, y: 65}
+        - {x: -143.5, y: 1}
+        - {x: -146.5, y: -30}
+        - {x: -149.5, y: -50}
+        - {x: -149.5, y: -71}
+        - {x: -124.5, y: -104}
+        - {x: -110.5, y: -115}
+        - {x: -52.5, y: -105}
+        - {x: -16.5, y: -84}
+        - {x: 73.5, y: -91}
+        - {x: 71.5, y: -116}
+        - {x: 84.5, y: -129}
+        - {x: 137.5, y: -129}
+        - {x: 147.5, y: -123}
+        - {x: 147.5, y: 17}
+        - {x: 129.5, y: 83}
+      - - {x: -134.5, y: -57}
+        - {x: -136.5, y: -58}
+        - {x: -136.5, y: -62}
+        - {x: -135.5, y: -64}
+        - {x: -129.5, y: -64}
+        - {x: -129.5, y: -57}
+      - - {x: 150.5, y: -48}
+        - {x: 149.5, y: -53}
+        - {x: 149.5, y: -59}
+        - {x: 151.5, y: -61}
+        - {x: 154.5, y: -60}
+        - {x: 154.5, y: -48}
+        - {x: 153.5, y: -47}
+      - - {x: -154.5, y: -35}
+        - {x: -153.5, y: -37}
+        - {x: -150.5, y: -38}
+        - {x: -147.5, y: -37}
+        - {x: -147.5, y: -33}
+        - {x: -148.5, y: -29}
+        - {x: -151.5, y: -28}
+        - {x: -154.5, y: -28}
+      - - {x: -152.5, y: -4}
+        - {x: -154.5, y: -5}
+        - {x: -154.5, y: -10}
+        - {x: -153.5, y: -12}
+        - {x: -149.5, y: -12}
+        - {x: -148.5, y: -10}
+        - {x: -148.5, y: -6}
+        - {x: -151.5, y: -4}
+    - name: u_LoadN01
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 141
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 64}
+        - {x: -14, y: 64}
+        - {x: -54, y: 45}
+        - {x: -54, y: -64}
+        - {x: 19, y: -64}
+        - {x: 46, y: -56}
+        - {x: 54, y: -39}
+        - {x: 54, y: 36}
+    - name: u_LoadN02
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 11
+        width: 122
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 64}
+        - {x: -61, y: -64}
+        - {x: 28, y: -64}
+        - {x: 50, y: -55}
+        - {x: 61, y: -5}
+        - {x: 61, y: 63}
+        - {x: 59, y: 64}
+    - name: u_LoadN03
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 269
+        width: 395
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 150.5, y: -92.5}
+        - {x: 170.5, y: -92.5}
+        - {x: 185.5, y: -85.5}
+        - {x: 197.5, y: -48.5}
+        - {x: 197.5, y: 53.5}
+        - {x: 187.5, y: 60.5}
+        - {x: 156.5, y: 85.5}
+        - {x: 89.5, y: 82.5}
+        - {x: 70.5, y: 62.5}
+        - {x: 36.5, y: 92.5}
+        - {x: -62.5, y: 92.5}
+        - {x: -183.5, y: 56.5}
+        - {x: -197.5, y: 50.5}
+        - {x: -197.5, y: -0.5}
+        - {x: -194.5, y: -21.5}
+        - {x: -172.5, y: -33.5}
+        - {x: -165.5, y: -76.5}
+        - {x: -154.5, y: -92.5}
+        - {x: -124.5, y: -92.5}
+        - {x: -43.5, y: -72.5}
+        - {x: 66.5, y: -67.5}
+        - {x: 131.5, y: -82.5}
+    - name: u_LoadN06
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 37
+        width: 97
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 22.5}
+        - {x: -48.5, y: 18.5}
+        - {x: -48.5, y: -10.5}
+        - {x: -32.5, y: -22.5}
+        - {x: 46.5, y: -22.5}
+        - {x: 48.5, y: -15.5}
+        - {x: 48.5, y: 19.5}
+        - {x: 47.5, y: 22.5}
+    - name: u_LoadN07
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 122
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 32.5}
+        - {x: -61, y: 17.5}
+        - {x: -61, y: -26.5}
+        - {x: -58, y: -32.5}
+        - {x: -4, y: -32.5}
+        - {x: 46, y: -24.5}
+        - {x: 61, y: -4.5}
+        - {x: 61, y: 15.5}
+        - {x: 13, y: 32.5}
+    - name: u_LoadN08
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 271
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 58}
+        - {x: -33.5, y: 58}
+        - {x: -55.5, y: 32}
+        - {x: -55.5, y: -36}
+        - {x: -54.5, y: -41}
+        - {x: -43.5, y: -52}
+        - {x: -39.5, y: -51}
+        - {x: -24.5, y: -58}
+        - {x: 17.5, y: -58}
+        - {x: 53.5, y: -32}
+        - {x: 55.5, y: -29}
+        - {x: 55.5, y: 43}
+    - name: u_LoadP01
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 471
+        width: 140
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 87}
+        - {x: -70, y: 25}
+        - {x: -70, y: -49}
+        - {x: -36, y: -77}
+        - {x: -10, y: -85}
+        - {x: 11, y: -87}
+        - {x: 70, y: -87}
+        - {x: 70, y: 38}
+        - {x: 51, y: 87}
+      - - {x: 56, y: 20}
+        - {x: 52, y: 18}
+        - {x: 52, y: 8}
+        - {x: 54, y: -2}
+        - {x: 59, y: -4}
+        - {x: 66, y: -4}
+        - {x: 70, y: -1}
+        - {x: 70, y: 11}
+        - {x: 65, y: 20}
+    - name: u_LoadP02
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 647
+        width: 237
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 90}
+        - {x: -59.5, y: 90}
+        - {x: -118.5, y: 44}
+        - {x: -118.5, y: -15}
+        - {x: -97.5, y: -38}
+        - {x: -42.5, y: -61}
+        - {x: -32.5, y: -90}
+        - {x: 21.5, y: -90}
+        - {x: 96.5, y: -74}
+        - {x: 118.5, y: -45}
+        - {x: 118.5, y: 26}
+        - {x: 27.5, y: 87}
+    - name: u_LoadP03
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 25
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 62.5}
+        - {x: 12.5, y: 52.5}
+        - {x: 8.5, y: 48.5}
+        - {x: -8.5, y: 71.5}
+        - {x: -18.5, y: 71.5}
+        - {x: -20.5, y: 68.5}
+        - {x: -22.5, y: 51.5}
+        - {x: -65.5, y: 16.5}
+        - {x: -71.5, y: 6.5}
+        - {x: -71.5, y: -71.5}
+        - {x: 25.5, y: -71.5}
+        - {x: 48.5, y: -58.5}
+        - {x: 71.5, y: -35.5}
+        - {x: 71.5, y: 57.5}
+        - {x: 43.5, y: 66.5}
+    - name: u_LoadP04
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 70
+        width: 235
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.5, y: 22.5}
+        - {x: 69.5, y: 27.5}
+        - {x: 76.5, y: 34.5}
+        - {x: 74.5, y: 52.5}
+        - {x: 29.5, y: 67.5}
+        - {x: -70.5, y: 67.5}
+        - {x: -117.5, y: 1.5}
+        - {x: -117.5, y: -69.5}
+        - {x: -73.5, y: -98.5}
+        - {x: 35.5, y: -98.5}
+        - {x: 89.5, y: -75.5}
+        - {x: 117.5, y: -49.5}
+        - {x: 117.5, y: -29.5}
+        - {x: 106.5, y: -26.5}
+      - - {x: -69.5, y: 98.5}
+        - {x: -69.5, y: 67.5}
+        - {x: -66.5, y: 63.5}
+        - {x: -40.5, y: 63.5}
+        - {x: 0.5, y: 70.5}
+        - {x: 3.5, y: 76.5}
+        - {x: 3.5, y: 83.5}
+        - {x: -15.5, y: 98.5}
+    - name: u_LoadP05
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 716
+        width: 302
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151, y: -1}
+        - {x: 151, y: 31}
+        - {x: 148, y: 43}
+        - {x: 103, y: 103}
+        - {x: 66, y: 124}
+        - {x: 30, y: 153}
+        - {x: 4, y: 153}
+        - {x: -63, y: 133}
+        - {x: -59, y: 107}
+        - {x: -55, y: 100}
+        - {x: -44, y: 99}
+        - {x: -53, y: 97}
+        - {x: -61, y: 106}
+        - {x: -83, y: 104}
+        - {x: -97, y: 97}
+        - {x: -148, y: 71}
+        - {x: -151, y: 56}
+        - {x: -151, y: -22}
+        - {x: -91, y: -69}
+        - {x: -47, y: -128}
+        - {x: -5, y: -153}
+        - {x: 75, y: -153}
+        - {x: 97, y: -141}
+        - {x: 135, y: -88}
+        - {x: 135, y: -29}
+    - name: u_Loadcloud
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 682
+        width: 423
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 205.5, y: 170}
+        - {x: 194.5, y: 159}
+        - {x: 177.5, y: 148}
+        - {x: 163.5, y: 142}
+        - {x: 140.5, y: 115}
+        - {x: 138.5, y: 110}
+        - {x: 133.5, y: 101}
+        - {x: 117.5, y: 102}
+        - {x: 100.5, y: 99}
+        - {x: 87.5, y: 85}
+        - {x: 74.5, y: 66}
+        - {x: 69.5, y: 46}
+        - {x: 58.5, y: 39}
+        - {x: 49.5, y: 30}
+        - {x: 40.5, y: 10}
+        - {x: 41.5, y: -7}
+        - {x: 45.5, y: -12}
+        - {x: 40.5, y: -22}
+        - {x: 28.5, y: -38}
+        - {x: 8.5, y: -25}
+        - {x: -27.5, y: -28}
+        - {x: -33.5, y: -30}
+        - {x: -56.5, y: 2}
+        - {x: -76.5, y: 20}
+        - {x: -92.5, y: 20}
+        - {x: -100.5, y: 29}
+        - {x: -115.5, y: 52}
+        - {x: -124.5, y: 62}
+        - {x: -123.5, y: 75}
+        - {x: -139.5, y: 98}
+        - {x: -169.5, y: 109}
+        - {x: -178.5, y: 109}
+        - {x: -183.5, y: 107}
+        - {x: -201.5, y: 105}
+        - {x: -211.5, y: 99}
+        - {x: -211.5, y: -170}
+        - {x: 211.5, y: -170}
+        - {x: 211.5, y: 170}
+    - name: u_Loadcloud1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 258
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129, y: -13.5}
+        - {x: 129, y: 167.5}
+        - {x: -85, y: 167.5}
+        - {x: -89, y: 161.5}
+        - {x: -86, y: 127.5}
+        - {x: 24, y: -35.5}
+        - {x: -129, y: -148.5}
+        - {x: -129, y: -167.5}
+        - {x: -60, y: -167.5}
+        - {x: -26, y: -162.5}
+        - {x: 75, y: -85.5}
+        - {x: 109, y: -46.5}
+        - {x: 120, y: -31.5}
+      - - {x: -109, y: 52.5}
+        - {x: -109, y: 47.5}
+        - {x: -108, y: 45.5}
+        - {x: -104, y: 45.5}
+        - {x: -102, y: 46.5}
+        - {x: -102, y: 52.5}
+      - - {x: -74, y: 52.5}
+        - {x: -76, y: 50.5}
+        - {x: -76, y: 47.5}
+        - {x: -74, y: 45.5}
+        - {x: -71, y: 45.5}
+        - {x: -69, y: 47.5}
+        - {x: -69, y: 50.5}
+        - {x: -71, y: 52.5}
+      - - {x: -45, y: 52.5}
+        - {x: -50, y: 52.5}
+        - {x: -50, y: 45.5}
+        - {x: -45, y: 45.5}
+        - {x: -44, y: 47.5}
+        - {x: -44, y: 51.5}
+    - name: u_Loadcloud2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 170
+        width: 146
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -24.5}
+        - {x: 5, y: 41.5}
+        - {x: -10, y: 111.5}
+        - {x: 24, y: 130.5}
+        - {x: 47, y: 155.5}
+        - {x: 47, y: 159.5}
+        - {x: -73, y: 159.5}
+        - {x: -73, y: -132.5}
+        - {x: -64, y: -154.5}
+        - {x: -40, y: -159.5}
+        - {x: 38, y: -159.5}
+        - {x: 40, y: -158.5}
+        - {x: 73, y: -133.5}
+        - {x: 73, y: -46.5}
+    - name: u_Loadhill1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 81
+        width: 239
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 64}
+        - {x: -6.5, y: -10}
+        - {x: -119.5, y: -90}
+        - {x: -119.5, y: -93}
+        - {x: 119.5, y: -93}
+        - {x: 119.5, y: 93}
+        - {x: 62.5, y: 93}
+        - {x: 52.5, y: 91}
+    - name: u_Loadhill2
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 829
+        width: 246
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: 87.5}
+        - {x: -118, y: 96.5}
+        - {x: -123, y: 96.5}
+        - {x: -123, y: -96.5}
+        - {x: 123, y: -96.5}
+        - {x: 123, y: -78.5}
+        - {x: -10, y: 10.5}
+    - name: u_Loadsky
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 389
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 128}
+        - {x: -64, y: -128}
+        - {x: 64, y: -128}
+        - {x: 64, y: 128}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

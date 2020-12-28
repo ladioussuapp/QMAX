@@ -1,0 +1,47 @@
+<root>
+    <!-- 
+    id:道具编号
+    tab:购买页签
+    sortId:排序编号
+    goodsId:道具id
+    goodsStringId:名称字符串编号
+    goodsContentId:描述字符串编号
+    coin:对应花费金币
+    gem:对应花费钻石
+    buyNum:可购量
+    flag:购买标识
+    shopIcon:图片资源路径
+    -->
+    <item id="1" tab="1" sortId="4" goodsId="21" goodsStringId="20007" goodsContentId="20008" coin="0" gem="100" buyNum="1" flag="1" shopIcon="MatLittle" /> 
+    <item id="2" tab="1" sortId="5" goodsId="22" goodsStringId="20009" goodsContentId="20010" coin="0" gem="175" buyNum="1" flag="1" shopIcon="MatMore" /> 
+    <item id="3" tab="1" sortId="6" goodsId="23" goodsStringId="20011" goodsContentId="20012" coin="0" gem="250" buyNum="1" flag="1" shopIcon="MatSome" /> 
+    <item id="4" tab="2" sortId="1" goodsId="101" goodsStringId="20019" goodsContentId="20020" coin="36750" gem="0" buyNum="5" flag="1" shopIcon="MoveUp" /> 
+    <item id="5" tab="2" sortId="2" goodsId="102" goodsStringId="20021" goodsContentId="20022" coin="36750" gem="0" buyNum="5" flag="1" shopIcon="HpDown" /> 
+    <item id="6" tab="2" sortId="3" goodsId="103" goodsStringId="20023" goodsContentId="20024" coin="61250" gem="0" buyNum="5" flag="1" shopIcon="CollectDown" /> 
+    <item id="7" tab="2" sortId="4" goodsId="104" goodsStringId="20025" goodsContentId="20026" coin="73500" gem="0" buyNum="5" flag="1" shopIcon="GoalUp" /> 
+    <item id="8" tab="2" sortId="5" goodsId="105" goodsStringId="20027" goodsContentId="20028" coin="24500" gem="0" buyNum="5" flag="1" shopIcon="GiftUp" /> 
+    <item id="9" tab="2" sortId="6" goodsId="106" goodsStringId="20029" goodsContentId="20030" coin="36750" gem="0" buyNum="5" flag="1" shopIcon="AttackUp" /> 
+    <item id="10" tab="2" sortId="7" goodsId="201" goodsStringId="20031" goodsContentId="20032" coin="0" gem="100" buyNum="5" flag="1" shopIcon="Goods_1" /> 
+    <item id="11" tab="2" sortId="8" goodsId="202" goodsStringId="20033" goodsContentId="20034" coin="0" gem="150" buyNum="5" flag="1" shopIcon="Goods_2" /> 
+    <item id="12" tab="2" sortId="9" goodsId="203" goodsStringId="20035" goodsContentId="20036" coin="0" gem="100" buyNum="5" flag="1" shopIcon="Goods_3" /> 
+    <item id="13" tab="2" sortId="10" goodsId="204" goodsStringId="20037" goodsContentId="20038" coin="0" gem="50" buyNum="5" flag="1" shopIcon="Goods_4" /> 
+    <item id="14" tab="3" sortId="1" goodsId="301" goodsStringId="20039" goodsContentId="20040" coin="0" gem="10" buyNum="3500" flag="0" shopIcon="CoinLittle" /> 
+    <item id="15" tab="3" sortId="2" goodsId="301" goodsStringId="20039" goodsContentId="20040" coin="0" gem="20" buyNum="7140" flag="0" shopIcon="CoinLittle" /> 
+    <item id="16" tab="3" sortId="3" goodsId="301" goodsStringId="20039" goodsContentId="20040" coin="0" gem="50" buyNum="18375" flag="0" shopIcon="CoinLittle" /> 
+    <item id="17" tab="3" sortId="4" goodsId="301" goodsStringId="20039" goodsContentId="20040" coin="0" gem="100" buyNum="38500" flag="0" shopIcon="CoinMore" /> 
+    <item id="18" tab="3" sortId="5" goodsId="301" goodsStringId="20039" goodsContentId="20040" coin="0" gem="200" buyNum="80500" flag="0" shopIcon="CoinSome" /> 
+    <item id="101" tab="1" sortId="1" goodsId="1" goodsStringId="20001" goodsContentId="20002" coin="0" gem="80" buyNum="1" flag="1" shopIcon="SuitLittle" /> 
+    <item id="102" tab="1" sortId="2" goodsId="2" goodsStringId="20003" goodsContentId="20004" coin="0" gem="150" buyNum="1" flag="1" shopIcon="SuitMore" /> 
+    <item id="103" tab="1" sortId="3" goodsId="3" goodsStringId="20005" goodsContentId="20006" coin="0" gem="200" buyNum="1" flag="1" shopIcon="SuitSome" /> 
+    <item id="151" tab="2" sortId="-1" goodsId="101" goodsStringId="20019" goodsContentId="20020" coin="10500" gem="0" buyNum="1" flag="1" shopIcon="MoveUp" /> 
+    <item id="152" tab="2" sortId="-1" goodsId="102" goodsStringId="20021" goodsContentId="20022" coin="10500" gem="0" buyNum="1" flag="1" shopIcon="HpDown" /> 
+    <item id="153" tab="2" sortId="-1" goodsId="103" goodsStringId="20023" goodsContentId="20024" coin="17500" gem="0" buyNum="1" flag="1" shopIcon="CollectDown" /> 
+    <item id="154" tab="2" sortId="-1" goodsId="104" goodsStringId="20025" goodsContentId="20026" coin="21000" gem="0" buyNum="1" flag="1" shopIcon="GoalUp" /> 
+    <item id="155" tab="2" sortId="-1" goodsId="105" goodsStringId="20027" goodsContentId="20028" coin="7000" gem="0" buyNum="1" flag="1" shopIcon="GiftUp" /> 
+    <item id="156" tab="2" sortId="-1" goodsId="106" goodsStringId="20029" goodsContentId="20030" coin="10500" gem="0" buyNum="1" flag="1" shopIcon="AttackUp" /> 
+    <item id="157" tab="2" sortId="-1" goodsId="201" goodsStringId="20031" goodsContentId="20032" coin="0" gem="40" buyNum="1" flag="1" shopIcon="Goods_1" /> 
+    <item id="158" tab="2" sortId="-1" goodsId="202" goodsStringId="20033" goodsContentId="20034" coin="0" gem="60" buyNum="1" flag="1" shopIcon="Goods_2" /> 
+    <item id="159" tab="2" sortId="-1" goodsId="203" goodsStringId="20035" goodsContentId="20036" coin="0" gem="40" buyNum="1" flag="1" shopIcon="Goods_3" /> 
+    <item id="160" tab="2" sortId="-1" goodsId="204" goodsStringId="20037" goodsContentId="20038" coin="0" gem="20" buyNum="1" flag="1" shopIcon="Goods_4" /> 
+
+</root>

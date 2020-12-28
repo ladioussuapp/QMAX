@@ -1,0 +1,152 @@
+{
+	"settings":[
+		{"Animation":"Idle", "LoopTime":true},
+		{"Animation":"Idle2", "LoopTime":true},
+		{"Animation":"Charge", "LoopTime":true},
+		{"Animation":"Win", "LoopTime":true}
+		{"Animation":"Shock_left", "LoopTime":true}
+		{"Animation":"Shock_right", "LoopTime":true}
+	],
+	"events":[
+		{"Animation":"Attack", "Function":"OnEvent", "Parameter":"Attack", "FrameIndex":16, "FrameCount":60},
+		{"Animation":"Attack", "Function":"OnEvent", "Parameter":"Back", "FrameIndex":50, "FrameCount":60},
+		{"Animation":"Skill", "Function":"OnEvent", "Parameter":"Skill", "FrameIndex":56, "FrameCount":60}
+	],
+	"parameters":[
+		{"Name":"TriggerHit", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerSkill", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerAttack", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerCharge", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerIdle", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerIdle2", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerWalk", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerWin", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerShockLeft", "Type":"Trigger", "Value":false},
+		{"Name":"TriggerShockRight", "Type":"Trigger", "Value":false}
+	],
+	"controllers":[
+		{"From":"Idle", "To":"Idle2", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerIdle2", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle2", "To":"Idle", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerIdle", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle", "To":"Charge", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerCharge", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Charge", "To":"Idle", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerIdle", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle", "To":"Win", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWin", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Win", "To":"Idle", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerIdle", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle", "To":"Hit", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerHit", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Hit", "To":"Idle", "HasExitTime":true, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerIdle", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle", "To":"Attack", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerAttack", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Attack", "To":"Idle", "HasExitTime":true, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[]
+		},
+		{"From":"Idle", "To":"Shock_left", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerShockLeft", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Shock_left", "To":"Idle", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerIdle", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle", "To":"Shock_right", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerShockRight", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Shock_right", "To":"Idle", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerIdle", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Charge", "To":"Skill", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerSkill", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Charge", "To":"Attack", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerAttack", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Skill", "To":"Idle", "HasExitTime":true, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerIdle", "Mode":"If", "Threshold":0}
+			]
+		}	
+		{"From":"Shock_right", "To":"Attack", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerAttack", "Mode":"If", "Threshold":0}
+			]
+		}
+		{"From":"Shock_left", "To":"Attack", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerAttack", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle2", "To":"Charge", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerCharge", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle2", "To":"Win", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerWin", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle2", "To":"Hit", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerHit", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle2", "To":"Attack", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerAttack", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle2", "To":"Shock_left", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerShockLeft", "Mode":"If", "Threshold":0}
+			]
+		},
+		{"From":"Idle2", "To":"Shock_right", "HasExitTime":false, "ExitTime":1, "TransitionDuratio":0, "TransitionOffset":0,
+			"Conditions":[
+				{"Parameter":"TriggerShockRight", "Mode":"If", "Threshold":0}
+			]
+		}
+	]
+}

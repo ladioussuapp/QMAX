@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 85f58bc7b7b35c843b9deaccec1b1f2a
+timeCreated: 1438068122
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIWIFI_001
+    21300002: UIWIFI_0010
+    21300004: UIWIFI_0011
+    21300006: UIWIFI_002
+    21300008: UIWIFI_003
+    21300010: UIWIFI_004
+    21300012: UIWIFI_005
+    21300014: UIWIFI_006
+    21300016: UIWIFI_007
+    21300018: UIWIFI_008
+    21300020: UIWIFI_009
+    21300022: UIWIFI_0012
+    21300024: UIWIFI_0013
+    21300026: UIWIFI_0022
+    21300028: UIWIFI_0023
+    21300030: UIWIFI_0024
+    21300032: UIWIFI_0025
+    21300034: UIWIFI_0026
+    21300036: UIWIFI_0027
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: 47
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: 4
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: UIWIFI_001
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 819
+        width: 225
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0010
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 610
+        width: 253
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 709
+        width: 313
+        height: 313
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0012
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 734
+        width: 254
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0013
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 681
+        width: 254
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_002
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 752
+        width: 165
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0022
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 453
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0023
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 197
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0024
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 225
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0025
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 225
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0026
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 486
+        width: 184
+        height: 221
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_0027
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 263
+        width: 184
+        height: 221
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_003
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 909
+        width: 198
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_004
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 625
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_005
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 805
+        width: 237
+        height: 217
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_006
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 203
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_007
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 543
+        width: 139
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UIWIFI_008
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 681
+        width: 158
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 58, y: 67, z: 55, w: 54}
+    - name: UIWIFI_009
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 543
+        width: 158
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 66, y: 64, z: 63, w: 55}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

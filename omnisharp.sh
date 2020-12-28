@@ -1,0 +1,1 @@
+mono ~/Work/omnisharp-server/OmniSharp/bin/Debug/OmniSharp.exe -p 59993

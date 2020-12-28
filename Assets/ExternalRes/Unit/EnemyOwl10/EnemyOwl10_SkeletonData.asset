@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: EnemyOwl10_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: ee855e4e95ded6841a39d43aac48b226, type: 2}
+  skeletonJSON: {fileID: 4900000, guid: 710bbfbfb1ecd044a89a02a2cb3fd5a2, type: 3}
+  scale: .109999999
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: .200000003
+  controller: {fileID: 9100000, guid: 5322ade67e726d843ab90a7dc1eaa9db, type: 2}

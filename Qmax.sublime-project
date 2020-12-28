@@ -1,0 +1,47 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.dll",
+				"*.meta",
+				"*.asset",
+				"*.unity",
+				"*.ttf",
+				"*.pdf",
+				"*.unitypackage",
+				"*.mdb",
+				"*.prefab",
+				"*.ogg",
+				"*.controller",
+				"*.anim",
+				"*.jar",
+				"*.mat",
+				"*.fbx",
+				"*.wav",
+				".*"
+			],
+			"folder_exclude_patterns":
+			[
+				"Animation",
+				"ExternalRes",
+				"Font",
+				"Materials",
+				"NGUIAtlas",
+				"Prefabs",
+				"StreamingAssets",
+				"Images",
+				"Resources",
+				"Spine",
+				"Textures",
+				".*"
+			],
+			"path": "Assets"
+		},
+		{
+			"path": "Assets/ExternalRes/Config"
+		}
+	],
+	"solution_file": "./TestProject.sln"
+}

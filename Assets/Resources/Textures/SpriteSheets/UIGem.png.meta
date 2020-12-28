@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: d0331dff91015ea46b6405387d38137c
+timeCreated: 1450152666
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UIGem_00012
+    21300002: UIGem_00013
+    21300004: UIGem_00014
+    21300006: UIGem_00016
+    21300008: UIGem_00017
+    21300010: diamond
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: UIGem_00012
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 331
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87.5, y: 55.5}
+        - {x: 41.5, y: 89.5}
+        - {x: -76.5, y: 89.5}
+        - {x: -90.5, y: 55.5}
+        - {x: -90.5, y: -58.5}
+        - {x: -75.5, y: -82.5}
+        - {x: -34.5, y: -89.5}
+        - {x: 31.5, y: -89.5}
+        - {x: 68.5, y: -81.5}
+        - {x: 90.5, y: -74.5}
+        - {x: 90.5, y: 38.5}
+    - name: UIGem_00013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 167
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: 78}
+        - {x: 43.5, y: 91}
+        - {x: 38.5, y: 91}
+        - {x: 9.5, y: 80}
+        - {x: 13.5, y: 55}
+        - {x: 15.5, y: 55}
+        - {x: 15.5, y: 50}
+        - {x: 16.5, y: 47}
+        - {x: 15.5, y: 51}
+        - {x: 12.5, y: 56}
+        - {x: 8.5, y: 79}
+        - {x: 5.5, y: 91}
+        - {x: -83.5, y: 91}
+        - {x: -83.5, y: -89}
+        - {x: -75.5, y: -91}
+        - {x: 64.5, y: -91}
+        - {x: 83.5, y: -72}
+        - {x: 83.5, y: 23}
+        - {x: 81.5, y: 28}
+    - name: UIGem_00014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 315
+        width: 167
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 63.5}
+        - {x: -83.5, y: 31.5}
+        - {x: -83.5, y: -43.5}
+        - {x: -65.5, y: -97.5}
+        - {x: 83.5, y: -97.5}
+        - {x: 83.5, y: 26.5}
+        - {x: 6.5, y: 63.5}
+      - - {x: -10.5, y: 97.5}
+        - {x: -9.5, y: 94.5}
+        - {x: -5.5, y: 94.5}
+        - {x: -3.5, y: 96.5}
+        - {x: -3.5, y: 97.5}
+    - name: UIGem_00016
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 153
+        width: 169
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 88}
+        - {x: -82.5, y: 88}
+        - {x: -84.5, y: 83}
+        - {x: -84.5, y: -77}
+        - {x: -47.5, y: -84}
+        - {x: -21.5, y: -88}
+        - {x: 47.5, y: -88}
+        - {x: 74.5, y: -47}
+        - {x: 84.5, y: -12}
+        - {x: 84.5, y: 6}
+    - name: UIGem_00017
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 368
+        width: 128
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 71}
+        - {x: -64, y: 62}
+        - {x: -64, y: 23}
+        - {x: -59, y: 17}
+        - {x: -51, y: 16}
+        - {x: -46, y: 16}
+        - {x: -48, y: 16}
+        - {x: -52, y: 12}
+        - {x: -64, y: 5}
+        - {x: -64, y: -30}
+        - {x: -50, y: -71}
+        - {x: 64, y: -71}
+        - {x: 64, y: 71}
+    - name: diamond
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 25.5}
+        - {x: -28.5, y: -11.5}
+        - {x: -22.5, y: -25.5}
+        - {x: 12.5, y: -25.5}
+        - {x: 28.5, y: -5.5}
+        - {x: 28.5, y: 25.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: d6546b18147f9924cafc473f295c2459
+timeCreated: 1608778103
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: win_000203
+    21300002: win_000513
+    21300004: win_0017
+    21300006: win_0018
+    21300008: win_0018A
+    21300010: win_0019
+    21300012: win_0020
+    21300014: win_0020A
+    21300016: win_00213
+    21300018: win_0022
+    21300020: win_0029
+    21300022: win_0030
+    21300024: win_0031
+    21300026: win_0039
+    21300028: win_0041
+    21300030: win_0043
+    21300032: win_0046
+    21300034: win_0047
+    21300036: win_0048
+    21300038: win_0054
+    21300040: win_0055
+    21300042: win_0060
+    21300044: win_00555
+    21300046: win_0021
+    21300048: win_0064
+    21300050: win_0065
+    21300052: win_0066
+    21300054: win_0067
+    21300056: win_0068
+    21300058: win_0061
+    21300060: win_0078
+    21300062: UIWin_0
+    21300064: UIWin_1
+    21300066: UIWin_2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: 47
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: win_000203
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 999
+        width: 140
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_000513
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1067
+        width: 122
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0017
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 526
+        width: 118
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0018
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 532
+        width: 348
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0018A
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 394
+        width: 348
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0019
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1173
+        width: 141
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0020
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 348
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0020A
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 348
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_00213
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1210
+        width: 182
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0022
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2001
+        width: 689
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0029
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1475
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0030
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1691
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0031
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1921
+        width: 301
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0039
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1616
+        width: 72
+        height: 77
+      alignment: 9
+      pivot: {x: 0.49999914, y: 0.5296662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0041
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1541
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0043
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1529
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0046
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1606
+        width: 273
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0047
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1775
+        width: 334
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0048
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1414
+        width: 672
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0054
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 856
+        width: 150
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0055
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 670
+        width: 130
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0060
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 432
+        width: 384
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_00555
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1447
+        width: 63
+        height: -63
+      alignment: 9
+      pivot: {x: 0.46745047, y: 0.53396386}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0021
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1212
+        width: 188
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0064
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 591
+        width: 118
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0065
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 702
+        width: 672
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0066
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 864
+        width: 672
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0067
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1035
+        width: 672
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 96, z: 0, w: 54}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0068
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1272
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0061
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1386
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: win_0078
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 705
+        width: 156
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 78, y: 0, z: 78, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: UIWin_0
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1214
+        width: 158
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIWin_1
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: UIWin_2
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1217
+        width: 158
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

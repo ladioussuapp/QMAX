@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 39d5cafc52b291d468b4ec02a4ff43f3
+timeCreated: 1442823418
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UILoginGive_001
+    21300002: UILoginGive_0010
+    21300004: UILoginGive_0011
+    21300006: UILoginGive_0012
+    21300008: UILoginGive_0013
+    21300010: UILoginGive_0014
+    21300012: UILoginGive_0015
+    21300014: UILoginGive_002
+    21300016: UILoginGive_003
+    21300018: UILoginGive_004
+    21300020: UILoginGive_005
+    21300022: UILoginGive_006
+    21300024: UILoginGive_007
+    21300026: UILoginGive_008
+    21300028: UILoginGive_009
+    21300030: Energy
+    21300032: EnergyCache
+    21300034: UpgradeA
+    21300036: UpgradeALittle
+    21300038: UpgradeAMore
+    21300040: UpgradeASome
+    21300042: UpgradeB
+    21300044: UpgradeBLittle
+    21300046: UpgradeBMore
+    21300048: UpgradeBSome
+    21300050: Hippo1
+    21300052: UILoginGive_Day1
+    21300054: UILoginGive_Day2
+    21300056: UILoginGive_Day3
+    21300058: UILoginGive_Day4
+    21300060: UILoginGive_Day5
+    21300062: UILoginGive_Day6
+    21300064: UILoginGive_Day7
+    21300066: Key
+    21300068: Gem
+    21300070: 1301
+    21300072: Lion1
+    21300074: Rabbit1
+    21300076: Raccoon1
+    21300078: Sheep1
+    21300080: all
+    21300082: liangzhi
+    21300084: Threepets
+    21300086: Twopets
+    21300088: gui
+    21300090: laohu
+    21300092: zuangshi
+    21300094: Moregem
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Lion1
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 50
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 48.5}
+        - {x: -35.5, y: 12.5}
+        - {x: -35.5, y: -31.5}
+        - {x: -29.5, y: -48.5}
+        - {x: 25.5, y: -48.5}
+        - {x: 35.5, y: -33.5}
+        - {x: 35.5, y: 10.5}
+        - {x: 15.5, y: 48.5}
+      - - {x: -35.5, y: 0.5}
+        - {x: -35.5, y: -5.5}
+        - {x: -33.5, y: -5.5}
+        - {x: -31.5, y: -3.5}
+        - {x: -31.5, y: -1.5}
+        - {x: -33.5, y: 0.5}
+    - name: Moregem
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 29
+        width: 191
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 54.5}
+        - {x: -59.5, y: 35.5}
+        - {x: -91.5, y: -4.5}
+        - {x: -95.5, y: -21.5}
+        - {x: -95.5, y: -42.5}
+        - {x: -83.5, y: -54.5}
+        - {x: 66.5, y: -54.5}
+        - {x: 95.5, y: -44.5}
+        - {x: 95.5, y: 42.5}
+        - {x: 85.5, y: 54.5}
+    - name: Rabbit1
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 414
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 48}
+        - {x: -39.5, y: 25}
+        - {x: -39.5, y: -48}
+        - {x: 39.5, y: -48}
+        - {x: 39.5, y: 24}
+        - {x: 13.5, y: 48}
+    - name: Raccoon1
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 107
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 42.5}
+        - {x: -44, y: -42.5}
+        - {x: 35, y: -42.5}
+        - {x: 44, y: -40.5}
+        - {x: 44, y: 42.5}
+      - - {x: -23, y: 40.5}
+        - {x: -23, y: 39.5}
+        - {x: -20, y: 36.5}
+        - {x: -17, y: 37.5}
+        - {x: -17, y: 40.5}
+        - {x: -19, y: 42.5}
+        - {x: -21, y: 42.5}
+      - - {x: 20, y: 40.5}
+        - {x: 20, y: 38.5}
+        - {x: 22, y: 36.5}
+        - {x: 23, y: 36.5}
+        - {x: 26, y: 39.5}
+        - {x: 25, y: 42.5}
+        - {x: 22, y: 42.5}
+    - name: Sheep1
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 53
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 47}
+        - {x: -48.5, y: 9}
+        - {x: -48.5, y: -29}
+        - {x: -42.5, y: -47}
+        - {x: 25.5, y: -47}
+        - {x: 48.5, y: -24}
+        - {x: 48.5, y: 9}
+        - {x: 35.5, y: 47}
+      - - {x: -43.5, y: -19}
+        - {x: -45.5, y: -21}
+        - {x: -45.5, y: -22}
+        - {x: -42.5, y: -25}
+        - {x: -40.5, y: -25}
+        - {x: -38.5, y: -23}
+        - {x: -38.5, y: -21}
+        - {x: -40.5, y: -19}
+      - - {x: -38.5, y: 29}
+        - {x: -35.5, y: 30}
+        - {x: -35.5, y: 33}
+        - {x: -38.5, y: 34}
+        - {x: -40.5, y: 32}
+    - name: Threepets
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 35
+        width: 241
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: 51.5}
+        - {x: -109.5, y: 35.5}
+        - {x: -120.5, y: 17.5}
+        - {x: -120.5, y: -51.5}
+        - {x: 119.5, y: -51.5}
+        - {x: 120.5, y: -50.5}
+        - {x: 120.5, y: 48.5}
+        - {x: 114.5, y: 51.5}
+      - - {x: -24.5, y: 35.5}
+        - {x: -23.5, y: 32.5}
+        - {x: -20.5, y: 32.5}
+        - {x: -18.5, y: 34.5}
+        - {x: -19.5, y: 37.5}
+        - {x: -22.5, y: 37.5}
+      - - {x: 17.5, y: 32.5}
+        - {x: 22.5, y: 32.5}
+        - {x: 22.5, y: 38.5}
+        - {x: 18.5, y: 38.5}
+        - {x: 16.5, y: 36.5}
+        - {x: 16.5, y: 34.5}
+    - name: Twopets
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 256
+        width: 116
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 42.5}
+        - {x: -57, y: 40.5}
+        - {x: -58, y: 36.5}
+        - {x: -58, y: -32.5}
+        - {x: -48, y: -42.5}
+        - {x: 46, y: -42.5}
+        - {x: 58, y: -27.5}
+        - {x: 58, y: 35.5}
+        - {x: 35, y: 42.5}
+      - - {x: -55, y: -26.5}
+        - {x: -52, y: -25.5}
+        - {x: -52, y: -22.5}
+        - {x: -55, y: -21.5}
+        - {x: -57, y: -23.5}
+    - name: UILoginGive_001
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 140
+        width: 734
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133, y: -182}
+        - {x: -127, y: -184}
+        - {x: -123, y: -185}
+        - {x: -90, y: -185}
+        - {x: -87, y: -183}
+        - {x: -88, y: -181}
+        - {x: -87, y: -183}
+        - {x: -87, y: -185}
+        - {x: -58, y: -185}
+        - {x: -55, y: -184}
+        - {x: -48, y: -185}
+        - {x: -40, y: -185}
+        - {x: -38, y: -184}
+        - {x: -35, y: -185}
+        - {x: 8, y: -185}
+        - {x: 21, y: -182}
+        - {x: 28, y: -185}
+        - {x: 76, y: -185}
+        - {x: 80, y: -184}
+        - {x: 92, y: -182}
+        - {x: 103, y: -185}
+        - {x: 161, y: -185}
+        - {x: 162, y: -182}
+        - {x: 171, y: -185}
+        - {x: 195, y: -185}
+        - {x: 198, y: -184}
+        - {x: 213, y: -185}
+        - {x: 237, y: -185}
+        - {x: 247, y: -181}
+        - {x: 252, y: -184}
+        - {x: 254, y: -185}
+        - {x: 259, y: -185}
+        - {x: 267, y: -179}
+        - {x: 281, y: -182}
+        - {x: 309, y: -177}
+        - {x: 322, y: -181}
+        - {x: 334, y: -175}
+        - {x: 360, y: -175}
+        - {x: 367, y: -168}
+        - {x: 367, y: 131}
+        - {x: 365, y: 136}
+        - {x: 359, y: 142}
+        - {x: 350, y: 146}
+        - {x: -30, y: 146}
+        - {x: -38, y: 155}
+        - {x: -46, y: 160}
+        - {x: -60, y: 165}
+        - {x: -82, y: 164}
+        - {x: -100, y: 156}
+        - {x: -109, y: 150}
+        - {x: -112, y: 146}
+        - {x: -190, y: 146}
+        - {x: -190, y: 147}
+        - {x: -199, y: 150}
+        - {x: -203, y: 163}
+        - {x: -208, y: 169}
+        - {x: -222, y: 182}
+        - {x: -228, y: 185}
+        - {x: -249, y: 185}
+        - {x: -259, y: 181}
+        - {x: -267, y: 174}
+        - {x: -269, y: 166}
+        - {x: -269, y: 159}
+        - {x: -267, y: 150}
+        - {x: -265, y: 146}
+        - {x: -288, y: 146}
+        - {x: -295, y: 154}
+        - {x: -308, y: 161}
+        - {x: -321, y: 164}
+        - {x: -332, y: 163}
+        - {x: -346, y: 157}
+        - {x: -359, y: 144}
+        - {x: -366, y: 135}
+        - {x: -367, y: 133}
+        - {x: -367, y: -166}
+        - {x: -361, y: -169}
+        - {x: -347, y: -174}
+        - {x: -331, y: -175}
+        - {x: -320, y: -179}
+        - {x: -285, y: -179}
+        - {x: -282, y: -181}
+        - {x: -264, y: -178}
+        - {x: -257, y: -180}
+        - {x: -246, y: -180}
+        - {x: -235, y: -185}
+        - {x: -216, y: -185}
+        - {x: -208, y: -183}
+        - {x: -202, y: -185}
+        - {x: -141, y: -185}
+      - - {x: -296, y: -183}
+        - {x: -293, y: -182}
+        - {x: -293, y: -179}
+        - {x: -296, y: -178}
+        - {x: -298, y: -180}
+    - name: UILoginGive_0013
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 6
+        width: 122
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 0, z: 42, w: 0}
+      outline:
+      - - {x: -58, y: 22.5}
+        - {x: -61, y: 19.5}
+        - {x: -61, y: -22.5}
+        - {x: 37, y: -22.5}
+        - {x: 61, y: -21.5}
+        - {x: 61, y: 22.5}
+    - name: UILoginGive_0014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 12, z: 14, w: 14}
+      outline:
+      - - {x: -58, y: 58}
+        - {x: -58, y: -58}
+        - {x: 58, y: -58}
+        - {x: 58, y: 58}
+    - name: UILoginGive_003
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 343
+        width: 163
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 17, z: 18, w: 17}
+      outline:
+      - - {x: 73.5, y: 83.5}
+        - {x: -75.5, y: 83.5}
+        - {x: -81.5, y: 76.5}
+        - {x: -81.5, y: -73.5}
+        - {x: -78.5, y: -78.5}
+        - {x: -72.5, y: -83.5}
+        - {x: 73.5, y: -83.5}
+        - {x: 77.5, y: -81.5}
+        - {x: 81.5, y: -76.5}
+        - {x: 81.5, y: 72.5}
+    - name: UILoginGive_004
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 149
+        width: 162
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 19, z: 15, w: 16}
+      outline:
+      - - {x: 71, y: 83.5}
+        - {x: -75, y: 83.5}
+        - {x: -81, y: 76.5}
+        - {x: -81, y: -72.5}
+        - {x: -79, y: -77.5}
+        - {x: -74, y: -83.5}
+        - {x: 75, y: -83.5}
+        - {x: 81, y: -77.5}
+        - {x: 81, y: 75.5}
+    - name: UILoginGive_005
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 28
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 55}
+        - {x: -54.5, y: 46}
+        - {x: -54.5, y: -30}
+        - {x: -45.5, y: -55}
+        - {x: 46.5, y: -55}
+        - {x: 54.5, y: -39}
+        - {x: 54.5, y: 44}
+        - {x: 25.5, y: 55}
+    - name: UILoginGive_Day1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UILoginGive_Day2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UILoginGive_Day3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 4
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UILoginGive_Day4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 4
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UILoginGive_Day5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 4
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UILoginGive_Day6
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 225
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: UILoginGive_Day7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 194
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gui
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 35
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 39.5}
+        - {x: 8, y: 51.5}
+        - {x: -20, y: 51.5}
+        - {x: -38, y: 28.5}
+        - {x: -38, y: -28.5}
+        - {x: -23, y: -51.5}
+        - {x: 30, y: -51.5}
+        - {x: 38, y: -25.5}
+        - {x: 38, y: 17.5}
+        - {x: 32, y: 25.5}
+    - name: laohu
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 318
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 47}
+        - {x: -39.5, y: 40}
+        - {x: -39.5, y: -20}
+        - {x: -21.5, y: -47}
+        - {x: 12.5, y: -47}
+        - {x: 39.5, y: -28}
+        - {x: 39.5, y: 41}
+        - {x: 37.5, y: 47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

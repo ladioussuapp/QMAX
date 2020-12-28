@@ -1,0 +1,164 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Textures/GetChance/GetChance.tpsheet
+- Assets/Resources/Textures/SpriteSheets/Tile2.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UINotice.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIWifi.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIComponent.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIMap.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIDialog.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIWin.tpsheet
+- Assets/Spine/EliminateAim/ObstacleBamboo/ObstacleBamboo.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIHotUpdate.tpsheet
+- Assets/Textures/LessStepTips/LessStepTips.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UILoginnew.tpsheet
+- Assets/Resources/Textures/Comics/Comics.tpsheet
+- Assets/Spine/EliminateAim/ObstacleSaliva/ObstacleSaliva.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UILoginGive.tpsheet
+- Assets/Spine/EliminateAim/ObstacleTooth/ObstacleTooth.tpsheet
+- Assets/Resources/Textures/Finger/FingerAni.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIUnlock.tpsheet
+- Assets/Textures/EnergyIconEffect/EnergyIconEffect.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIUpgradeBg.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UILanguage.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIBattle.tpsheet
+- Assets/Effect/Particle/Effect_Han/Effect_Han.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIExchangeCode.tpsheet
+- Assets/Spine/EliminateAim/ObstacleAttachments2/ObstacleAttachments2.tpsheet
+- Assets/Effect/Particle/Textures/EffectUIGemItemRoot/EffectUIGemItemRoot.tpsheet
+- Assets/Spine/EliminateAim/ObstacleCactusDesert/ObstacleCactusDesert.tpsheet
+- Assets/Spine/EliminateAim/SeperatorIce/SeperatorIce.tpsheet
+- Assets/Spine/EliminateAim/ObstacleCactusBlue/ObstacleCactusBlue.tpsheet
+- Assets/Resources/Textures/EffectBoom/u_Boom.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIPowerShop.tpsheet
+- Assets/Resources/Textures/SpriteSheets/Tile1.tpsheet
+- Assets/Textures/EffectLightIcon/EffectLight.tpsheet
+- Assets/Spine/EliminateAim/ObstacleConch1/ObstacleConch1.tpsheet
+- Assets/Spine/EliminateAim/ObstacleGlass/ObstacleGlass.tpsheet
+- Assets/Resources/Textures/SpriteSheets/SceneLoading.tpsheet
+- Assets/Effect/Particle/EffectUiBoom/Effectshuiwen.tpsheet
+- Assets/Resources/Textures/UiNEWload/UiNEWload.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIAchievement.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIGem.tpsheet
+- Assets/Resources/Textures/SpriteSheets/Tile0.tpsheet
+- Assets/Spine/EliminateAim/ObstacleAttachments3/ObstacleAttachments3.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UIGetChance.tpsheet
+- Assets/Spine/EliminateAim/ObstacleSaliva1/ObstacleSaliva1.tpsheet
+- Assets/Effect/Particle/Textures/BattleTips01/Blight.tpsheet
+- Assets/Textures/FlashIconEffect/FlashIconEffect.tpsheet
+- Assets/Spine/EliminateAim/ObstacleAttachments1/ObstacleAttachments1.tpsheet
+- Assets/Spine/EliminateAim/ObstacleSnow/ObstacleSnow.tpsheet
+- Assets/Spine/EliminateAim/SeperatorBatten/SeperatorBatten.tpsheet
+- Assets/Effect/Particle/EffectUiBoom/EffectUiBoom.tpsheet
+- Assets/Resources/Textures/SpriteSheets/UILose.tpsheet
+- Assets/Textures/LoseLight/LoseLight.tpsheet
+- Assets/Spine/EliminateAim/ObstacleBox/ObstacleBox.tpsheet
+textureFileNames:
+- Assets/Textures/GetChance/GetChance.png
+- Assets/Resources/Textures/SpriteSheets/Tile2.png
+- Assets/Resources/Textures/SpriteSheets/UINotice.png
+- Assets/Resources/Textures/SpriteSheets/UIWifi.png
+- Assets/Resources/Textures/SpriteSheets/UIComponent.png
+- Assets/Resources/Textures/SpriteSheets/UIMap.png
+- Assets/Resources/Textures/SpriteSheets/UIDialog.png
+- Assets/Resources/Textures/SpriteSheets/UIWin.png
+- Assets/Spine/EliminateAim/ObstacleBamboo/ObstacleBamboo.png
+- Assets/Resources/Textures/SpriteSheets/UIHotUpdate.png
+- Assets/Textures/LessStepTips/LessStepTips.png
+- Assets/Resources/Textures/SpriteSheets/UILoginnew.png
+- Assets/Resources/Textures/Comics/Comics.png
+- Assets/Spine/EliminateAim/ObstacleSaliva/ObstacleSaliva.png
+- Assets/Resources/Textures/SpriteSheets/UILoginGive.png
+- Assets/Spine/EliminateAim/ObstacleTooth/ObstacleTooth.png
+- Assets/Resources/Textures/Finger/FingerAni.png
+- Assets/Resources/Textures/SpriteSheets/UIUnlock.png
+- Assets/Textures/EnergyIconEffect/EnergyIconEffect.png
+- Assets/Resources/Textures/SpriteSheets/UIUpgradeBg.png
+- Assets/Resources/Textures/SpriteSheets/UILanguage.png
+- Assets/Resources/Textures/SpriteSheets/UIBattle.png
+- Assets/Effect/Particle/Effect_Han/Effect_Han.png
+- Assets/Resources/Textures/SpriteSheets/UIExchangeCode.png
+- Assets/Spine/EliminateAim/ObstacleAttachments2/ObstacleAttachments2.png
+- Assets/Effect/Particle/Textures/EffectUIGemItemRoot/EffectUIGemItemRoot.png
+- Assets/Spine/EliminateAim/ObstacleCactusDesert/ObstacleCactusDesert.png
+- Assets/Spine/EliminateAim/SeperatorIce/SeperatorIce.png
+- Assets/Spine/EliminateAim/ObstacleCactusBlue/ObstacleCactusBlue.png
+- Assets/Resources/Textures/EffectBoom/u_Boom.png
+- Assets/Resources/Textures/SpriteSheets/UIPowerShop.png
+- Assets/Resources/Textures/SpriteSheets/Tile1.png
+- Assets/Textures/EffectLightIcon/EffectLight.png
+- Assets/Spine/EliminateAim/ObstacleConch1/ObstacleConch1.png
+- Assets/Spine/EliminateAim/ObstacleGlass/ObstacleGlass.png
+- Assets/Resources/Textures/SpriteSheets/SceneLoading.png
+- Assets/Effect/Particle/EffectUiBoom/Effectshuiwen.png
+- Assets/Resources/Textures/UiNEWload/UiNEWload.png
+- Assets/Resources/Textures/SpriteSheets/UIAchievement.png
+- Assets/Resources/Textures/SpriteSheets/UIGem.png
+- Assets/Resources/Textures/SpriteSheets/Tile0.png
+- Assets/Spine/EliminateAim/ObstacleAttachments3/ObstacleAttachments3.png
+- Assets/Resources/Textures/SpriteSheets/UIGetChance.png
+- Assets/Spine/EliminateAim/ObstacleSaliva1/ObstacleSaliva1.png
+- Assets/Effect/Particle/Textures/BattleTips01/Blight.png
+- Assets/Textures/FlashIconEffect/FlashIconEffect.png
+- Assets/Spine/EliminateAim/ObstacleAttachments1/ObstacleAttachments1.png
+- Assets/Spine/EliminateAim/ObstacleSnow/ObstacleSnow.png
+- Assets/Spine/EliminateAim/SeperatorBatten/SeperatorBatten.png
+- Assets/Effect/Particle/EffectUiBoom/EffectUiBoom.png
+- Assets/Resources/Textures/SpriteSheets/UILose.png
+- Assets/Textures/LoseLight/LoseLight.png
+- Assets/Spine/EliminateAim/ObstacleBox/ObstacleBox.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 

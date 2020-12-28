@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: cab7312e089241b4e8dbb24162b67f75
+timeCreated: 1439108335
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Icon1
+    21300002: Icon2
+    21300004: icon6
+    21300006: icon7
+    21300008: icon8
+    21300010: icon9
+    21300012: iconBG
+    21300014: img1
+    21300016: Ls003
+    21300018: Ls004
+    21300020: Ls005
+    21300022: Map_Fox
+    21300024: Map_Hippo
+    21300026: Map_Monkey
+    21300028: Map_Penguin
+    21300030: Head1301
+    21300032: Head2101
+    21300034: Head4101
+    21300036: Head5101
+    21300038: Ls006
+    21300040: Head1101
+    21300042: Head1201
+    21300044: Head2201
+    21300046: Head2301
+    21300048: Head3201
+    21300050: Head4201
+    21300052: 'Head5201 '
+    21300054: Head5301
+    21300056: Head5201
+    21300058: huodongshijian
+    21300060: Head3301
+    21300062: Head4301
+    21300064: "Head5301\uFFFD\uFFFD\uFFFD\uFFFD 2"
+    21300066: "Head5301\uFFFD\uFFFD\uFFFD\uFFFD 3"
+    21300068: "Head5301\uFFFD\uFFFD\uFFFD\uFFFD 4"
+    21300070: "Head5301\uFFFD\uFFFD\uFFFD\uFFFD 5"
+    21300072: "Head5301\uFFFD\uFFFD\uFFFD\uFFFD"
+    21300074: Map-start
+    21300076: Map-start001
+    21300078: Head1401
+    21300080: Head2401
+    21300082: Head3401
+    21300084: Head4401
+    21300086: Head5401
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: 4
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: 47
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Head1101
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 896
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head1201
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 896
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head1301
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 768
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head1401
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 761
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head2101
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 768
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head2201
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 640
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head2301
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 633
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head2401
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 640
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head3201
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 640
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head3301
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 512
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head3401
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 505
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head4101
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 512
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head4201
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 512
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head4301
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 384
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head4401
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 377
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head5101
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 384
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head5201
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 384
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head5301
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head5401
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ls006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 889
+        width: 177
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 45, y: 50, z: 41, w: 51}
+    - name: Map-start
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 987
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map-start001
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 986
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

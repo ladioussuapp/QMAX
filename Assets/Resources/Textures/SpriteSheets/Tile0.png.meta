@@ -1,0 +1,5757 @@
+fileFormatVersion: 2
+guid: d37726904a7554c44b5083ec3693f6d5
+timeCreated: 1434348752
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AreaBombBlue
+    21300002: AreaBombBlueHL
+    21300004: AreaBombGreen
+    21300006: AreaBombGreenHL
+    21300008: AreaBombPurple
+    21300010: AreaBombPurpleHL
+    21300012: AreaBombRed
+    21300014: AreaBombRedHL
+    21300016: AreaBombYellow
+    21300018: AreaBombYellowHL
+    21300020: BombBlack
+    21300022: BombBlackHL
+    21300024: BombBlue
+    21300026: FullScreenBombBlue
+    21300028: BombBlueHL
+    21300030: BombGreen
+    21300032: FullScreenBombGreen
+    21300034: BombGreenHL
+    21300036: BombPurple
+    21300038: FullScreenBombPurple
+    21300040: BombPurpleHL
+    21300042: BombRed
+    21300044: FullScreenBombRed
+    21300046: BombRedHL
+    21300048: BombYellow
+    21300050: FullScreenBombYellow
+    21300052: BombYellowHL
+    21300054: ConverterBlockBlue
+    21300056: ConverterBlockBlueHL
+    21300058: ConverterBlockGreen
+    21300060: ConverterBlockGreenHL
+    21300062: ConverterBlockPurple
+    21300064: ConverterBlockPurpleHL
+    21300066: ConverterBlockRed
+    21300068: ConverterBlockRedHL
+    21300070: ConverterBlockYellow
+    21300072: ConverterBlockYellowHL
+    21300074: ElementBlue
+    21300076: ElementBlueHL
+    21300078: ElementGreen
+    21300080: ElementGreenHL
+    21300082: ElementPurple
+    21300084: ElementPurpleHL
+    21300086: ElementRed
+    21300088: ElementRedHL
+    21300090: ElementYellow
+    21300092: ElementYellowHL
+    21300094: EnemyMuncher
+    21300096: FullScreenBombBlueHL
+    21300098: FullScreenBombGreenHL
+    21300100: FullScreenBombPurpleHL
+    21300102: FullScreenBombRedHL
+    21300104: FullScreenBombYellowHL
+    21300106: Gem
+    21300108: GemHL
+    21300110: HorizontalBombBlue
+    21300112: HorizontalBombBlueHL
+    21300114: HorizontalBombGreen
+    21300116: HorizontalBombGreenHL
+    21300118: HorizontalBombPurple
+    21300120: HorizontalBombPurpleHL
+    21300122: HorizontalBombRed
+    21300124: HorizontalBombRedHL
+    21300126: HorizontalBombYellow
+    21300128: HorizontalBombYellowHL
+    21300130: Key
+    21300132: KeyHL
+    21300134: ObstacleAttachments1
+    21300136: ObstacleAttachments2
+    21300138: ObstacleAttachments3
+    21300140: ObstacleBamboo1
+    21300142: ObstacleBamboo2
+    21300144: ObstacleBamboo3
+    21300146: ObstacleBox1
+    21300148: ObstacleBox2
+    21300150: ObstacleBox3
+    21300152: ObstacleBox4
+    21300154: ObstacleCactusBlue1
+    21300156: ObstacleCactusBlue2
+    21300158: ObstacleCactusBlue3
+    21300160: ObstacleCactusYellow1
+    21300162: ObstacleCactusYellow2
+    21300164: ObstacleCactusYellow3
+    21300166: ObstacleGrassGreen1
+    21300168: ObstacleGrassGreen2
+    21300170: ObstacleGrassGreen3
+    21300172: ObstacleGrassYellow1
+    21300174: ObstacleGrassYellow2
+    21300176: ObstacleGrassYellow3
+    21300178: ObstacleSaliva
+    21300180: ObstacleSaliva1
+    21300182: ObstacleSaliva2
+    21300184: ObstacleSaliva3
+    21300186: ObstacleSnow1
+    21300188: ObstacleSnow2
+    21300190: ObstacleSnowball1
+    21300192: ObstacleSnowball2
+    21300194: ObstacleSnowball3
+    21300196: ObstacleStump
+    21300198: ObstacleTerrainSnow1
+    21300200: ObstacleTerrainSnow2
+    21300202: ObstacleTerrainSnow3
+    21300204: ObstacleTooth
+    21300206: Selected
+    21300208: SeperatorHBatten1
+    21300210: SeperatorHBatten2
+    21300212: SeperatorHBatten3
+    21300214: SeperatorHBattenMax
+    21300216: SeperatorHBranch
+    21300218: SeperatorHIce1
+    21300220: SeperatorHIce2
+    21300222: SeperatorHIceMax
+    21300224: SeperatorHIronbarMax
+    21300226: SeperatorVBatten1
+    21300228: SeperatorVBatten2
+    21300230: SeperatorVBatten3
+    21300232: SeperatorVBattenMax
+    21300234: SeperatorVBranch
+    21300236: SeperatorVIce1
+    21300238: SeperatorVIce2
+    21300240: SeperatorVIceMax
+    21300242: SeperatorVIronbarMax
+    21300244: VerticalBombBlue
+    21300246: VerticalBombBlueHL
+    21300248: VerticalBombGreen
+    21300250: VerticalBombGreenHL
+    21300252: VerticalBombPurple
+    21300254: VerticalBombPurpleHL
+    21300256: VerticalBombRed
+    21300258: VerticalBombRedHL
+    21300260: VerticalBombYellow
+    21300262: VerticalBombYellowHL
+    21300264: ObstacleFort
+    21300266: ObstacleMud
+    21300268: ENEMY
+    21300270: AddMovesBlue
+    21300272: AddMovesGreen
+    21300274: AddMovesPurple
+    21300276: AddMovesRed
+    21300278: AddMovesYellow
+    21300280: ConverterBlock_BlueYellow
+    21300282: ConverterBlock_GreenBlue
+    21300284: ConverterBlock_PurpleGreen
+    21300286: ConverterBlock_RedBlue
+    21300288: ConverterBlock_GreenYellow
+    21300290: ConverterBlock_PurpleBlue
+    21300292: ConverterBlock_PurpleRed
+    21300294: ConverterBlock_PurpleYellow
+    21300296: ConverterBlock_RedGreen
+    21300298: ConverterBlock_RedYellow
+    21300300: CrossBomBlue
+    21300302: CrossBomGreen
+    21300304: CrossBomPurple
+    21300306: CrossBomRed
+    21300308: CrossBomYellow
+    21300310: SeperatorHBatten4
+    21300312: SeperatorHBatten5
+    21300314: SeperatorHIce4
+    21300316: SeperatorHIce5
+    21300318: SeperatorHIce6
+    21300320: SeperatorVBatten4
+    21300322: SeperatorVBatten5
+    21300324: SeperatorVIce4
+    21300326: SeperatorVIce5
+    21300328: SeperatorVIce6
+    21300330: CrossBomBlueHL
+    21300332: CrossBomGreenHL
+    21300334: CrossBomPurpleHL
+    21300336: CrossBomRedHL
+    21300338: CrossBomYellowHL
+    21300340: ObstacleFort_Hurt
+    21300342: ObstacleGrassBlue2
+    21300344: ObstacleGrassBlue1
+    21300346: ObstacleGrassBlue3
+    21300348: ObstacleGrassWhite1
+    21300350: ObstacleGrassWhite2
+    21300352: ObstacleGrassWhite3
+    21300354: AddMovesBlueHL
+    21300356: AddMovesGreenHL
+    21300358: AddMovesPurpleHL
+    21300360: AddMovesRedHL
+    21300362: AddMovesYellowHL
+    21300364: ObstacleBamboo4
+    21300366: ObstacleBamboo5
+    21300368: ObstacleCactusBlue4
+    21300370: ObstacleCactusBlue5
+    21300372: ObstacleCactusYellow4
+    21300374: ObstacleCactusYellow5
+    21300376: ObstacleAquatic1
+    21300378: ObstacleAquatic2
+    21300380: ObstacleAquatic5
+    21300382: ObstacleAquatic3
+    21300384: ObstacleAquatic4
+    21300386: Rainbow
+    21300388: ObstaclWood1
+    21300390: ObstaclWood2
+    21300392: ObstaclWood3
+    21300394: ObstacleConch1
+    21300396: ObstacleConch4
+    21300398: ObstacleConch2
+    21300400: ObstacleConch3
+    21300402: ObstacleConch5
+    21300404: ObstacleFort4
+    21300406: ObstacleFort3
+    21300408: ElementBlueTL
+    21300410: ElementGreenTL
+    21300412: ElementPurpleTL
+    21300414: ElementRedTL
+    21300416: ElementYellowTL
+    21300418: Boom01
+    21300420: Boom02
+    21300422: Boom03
+    21300424: Jiantou_01
+    21300426: Jiantou_02
+    21300428: Jiantou_03
+    21300430: Jiantou_04
+    21300432: Jiantou_05
+    21300434: Star
+    21300436: StarHL
+    21300438: ObstacleGlass1
+    21300440: ObstacleGlass4
+    21300442: ObstacleGlass2
+    21300444: ObstacleGlass3
+    21300446: ObstacleGlass5
+    21300448: Mark1
+    21300450: SeperatorHBatten6
+    21300452: SeperatorHBatten7
+    21300454: SeperatorHBeanB
+    21300456: SeperatorHBeanT
+    21300458: SeperatorHIce3
+    21300460: SeperatorHIce7
+    21300462: SeperatorVBatten6
+    21300464: SeperatorVBatten7
+    21300466: SeperatorVIce3
+    21300468: SeperatorVIce7
+    21300470: TipsXian
+    21300472: light
+    21300474: StarReceiver
+    21300476: Coin
+    21300478: CoinHL
+    21300480: ReceiverGrassGreen1
+    21300482: ReceiverGrassWhite1
+    21300484: ReceiverGrassYellow1
+    21300486: TreasureBox1
+    21300488: TreasureBox2
+    21300490: TreasureBox3
+    21300492: TreasureBox4
+    21300494: TreasureBox5
+    21300496: suipianI1
+    21300498: suipianI2
+    21300500: suipianI3
+    21300502: 'suipianJ1 '
+    21300504: suipianJ2
+    21300506: suipianJ3
+    21300508: suipianR1
+    21300510: suipianR2
+    21300512: suipianR3
+    21300514: suipianR4
+    21300516: suipianR5
+    21300518: suipianR6
+    21300520: suixieA1
+    21300522: suixieA2
+    21300524: suixieA3
+    21300526: suixieB1
+    21300528: suixieB2
+    21300530: suixieB3
+    21300532: suixieC1
+    21300534: suixieC2
+    21300536: suixieC3
+    21300538: suixieD1
+    21300540: suixieD2
+    21300542: suixieD3
+    21300544: suixieE1
+    21300546: suixieE2
+    21300548: suixieE3
+    21300550: suixieF1
+    21300552: suixieF2
+    21300554: suixieF3
+    21300556: suixieG1
+    21300558: suixieG2
+    21300560: suixieG3
+    21300562: suixieK1
+    21300564: suixieK2
+    21300566: suixieL1
+    21300568: suixieL2
+    21300570: suixieL3
+    21300572: suixieM1
+    21300574: suixieM2
+    21300576: suixieM3
+    21300578: suixieM4
+    21300580: suixieN
+    21300582: suixieO
+    21300584: suixieP1
+    21300586: suixieP2
+    21300588: suixieQ1
+    21300590: suixieQ2
+    21300592: ObstacleAttachments4
+    21300594: ObstacleAttachments5
+    21300596: ObstacleBox5
+    21300598: ObstacleBox6
+    21300600: ObstacleBox7
+    21300602: ObstacleBox8
+    21300604: ObstacleBox9
+    21300606: ObstacleSaliva4
+    21300608: ObstacleSaliva5
+    21300610: ObstacleStump2
+    21300612: ObstacleStump3
+    21300614: ObstacleStump4
+    21300616: ObstacleStump5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: AreaBombBlue
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 1, y: 58}
+        - {x: -12, y: 57}
+        - {x: -49, y: 27}
+        - {x: -49, y: -39}
+        - {x: -17, y: -52}
+        - {x: 27, y: -52}
+        - {x: 52, y: -28}
+        - {x: 61, y: 14}
+        - {x: 61, y: 58}
+    - name: AreaBombBlueHL
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 60}
+        - {x: -58, y: 43}
+        - {x: -58, y: -34}
+        - {x: -15, y: -59}
+        - {x: 16, y: -59}
+        - {x: 60, y: -32}
+        - {x: 60, y: 59}
+        - {x: 57, y: 60}
+    - name: AreaBombGreen
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -13, y: 58}
+        - {x: -49, y: 27}
+        - {x: -49, y: -40}
+        - {x: -23, y: -52}
+        - {x: 45, y: -52}
+        - {x: 61, y: -42}
+        - {x: 61, y: 58}
+    - name: AreaBombGreenHL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1603
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 64}
+        - {x: -64, y: 47}
+        - {x: -64, y: -53}
+        - {x: -41, y: -64}
+        - {x: 50, y: -64}
+        - {x: 63, y: -43}
+        - {x: 63, y: 63}
+        - {x: 60, y: 64}
+    - name: AreaBombPurple
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1473
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -13, y: 58}
+        - {x: -49, y: 27}
+        - {x: -49, y: -40}
+        - {x: -23, y: -52}
+        - {x: 45, y: -52}
+        - {x: 61, y: -42}
+        - {x: 61, y: 58}
+    - name: AreaBombPurpleHL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1343
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 64}
+        - {x: -64, y: 62}
+        - {x: -64, y: -53}
+        - {x: -39, y: -64}
+        - {x: 21, y: -64}
+        - {x: 55, y: -53}
+        - {x: 61, y: -40}
+        - {x: 61, y: 47}
+        - {x: 59, y: 64}
+    - name: AreaBombRed
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1213
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 1, y: 58}
+        - {x: -12, y: 57}
+        - {x: -49, y: 27}
+        - {x: -49, y: -39}
+        - {x: -17, y: -52}
+        - {x: 27, y: -52}
+        - {x: 52, y: -28}
+        - {x: 61, y: 14}
+        - {x: 61, y: 58}
+    - name: AreaBombRedHL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1083
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 64}
+        - {x: -64, y: 47}
+        - {x: -64, y: -53}
+        - {x: -41, y: -64}
+        - {x: 50, y: -64}
+        - {x: 63, y: -43}
+        - {x: 63, y: 63}
+        - {x: 60, y: 64}
+    - name: AreaBombYellow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 953
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 1, y: 58}
+        - {x: -12, y: 57}
+        - {x: -49, y: 27}
+        - {x: -49, y: -39}
+        - {x: -17, y: -52}
+        - {x: 27, y: -52}
+        - {x: 52, y: -28}
+        - {x: 61, y: 14}
+        - {x: 61, y: 58}
+    - name: AreaBombYellowHL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 823
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 61}
+        - {x: -59, y: 41}
+        - {x: -59, y: -44}
+        - {x: -26, y: -60}
+        - {x: 46, y: -60}
+        - {x: 60, y: -45}
+        - {x: 60, y: 61}
+    - name: BombBlack
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 693
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 58}
+        - {x: -5, y: 58}
+        - {x: -51, y: 27}
+        - {x: -51, y: -40}
+        - {x: -26, y: -54}
+        - {x: 29, y: -54}
+        - {x: 48, y: -21}
+        - {x: 53, y: 7}
+        - {x: 53, y: 55}
+    - name: BombBlackHL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 64}
+        - {x: -36, y: 48}
+        - {x: -58, y: 26}
+        - {x: -58, y: -26}
+        - {x: -41, y: -59}
+        - {x: 25, y: -59}
+        - {x: 57, y: -41}
+        - {x: 57, y: 57}
+        - {x: 51, y: 64}
+    - name: Boom01
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1889
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 28}
+        - {x: -34, y: 6}
+        - {x: -10, y: -29}
+        - {x: 11, y: -29}
+        - {x: 34, y: -23}
+        - {x: 34, y: 16}
+        - {x: 27, y: 28}
+      - - {x: 22, y: 29}
+        - {x: 22, y: 21}
+        - {x: 23, y: 17}
+        - {x: 33, y: 17}
+        - {x: 34, y: 18}
+        - {x: 34, y: 29}
+    - name: Boom02
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1949
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 34}
+        - {x: -35.5, y: 16}
+        - {x: -35.5, y: -14}
+        - {x: -23.5, y: -34}
+        - {x: 23.5, y: -34}
+        - {x: 35.5, y: -2}
+        - {x: 35.5, y: 21}
+        - {x: -2.5, y: 34}
+      - - {x: 22.5, y: -17}
+        - {x: 22.5, y: -28}
+        - {x: 33.5, y: -28}
+        - {x: 33.5, y: -17}
+      - - {x: 16.5, y: -3}
+        - {x: 13.5, y: -4}
+        - {x: 13.5, y: -15}
+        - {x: 15.5, y: -17}
+        - {x: 28.5, y: -17}
+        - {x: 30.5, y: -16}
+        - {x: 30.5, y: -5}
+        - {x: 28.5, y: -3}
+      - - {x: 16.5, y: 33}
+        - {x: 15.5, y: 32}
+        - {x: 15.5, y: 19}
+        - {x: 29.5, y: 19}
+        - {x: 29.5, y: 32}
+        - {x: 27.5, y: 33}
+    - name: Boom03
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1530
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Coin
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 433
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 46}
+        - {x: -43, y: 29}
+        - {x: -43, y: -26}
+        - {x: -27, y: -43}
+        - {x: 41, y: -43}
+        - {x: 48, y: -41}
+        - {x: 48, y: 35}
+        - {x: 24, y: 46}
+    - name: CoinHL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 53}
+        - {x: -52, y: 35}
+        - {x: -52, y: -44}
+        - {x: -44, y: -54}
+        - {x: 39, y: -54}
+        - {x: 52, y: -51}
+        - {x: 52, y: 32}
+        - {x: 29, y: 53}
+    - name: ConverterBlockBlue
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -31}
+        - {x: -24, y: -50}
+        - {x: 12, y: -50}
+        - {x: 49, y: -29}
+        - {x: 49, y: 14}
+        - {x: 37, y: 47}
+        - {x: -39, y: 47}
+        - {x: -51, y: 14}
+    - name: ConverterBlockBlueHL
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 55}
+        - {x: -46, y: 55}
+        - {x: -58, y: 17}
+        - {x: -58, y: -32}
+        - {x: -21, y: -57}
+        - {x: 9, y: -57}
+        - {x: 55, y: -32}
+        - {x: 57, y: -26}
+        - {x: 57, y: 14}
+        - {x: 38, y: 54}
+    - name: ConverterBlockGreen
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -31}
+        - {x: -24, y: -50}
+        - {x: 12, y: -50}
+        - {x: 49, y: -29}
+        - {x: 49, y: 14}
+        - {x: 37, y: 47}
+        - {x: -39, y: 47}
+        - {x: -51, y: 14}
+    - name: ConverterBlockGreenHL
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 64}
+        - {x: -49, y: 64}
+        - {x: -64, y: 28}
+        - {x: -64, y: -43}
+        - {x: -22, y: -64}
+        - {x: 36, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 42}
+        - {x: 61, y: 63}
+    - name: ConverterBlockPurple
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -31}
+        - {x: -24, y: -50}
+        - {x: 12, y: -50}
+        - {x: 49, y: -29}
+        - {x: 49, y: 14}
+        - {x: 37, y: 47}
+        - {x: -39, y: 47}
+        - {x: -51, y: 14}
+    - name: ConverterBlockPurpleHL
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -34}
+        - {x: -40, y: -62}
+        - {x: 25, y: -62}
+        - {x: 63, y: -44}
+        - {x: 63, y: 30}
+        - {x: 54, y: 58}
+        - {x: 43, y: 62}
+        - {x: -41, y: 62}
+        - {x: -64, y: 42}
+    - name: ConverterBlockRed
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -31}
+        - {x: -24, y: -50}
+        - {x: 12, y: -50}
+        - {x: 49, y: -29}
+        - {x: 49, y: 14}
+        - {x: 37, y: 47}
+        - {x: -39, y: 47}
+        - {x: -51, y: 14}
+    - name: ConverterBlockRedHL
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 64}
+        - {x: -49, y: 64}
+        - {x: -64, y: 28}
+        - {x: -64, y: -43}
+        - {x: -22, y: -64}
+        - {x: 36, y: -64}
+        - {x: 64, y: -43}
+        - {x: 64, y: 42}
+        - {x: 61, y: 63}
+    - name: ConverterBlockYellow
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -31}
+        - {x: -25, y: -50}
+        - {x: 12, y: -50}
+        - {x: 49, y: -30}
+        - {x: 49, y: 10}
+        - {x: 34, y: 47}
+        - {x: -38, y: 47}
+        - {x: -51, y: 13}
+    - name: ConverterBlockYellowHL
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 57}
+        - {x: -40, y: 57}
+        - {x: -60, y: 23}
+        - {x: -60, y: -23}
+        - {x: -44, y: -39}
+        - {x: -15, y: -59}
+        - {x: 16, y: -59}
+        - {x: 58, y: -30}
+        - {x: 58, y: 12}
+        - {x: 46, y: 51}
+    - name: CrossBomBlue
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -24, y: 59}
+        - {x: -49, y: 31}
+        - {x: -49, y: -29}
+        - {x: -26, y: -52}
+        - {x: 16, y: -52}
+        - {x: 61, y: -32}
+        - {x: 61, y: 59}
+    - name: CrossBomBlueHL
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 60}
+        - {x: -58, y: 43}
+        - {x: -58, y: -34}
+        - {x: -15, y: -59}
+        - {x: 16, y: -59}
+        - {x: 60, y: -32}
+        - {x: 60, y: 59}
+        - {x: 57, y: 60}
+    - name: CrossBomGreen
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -13, y: 58}
+        - {x: -49, y: 27}
+        - {x: -49, y: -40}
+        - {x: -23, y: -52}
+        - {x: 45, y: -52}
+        - {x: 61, y: -42}
+        - {x: 61, y: 58}
+    - name: CrossBomGreenHL
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 64}
+        - {x: -64, y: 47}
+        - {x: -64, y: -53}
+        - {x: -41, y: -64}
+        - {x: 50, y: -64}
+        - {x: 63, y: -43}
+        - {x: 63, y: 63}
+        - {x: 60, y: 64}
+    - name: CrossBomPurple
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1919
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -13, y: 58}
+        - {x: -49, y: 27}
+        - {x: -49, y: -40}
+        - {x: -23, y: -52}
+        - {x: 45, y: -52}
+        - {x: 61, y: -42}
+        - {x: 61, y: 58}
+    - name: CrossBomPurpleHL
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 64}
+        - {x: -64, y: 62}
+        - {x: -64, y: -53}
+        - {x: -39, y: -64}
+        - {x: 21, y: -64}
+        - {x: 55, y: -53}
+        - {x: 61, y: -40}
+        - {x: 61, y: 47}
+        - {x: 59, y: 64}
+    - name: CrossBomRed
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 1, y: 58}
+        - {x: -12, y: 57}
+        - {x: -49, y: 27}
+        - {x: -49, y: -39}
+        - {x: -17, y: -52}
+        - {x: 27, y: -52}
+        - {x: 52, y: -28}
+        - {x: 61, y: 14}
+        - {x: 61, y: 58}
+    - name: CrossBomRedHL
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 64}
+        - {x: -64, y: 47}
+        - {x: -64, y: -53}
+        - {x: -41, y: -64}
+        - {x: 50, y: -64}
+        - {x: 63, y: -43}
+        - {x: 63, y: 63}
+        - {x: 60, y: 64}
+    - name: CrossBomYellow
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 1, y: 58}
+        - {x: -12, y: 57}
+        - {x: -49, y: 27}
+        - {x: -49, y: -39}
+        - {x: -17, y: -52}
+        - {x: 27, y: -52}
+        - {x: 52, y: -28}
+        - {x: 61, y: 14}
+        - {x: 61, y: 58}
+    - name: CrossBomYellowHL
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 61}
+        - {x: -59, y: 41}
+        - {x: -59, y: -44}
+        - {x: -26, y: -60}
+        - {x: 46, y: -60}
+        - {x: 60, y: -45}
+        - {x: 60, y: 61}
+    - name: ENEMY
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 52}
+        - {x: -59, y: 44}
+        - {x: -59, y: -63}
+        - {x: -50, y: -64}
+        - {x: 50, y: -64}
+        - {x: 61, y: -46}
+        - {x: 61, y: 52}
+    - name: ElementBlue
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 48}
+        - {x: -46, y: 24}
+        - {x: -48, y: 14}
+        - {x: -48, y: -29}
+        - {x: -26, y: -49}
+        - {x: 35, y: -49}
+        - {x: 46, y: -47}
+        - {x: 46, y: 32}
+        - {x: 12, y: 48}
+    - name: ElementBlueHL
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 56}
+        - {x: -56, y: 40}
+        - {x: -56, y: -40}
+        - {x: -34, y: -59}
+        - {x: 56, y: -59}
+        - {x: 56, y: 43}
+        - {x: 43, y: 56}
+    - name: ElementBlueTL
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 48}
+        - {x: -49, y: 24}
+        - {x: -49, y: -38}
+        - {x: -25, y: -51}
+        - {x: 37, y: -51}
+        - {x: 48, y: -28}
+        - {x: 48, y: 24}
+        - {x: 23, y: 48}
+    - name: ElementGreen
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 43}
+        - {x: -20, y: 43}
+        - {x: -49, y: 6}
+        - {x: -49, y: -44}
+        - {x: 45, y: -44}
+        - {x: 49, y: -38}
+        - {x: 49, y: 13}
+        - {x: 33, y: 31}
+    - name: ElementGreenHL
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 55}
+        - {x: -62, y: 21}
+        - {x: -62, y: -57}
+        - {x: 42, y: -57}
+        - {x: 64, y: -50}
+        - {x: 64, y: 23}
+        - {x: 29, y: 55}
+    - name: ElementGreenTL
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 43}
+        - {x: -50, y: 5}
+        - {x: -50, y: -32}
+        - {x: -45, y: -44}
+        - {x: 49, y: -44}
+        - {x: 49, y: 5}
+        - {x: 30, y: 43}
+    - name: ElementPurple
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1789
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 47}
+        - {x: -50, y: 27}
+        - {x: -50, y: -23}
+        - {x: -40, y: -47}
+        - {x: 38, y: -47}
+        - {x: 49, y: -22}
+        - {x: 49, y: 32}
+        - {x: 30, y: 47}
+    - name: ElementPurpleHL
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1609
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 62}
+        - {x: -64, y: 53}
+        - {x: -64, y: -43}
+        - {x: -57, y: -64}
+        - {x: 48, y: -64}
+        - {x: 64, y: -46}
+        - {x: 64, y: 41}
+        - {x: 41, y: 62}
+    - name: ElementPurpleTL
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 48}
+        - {x: -53, y: 28}
+        - {x: -53, y: -14}
+        - {x: -49, y: -38}
+        - {x: -43, y: -48}
+        - {x: 32, y: -48}
+        - {x: 49, y: -42}
+        - {x: 49, y: 28}
+        - {x: 12, y: 48}
+    - name: ElementRed
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 47}
+        - {x: -43, y: 33}
+        - {x: -49, y: 16}
+        - {x: -49, y: -41}
+        - {x: -28, y: -50}
+        - {x: 24, y: -50}
+        - {x: 46, y: -25}
+        - {x: 46, y: 36}
+        - {x: 24, y: 47}
+    - name: ElementRedHL
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 58}
+        - {x: -63, y: 39}
+        - {x: -63, y: -58}
+        - {x: -61, y: -64}
+        - {x: 61, y: -64}
+        - {x: 61, y: 58}
+    - name: ElementRedTL
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 48}
+        - {x: -50, y: 30}
+        - {x: -50, y: -36}
+        - {x: -30, y: -44}
+        - {x: -13, y: -50}
+        - {x: 19, y: -50}
+        - {x: 46, y: -24}
+        - {x: 46, y: 22}
+        - {x: 24, y: 48}
+    - name: ElementYellow
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1219
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 46}
+        - {x: -49, y: 19}
+        - {x: -49, y: -28}
+        - {x: -34, y: -49}
+        - {x: 23, y: -49}
+        - {x: 47, y: -28}
+        - {x: 47, y: 28}
+        - {x: 15, y: 46}
+    - name: ElementYellowHL
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1089
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 60}
+        - {x: -62, y: 22}
+        - {x: -62, y: -38}
+        - {x: -42, y: -63}
+        - {x: 22, y: -63}
+        - {x: 59, y: -42}
+        - {x: 59, y: 27}
+        - {x: 19, y: 60}
+    - name: ElementYellowTL
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 959
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 45}
+        - {x: -49, y: 15}
+        - {x: -49, y: -14}
+        - {x: -30, y: -39}
+        - {x: -13, y: -50}
+        - {x: 11, y: -50}
+        - {x: 48, y: -43}
+        - {x: 48, y: 40}
+        - {x: 23, y: 45}
+    - name: EnemyMuncher
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 49}
+        - {x: -45, y: 32}
+        - {x: -45, y: 8}
+        - {x: -31, y: -1}
+        - {x: -25, y: -1}
+        - {x: -30, y: -2}
+        - {x: -42, y: 3}
+        - {x: -45, y: -1}
+        - {x: -45, y: -20}
+        - {x: -29, y: -47}
+        - {x: 21, y: -47}
+        - {x: 45, y: -34}
+        - {x: 45, y: 32}
+        - {x: 41, y: 49}
+    - name: FullScreenBombBlue
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 699
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 1, y: 58}
+        - {x: -12, y: 57}
+        - {x: -49, y: 27}
+        - {x: -49, y: -39}
+        - {x: -17, y: -52}
+        - {x: 27, y: -52}
+        - {x: 52, y: -28}
+        - {x: 61, y: 14}
+        - {x: 61, y: 58}
+    - name: FullScreenBombBlueHL
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 569
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 60}
+        - {x: -58, y: 43}
+        - {x: -58, y: -34}
+        - {x: -15, y: -59}
+        - {x: 16, y: -59}
+        - {x: 60, y: -32}
+        - {x: 60, y: 59}
+        - {x: 57, y: 60}
+    - name: FullScreenBombGreen
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 439
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -13, y: 58}
+        - {x: -49, y: 27}
+        - {x: -49, y: -40}
+        - {x: -23, y: -52}
+        - {x: 45, y: -52}
+        - {x: 61, y: -42}
+        - {x: 61, y: 58}
+    - name: FullScreenBombGreenHL
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 64}
+        - {x: -64, y: 47}
+        - {x: -64, y: -53}
+        - {x: -41, y: -64}
+        - {x: 50, y: -64}
+        - {x: 63, y: -43}
+        - {x: 63, y: 63}
+        - {x: 60, y: 64}
+    - name: FullScreenBombPurple
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -13, y: 58}
+        - {x: -49, y: 27}
+        - {x: -49, y: -40}
+        - {x: -23, y: -52}
+        - {x: 45, y: -52}
+        - {x: 61, y: -42}
+        - {x: 61, y: 58}
+    - name: FullScreenBombPurpleHL
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 64}
+        - {x: -64, y: 62}
+        - {x: -64, y: -53}
+        - {x: -39, y: -64}
+        - {x: 21, y: -64}
+        - {x: 55, y: -53}
+        - {x: 61, y: -40}
+        - {x: 61, y: 47}
+        - {x: 59, y: 64}
+    - name: FullScreenBombRed
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -32, y: 58}
+        - {x: -49, y: 28}
+        - {x: -49, y: -45}
+        - {x: -36, y: -52}
+        - {x: 41, y: -52}
+        - {x: 51, y: -49}
+        - {x: 61, y: -4}
+        - {x: 61, y: 58}
+    - name: FullScreenBombRedHL
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 64}
+        - {x: -64, y: 47}
+        - {x: -64, y: -53}
+        - {x: -41, y: -64}
+        - {x: 50, y: -64}
+        - {x: 63, y: -43}
+        - {x: 63, y: 63}
+        - {x: 60, y: 64}
+    - name: FullScreenBombYellow
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 1, y: 58}
+        - {x: -12, y: 57}
+        - {x: -49, y: 27}
+        - {x: -49, y: -39}
+        - {x: -17, y: -52}
+        - {x: 27, y: -52}
+        - {x: 52, y: -28}
+        - {x: 61, y: 14}
+        - {x: 61, y: 58}
+    - name: FullScreenBombYellowHL
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 61}
+        - {x: -59, y: 41}
+        - {x: -59, y: -44}
+        - {x: -26, y: -60}
+        - {x: 46, y: -60}
+        - {x: 60, y: -45}
+        - {x: 60, y: 61}
+    - name: Gem
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 3}
+        - {x: -18, y: -43}
+        - {x: 12, y: -43}
+        - {x: 48, y: -17}
+        - {x: 48, y: 30}
+        - {x: 41, y: 45}
+        - {x: -33, y: 45}
+        - {x: -50, y: 24}
+    - name: GemHL
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 56}
+        - {x: -60, y: 32}
+        - {x: -60, y: -5}
+        - {x: -11, y: -51}
+        - {x: 23, y: -51}
+        - {x: 57, y: -4}
+        - {x: 57, y: 42}
+        - {x: 48, y: 56}
+    - name: HorizontalBombBlue
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -52, y: 25}
+        - {x: -52, y: -19}
+        - {x: -41, y: -49}
+        - {x: 34, y: -49}
+        - {x: 61, y: -13}
+        - {x: 61, y: 58}
+        - {x: 37, y: 58}
+        - {x: -28, y: 53}
+    - name: HorizontalBombBlueHL
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 60}
+        - {x: -61, y: 35}
+        - {x: -61, y: -22}
+        - {x: -46, y: -55}
+        - {x: 31, y: -55}
+        - {x: 60, y: -26}
+        - {x: 60, y: 51}
+        - {x: 55, y: 60}
+    - name: HorizontalBombGreen
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 61, y: 58}
+        - {x: 13, y: 58}
+        - {x: -25, y: 55}
+        - {x: -52, y: 20}
+        - {x: -52, y: -15}
+        - {x: -43, y: -48}
+        - {x: -17, y: -49}
+        - {x: 22, y: -49}
+        - {x: 29, y: -47}
+        - {x: 55, y: -13}
+        - {x: 61, y: 26}
+    - name: HorizontalBombGreenHL
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 64}
+        - {x: -64, y: 38}
+        - {x: -64, y: -51}
+        - {x: -47, y: -63}
+        - {x: 39, y: -63}
+        - {x: 54, y: -59}
+        - {x: 64, y: -37}
+        - {x: 64, y: 50}
+        - {x: 55, y: 64}
+    - name: HorizontalBombPurple
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 11, y: 58}
+        - {x: -30, y: 55}
+        - {x: -52, y: 26}
+        - {x: -52, y: -19}
+        - {x: -41, y: -49}
+        - {x: 33, y: -49}
+        - {x: 61, y: -6}
+        - {x: 61, y: 58}
+    - name: HorizontalBombPurpleHL
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 64}
+        - {x: -64, y: 47}
+        - {x: -64, y: -34}
+        - {x: -55, y: -61}
+        - {x: 48, y: -61}
+        - {x: 64, y: -32}
+        - {x: 64, y: 62}
+        - {x: 51, y: 64}
+    - name: HorizontalBombRed
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 10, y: 58}
+        - {x: -47, y: 44}
+        - {x: -52, y: 27}
+        - {x: -52, y: -22}
+        - {x: -30, y: -49}
+        - {x: 27, y: -49}
+        - {x: 61, y: -20}
+        - {x: 61, y: 58}
+    - name: HorizontalBombRedHL
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: -54}
+        - {x: -59, y: -63}
+        - {x: 64, y: -63}
+        - {x: 64, y: 64}
+    - name: HorizontalBombYellow
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 8, y: 58}
+        - {x: -47, y: 44}
+        - {x: -52, y: 20}
+        - {x: -52, y: -20}
+        - {x: -41, y: -46}
+        - {x: -31, y: -48}
+        - {x: 38, y: -48}
+        - {x: 41, y: -46}
+        - {x: 61, y: 12}
+        - {x: 61, y: 58}
+    - name: HorizontalBombYellowHL
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 62}
+        - {x: -63, y: 24}
+        - {x: -63, y: -39}
+        - {x: -40, y: -56}
+        - {x: 36, y: -56}
+        - {x: 60, y: -32}
+        - {x: 60, y: 62}
+    - name: Jiantou_01
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1823
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22}
+        - {x: -10, y: 22}
+        - {x: -20, y: 19}
+        - {x: -24, y: 4}
+        - {x: -24, y: -22}
+        - {x: 21, y: -22}
+        - {x: 22, y: -18}
+        - {x: 23, y: -12}
+        - {x: 23, y: 4}
+    - name: Jiantou_02
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 22.5}
+        - {x: -16.5, y: 22.5}
+        - {x: -23.5, y: 14.5}
+        - {x: -23.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 22.5, y: -16.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 20.5, y: 18.5}
+    - name: Jiantou_03
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 22.5}
+        - {x: -16.5, y: 22.5}
+        - {x: -23.5, y: 14.5}
+        - {x: -23.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 22.5, y: -16.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 20.5, y: 18.5}
+    - name: Jiantou_04
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 22.5}
+        - {x: -16.5, y: 22.5}
+        - {x: -23.5, y: 14.5}
+        - {x: -23.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 22.5, y: -16.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 20.5, y: 18.5}
+    - name: Jiantou_05
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1621
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 22.5}
+        - {x: -16.5, y: 22.5}
+        - {x: -23.5, y: 14.5}
+        - {x: -23.5, y: -21.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 22.5, y: -16.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 20.5, y: 18.5}
+    - name: Key
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 49}
+        - {x: -24, y: 36}
+        - {x: -47, y: 3}
+        - {x: -47, y: -25}
+        - {x: -45, y: -29}
+        - {x: -35, y: -28}
+        - {x: -26, y: -24}
+        - {x: -19, y: -21}
+        - {x: -15, y: -47}
+        - {x: -12, y: -50}
+        - {x: 13, y: -50}
+        - {x: 47, y: -9}
+        - {x: 47, y: 40}
+        - {x: 39, y: 49}
+    - name: KeyHL
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 61}
+        - {x: -60, y: 11}
+        - {x: -60, y: -38}
+        - {x: -30, y: -62}
+        - {x: 12, y: -62}
+        - {x: 37, y: -54}
+        - {x: 61, y: -12}
+        - {x: 61, y: 35}
+        - {x: 25, y: 61}
+    - name: Mark1
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1800
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 48.5}
+        - {x: -37, y: 46.5}
+        - {x: -37, y: -29.5}
+        - {x: -32, y: -51.5}
+        - {x: 16, y: -51.5}
+        - {x: 26, y: -48.5}
+        - {x: 35, y: -24.5}
+        - {x: 35, y: 38.5}
+        - {x: 31, y: 48.5}
+    - name: ObstaclWood1
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 54}
+        - {x: -59, y: 42}
+        - {x: -59, y: -57}
+        - {x: 59, y: -57}
+        - {x: 60, y: -52}
+        - {x: 60, y: 39}
+        - {x: 44, y: 54}
+    - name: ObstaclWood2
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 54}
+        - {x: -59, y: 42}
+        - {x: -59, y: -57}
+        - {x: 59, y: -57}
+        - {x: 60, y: -52}
+        - {x: 60, y: 39}
+        - {x: 44, y: 54}
+    - name: ObstaclWood3
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 54}
+        - {x: -59, y: 42}
+        - {x: -59, y: -57}
+        - {x: 59, y: -57}
+        - {x: 60, y: -52}
+        - {x: 60, y: 39}
+        - {x: 44, y: 54}
+    - name: ObstacleAquatic1
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 53}
+        - {x: -56, y: 27}
+        - {x: -56, y: -37}
+        - {x: -31, y: -54}
+        - {x: 17, y: -54}
+        - {x: 53, y: -45}
+        - {x: 53, y: 53}
+    - name: ObstacleAquatic2
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 53}
+        - {x: -56, y: 27}
+        - {x: -56, y: -37}
+        - {x: -31, y: -54}
+        - {x: 17, y: -54}
+        - {x: 53, y: -45}
+        - {x: 53, y: 53}
+    - name: ObstacleAquatic3
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 48}
+        - {x: -55, y: 10}
+        - {x: -55, y: -39}
+        - {x: -40, y: -48}
+        - {x: 54, y: -48}
+        - {x: 54, y: 42}
+        - {x: 30, y: 48}
+    - name: ObstacleAquatic4
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 53}
+        - {x: -58, y: 25}
+        - {x: -58, y: -36}
+        - {x: -53, y: -56}
+        - {x: 53, y: -56}
+        - {x: 57, y: -20}
+        - {x: 57, y: 43}
+        - {x: 31, y: 53}
+    - name: ObstacleAquatic5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1219
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 53}
+        - {x: -56, y: 27}
+        - {x: -56, y: -37}
+        - {x: -31, y: -54}
+        - {x: 17, y: -54}
+        - {x: 53, y: -45}
+        - {x: 53, y: 53}
+    - name: ObstacleAttachments1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1387
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -13}
+        - {x: -47, y: -27}
+        - {x: -47, y: -50}
+        - {x: -29, y: -50}
+        - {x: -14, y: -43}
+        - {x: -11, y: -30}
+        - {x: -11, y: -13}
+      - - {x: 20, y: -13}
+        - {x: 11, y: -13}
+        - {x: 11, y: -27}
+        - {x: 25, y: -50}
+        - {x: 46, y: -50}
+        - {x: 48, y: -44}
+        - {x: 48, y: -27}
+        - {x: 37, y: -19}
+      - - {x: -47, y: 26}
+        - {x: -44, y: 19}
+        - {x: -24, y: 10}
+        - {x: -12, y: 10}
+        - {x: -12, y: 26}
+        - {x: -16, y: 44}
+        - {x: -24, y: 49}
+        - {x: -40, y: 49}
+        - {x: -47, y: 47}
+      - - {x: 43, y: 49}
+        - {x: 31, y: 49}
+        - {x: 17, y: 46}
+        - {x: 12, y: 25}
+        - {x: 12, y: 10}
+        - {x: 27, y: 10}
+        - {x: 48, y: 25}
+        - {x: 48, y: 41}
+    - name: ObstacleAttachments2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1089
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 7}
+        - {x: -50, y: -4}
+        - {x: -50, y: -47}
+        - {x: -41, y: -50}
+        - {x: -24, y: -50}
+        - {x: -11, y: -34}
+        - {x: -11, y: -8}
+        - {x: -33, y: 7}
+      - - {x: 36, y: -13}
+        - {x: 4, y: -13}
+        - {x: 3, y: -16}
+        - {x: 3, y: -43}
+        - {x: 11, y: -46}
+        - {x: 30, y: -50}
+        - {x: 46, y: -50}
+        - {x: 48, y: -49}
+        - {x: 48, y: -32}
+        - {x: 40, y: -14}
+      - - {x: 31, y: 49}
+        - {x: 17, y: 46}
+        - {x: 12, y: 24}
+        - {x: 12, y: 7}
+        - {x: 36, y: -8}
+        - {x: 52, y: -8}
+        - {x: 53, y: -7}
+        - {x: 53, y: 45}
+        - {x: 46, y: 49}
+      - - {x: -44, y: 19}
+        - {x: -30, y: 10}
+        - {x: -7, y: 10}
+        - {x: -3, y: 14}
+        - {x: -3, y: 41}
+        - {x: -19, y: 49}
+        - {x: -47, y: 49}
+        - {x: -47, y: 29}
+    - name: ObstacleAttachments3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 959
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 5}
+        - {x: 16, y: -33}
+        - {x: 13, y: -44}
+        - {x: 41, y: -56}
+        - {x: 47, y: -56}
+        - {x: 59, y: -49}
+        - {x: 59, y: 47}
+        - {x: 54, y: 58}
+        - {x: -56, y: 58}
+        - {x: -56, y: -56}
+        - {x: -5, y: -56}
+        - {x: 12, y: -38}
+        - {x: 14, y: -32}
+        - {x: -6, y: -22}
+        - {x: -12, y: -11}
+    - name: ObstacleAttachments4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -33}
+        - {x: 13, y: -44}
+        - {x: 41, y: -56}
+        - {x: 47, y: -56}
+        - {x: 59, y: -49}
+        - {x: 59, y: 47}
+        - {x: 54, y: 58}
+        - {x: -56, y: 58}
+        - {x: -56, y: -56}
+        - {x: -5, y: -56}
+        - {x: 12, y: -38}
+        - {x: 14, y: -32}
+        - {x: -14, y: -9}
+        - {x: 9, y: -14}
+    - name: ObstacleAttachments5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 699
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -31}
+        - {x: 14, y: -32}
+        - {x: 18, y: -41}
+        - {x: 28, y: -56}
+        - {x: 52, y: -45}
+        - {x: 59, y: 1}
+        - {x: 59, y: 37}
+        - {x: 34, y: 58}
+        - {x: -56, y: 58}
+        - {x: -56, y: -56}
+        - {x: -5, y: -56}
+        - {x: 12, y: -38}
+        - {x: 12, y: -33}
+        - {x: 10, y: -31}
+        - {x: -2, y: -31}
+    - name: ObstacleBamboo1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 569
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 27}
+        - {x: -38, y: 27}
+        - {x: -40, y: 13}
+        - {x: -40, y: -38}
+        - {x: -36, y: -46}
+        - {x: -32, y: -47}
+        - {x: 4, y: -47}
+        - {x: 32, y: -25}
+        - {x: 43, y: -13}
+        - {x: 43, y: 12}
+    - name: ObstacleBamboo2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 439
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 19}
+        - {x: -43, y: 11}
+        - {x: -43, y: -52}
+        - {x: 46, y: -52}
+        - {x: 49, y: -49}
+        - {x: 49, y: 18}
+        - {x: 46, y: 19}
+    - name: ObstacleBamboo3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32}
+        - {x: -46, y: 6}
+        - {x: -46, y: -35}
+        - {x: -35, y: -52}
+        - {x: -25, y: -53}
+        - {x: 24, y: -53}
+        - {x: 48, y: -44}
+        - {x: 48, y: 17}
+        - {x: 4, y: 32}
+    - name: ObstacleBamboo4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -48}
+        - {x: -42, y: -52}
+        - {x: 38, y: -52}
+        - {x: 48, y: -48}
+        - {x: 48, y: 5}
+        - {x: 33, y: 29}
+        - {x: 13, y: 51}
+        - {x: -8, y: 51}
+        - {x: -46, y: 34}
+    - name: ObstacleBamboo5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 55}
+        - {x: -26, y: 55}
+        - {x: -49, y: 30}
+        - {x: -49, y: -52}
+        - {x: 27, y: -52}
+        - {x: 47, y: -40}
+        - {x: 48, y: -37}
+        - {x: 48, y: 14}
+    - name: ObstacleBox1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 32}
+        - {x: -41, y: 27}
+        - {x: -46, y: 15}
+        - {x: -46, y: -35}
+        - {x: 45, y: -35}
+        - {x: 47, y: -29}
+        - {x: 47, y: 17}
+        - {x: 7, y: 32}
+    - name: ObstacleBox2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -49}
+        - {x: 26, y: -49}
+        - {x: 47, y: -40}
+        - {x: 47, y: 40}
+        - {x: -46, y: 40}
+        - {x: -46, y: -32}
+    - name: ObstacleBox3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 48}
+        - {x: -46, y: 32}
+        - {x: -46, y: -44}
+        - {x: -30, y: -49}
+        - {x: 37, y: -49}
+        - {x: 47, y: -30}
+        - {x: 47, y: 36}
+        - {x: 24, y: 48}
+    - name: ObstacleBox4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 49}
+        - {x: -46, y: 48}
+        - {x: -46, y: -39}
+        - {x: -44, y: -50}
+        - {x: 30, y: -50}
+        - {x: 48, y: -40}
+        - {x: 48, y: 46}
+        - {x: 33, y: 49}
+    - name: ObstacleBox5
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 43}
+        - {x: -22, y: 43}
+        - {x: -37, y: 41}
+        - {x: -47, y: 26}
+        - {x: -47, y: -31}
+        - {x: -40, y: -54}
+        - {x: 23, y: -54}
+        - {x: 46, y: -32}
+        - {x: 46, y: 12}
+        - {x: 44, y: 30}
+    - name: ObstacleBox6
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 53}
+        - {x: -47, y: 46}
+        - {x: -47, y: -54}
+        - {x: 48, y: -54}
+        - {x: 48, y: 43}
+        - {x: 46, y: 53}
+    - name: ObstacleBox7
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 55}
+        - {x: -47, y: 46}
+        - {x: -47, y: -50}
+        - {x: -30, y: -54}
+        - {x: 39, y: -54}
+        - {x: 48, y: -37}
+        - {x: 48, y: 51}
+        - {x: 31, y: 55}
+    - name: ObstacleBox8
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 51}
+        - {x: -60, y: 33}
+        - {x: -60, y: -19}
+        - {x: -45, y: -53}
+        - {x: 46, y: -53}
+        - {x: 53, y: -33}
+        - {x: 53, y: 40}
+        - {x: 39, y: 51}
+    - name: ObstacleBox9
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 50}
+        - {x: 12, y: 53}
+        - {x: -21, y: 53}
+        - {x: -36, y: 48}
+        - {x: -43, y: 40}
+        - {x: -62, y: 15}
+        - {x: -62, y: -4}
+        - {x: -43, y: -53}
+        - {x: 39, y: -53}
+        - {x: 46, y: -37}
+        - {x: 59, y: 2}
+        - {x: 59, y: 28}
+    - name: ObstacleCactusBlue1
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1399
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 47}
+        - {x: 1, y: 47}
+        - {x: 1, y: -53}
+        - {x: 33, y: -53}
+        - {x: 50, y: -47}
+        - {x: 53, y: -34}
+        - {x: 53, y: 36}
+        - {x: 52, y: 42}
+      - - {x: -27, y: 40}
+        - {x: -47, y: 31}
+        - {x: -47, y: -29}
+        - {x: -40, y: -49}
+        - {x: 1, y: -49}
+        - {x: 1, y: 27}
+        - {x: -3, y: 40}
+    - name: ObstacleCactusBlue2
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1270
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 50}
+        - {x: -49, y: 42}
+        - {x: -49, y: -19}
+        - {x: -42, y: -52}
+        - {x: -32, y: -57}
+        - {x: 45, y: -57}
+        - {x: 57, y: -24}
+        - {x: 57, y: 44}
+        - {x: 39, y: 50}
+      - - {x: -40, y: -31}
+        - {x: -38, y: -33}
+        - {x: -35, y: -32}
+        - {x: -35, y: -29}
+        - {x: -37, y: -27}
+        - {x: -40, y: -28}
+    - name: ObstacleCactusBlue3
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1219
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 61}
+        - {x: -57, y: 41}
+        - {x: -59, y: 36}
+        - {x: -59, y: -43}
+        - {x: -27, y: -57}
+        - {x: 45, y: -57}
+        - {x: 58, y: -35}
+        - {x: 58, y: 61}
+    - name: ObstacleCactusBlue4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1089
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 61}
+        - {x: -59, y: 61}
+        - {x: -63, y: 42}
+        - {x: -63, y: -58}
+        - {x: -62, y: -59}
+        - {x: 50, y: -59}
+        - {x: 61, y: -38}
+        - {x: 61, y: 51}
+    - name: ObstacleCactusBlue5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 64}
+        - {x: -60, y: 4}
+        - {x: -60, y: -35}
+        - {x: -37, y: -56}
+        - {x: 49, y: -56}
+        - {x: 57, y: -32}
+        - {x: 57, y: 64}
+    - name: ObstacleCactusYellow1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 959
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -47}
+        - {x: 1, y: -50}
+        - {x: 52, y: -50}
+        - {x: 52, y: 34}
+        - {x: 48, y: 48}
+        - {x: 2, y: 48}
+        - {x: 0, y: 42}
+      - - {x: -28, y: 40}
+        - {x: -45, y: 26}
+        - {x: -46, y: 24}
+        - {x: -46, y: -32}
+        - {x: -31, y: -46}
+        - {x: -3, y: -46}
+        - {x: 0, y: -38}
+        - {x: 0, y: 40}
+    - name: ObstacleCactusYellow2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 50}
+        - {x: -48, y: 35}
+        - {x: -48, y: -30}
+        - {x: -40, y: -41}
+        - {x: -22, y: -55}
+        - {x: 24, y: -55}
+        - {x: 39, y: -53}
+        - {x: 56, y: -16}
+        - {x: 56, y: 39}
+        - {x: 39, y: 50}
+      - - {x: -40, y: -28}
+        - {x: -39, y: -31}
+        - {x: -36, y: -31}
+        - {x: -34, y: -29}
+        - {x: -35, y: -26}
+        - {x: -38, y: -26}
+    - name: ObstacleCactusYellow3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 699
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 61}
+        - {x: -59, y: 42}
+        - {x: -59, y: -41}
+        - {x: -49, y: -55}
+        - {x: 56, y: -55}
+        - {x: 56, y: 61}
+    - name: ObstacleCactusYellow4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 569
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 61}
+        - {x: -61, y: 44}
+        - {x: -61, y: -47}
+        - {x: -49, y: -55}
+        - {x: 41, y: -55}
+        - {x: 58, y: -36}
+        - {x: 58, y: 55}
+        - {x: 40, y: 61}
+    - name: ObstacleCactusYellow5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 439
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 64}
+        - {x: -60, y: 3}
+        - {x: -60, y: -47}
+        - {x: -56, y: -55}
+        - {x: 36, y: -55}
+        - {x: 56, y: -49}
+        - {x: 56, y: 48}
+        - {x: 26, y: 64}
+    - name: ObstacleConch1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -8}
+        - {x: 4, y: -8}
+        - {x: -1, y: -11}
+        - {x: -1, y: -48}
+        - {x: 5, y: -50}
+        - {x: 26, y: -50}
+        - {x: 36, y: -44}
+        - {x: 45, y: -29}
+        - {x: 45, y: -15}
+      - - {x: -47, y: 18}
+        - {x: -51, y: 7}
+        - {x: -51, y: -34}
+        - {x: -32, y: -43}
+        - {x: -13, y: -43}
+        - {x: -9, y: -32}
+        - {x: -9, y: 3}
+        - {x: -27, y: 18}
+      - - {x: 25, y: 48}
+        - {x: -23, y: 48}
+        - {x: -23, y: 10}
+        - {x: -15, y: -6}
+        - {x: 37, y: -6}
+        - {x: 46, y: -4}
+        - {x: 48, y: 2}
+        - {x: 48, y: 20}
+        - {x: 38, y: 34}
+    - name: ObstacleConch2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 49}
+        - {x: -52, y: 47}
+        - {x: -52, y: -36}
+        - {x: -8, y: -48}
+        - {x: 39, y: -48}
+        - {x: 52, y: -37}
+        - {x: 52, y: 25}
+        - {x: 41, y: 49}
+    - name: ObstacleConch3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 49}
+        - {x: -52, y: 36}
+        - {x: -52, y: -30}
+        - {x: -14, y: -49}
+        - {x: 52, y: -49}
+        - {x: 52, y: 48}
+        - {x: 51, y: 49}
+    - name: ObstacleConch4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 58}
+        - {x: -55, y: 37}
+        - {x: -55, y: -37}
+        - {x: -53, y: -49}
+        - {x: 53, y: -49}
+        - {x: 57, y: -36}
+        - {x: 57, y: 37}
+        - {x: 27, y: 58}
+    - name: ObstacleConch5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 58}
+        - {x: -41, y: 54}
+        - {x: -55, y: 25}
+        - {x: -55, y: -15}
+        - {x: -50, y: -48}
+        - {x: -44, y: -49}
+        - {x: 57, y: -49}
+        - {x: 57, y: 51}
+        - {x: 54, y: 58}
+    - name: ObstacleFort
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -53}
+        - {x: 32, y: -53}
+        - {x: 48, y: -47}
+        - {x: 48, y: 17}
+        - {x: 41, y: 47}
+        - {x: 26, y: 52}
+        - {x: -30, y: 52}
+        - {x: -47, y: 27}
+    - name: ObstacleFort3
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 50}
+        - {x: -46, y: 32}
+        - {x: -47, y: 27}
+        - {x: -47, y: -53}
+        - {x: 37, y: -53}
+        - {x: 48, y: -50}
+        - {x: 48, y: 31}
+        - {x: 29, y: 50}
+    - name: ObstacleFort4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: -53}
+        - {x: 32, y: -53}
+        - {x: 48, y: -47}
+        - {x: 48, y: 17}
+        - {x: 41, y: 47}
+        - {x: 26, y: 52}
+        - {x: -30, y: 52}
+        - {x: -47, y: 27}
+    - name: ObstacleFort_Hurt
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 50}
+        - {x: -46, y: 32}
+        - {x: -47, y: 27}
+        - {x: -47, y: -53}
+        - {x: 37, y: -53}
+        - {x: 48, y: -50}
+        - {x: 48, y: 31}
+        - {x: 29, y: 50}
+    - name: ObstacleGlass1
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 51}
+        - {x: -57, y: -59}
+        - {x: 54, y: -59}
+        - {x: 54, y: 49}
+        - {x: 53, y: 51}
+    - name: ObstacleGlass2
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 52}
+        - {x: -57, y: -59}
+        - {x: 54, y: -59}
+        - {x: 54, y: 52}
+    - name: ObstacleGlass3
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 52}
+        - {x: -57, y: -59}
+        - {x: 54, y: -59}
+        - {x: 54, y: 52}
+    - name: ObstacleGlass4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 51}
+        - {x: -57, y: -59}
+        - {x: 54, y: -59}
+        - {x: 54, y: 49}
+        - {x: 53, y: 51}
+    - name: ObstacleGlass5
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 52}
+        - {x: -57, y: -59}
+        - {x: 54, y: -59}
+        - {x: 54, y: 52}
+    - name: ObstacleGrassBlue1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1659
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 3}
+        - {x: -18, y: -43}
+        - {x: 12, y: -43}
+        - {x: 48, y: -17}
+        - {x: 48, y: 30}
+        - {x: 41, y: 45}
+        - {x: -33, y: 45}
+        - {x: -50, y: 24}
+    - name: ObstacleGrassBlue2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 49}
+        - {x: -45, y: 32}
+        - {x: -45, y: 8}
+        - {x: -31, y: -1}
+        - {x: -25, y: -1}
+        - {x: -30, y: -2}
+        - {x: -42, y: 3}
+        - {x: -45, y: -1}
+        - {x: -45, y: -20}
+        - {x: -29, y: -47}
+        - {x: 21, y: -47}
+        - {x: 45, y: -34}
+        - {x: 45, y: 32}
+        - {x: 41, y: 49}
+    - name: ObstacleGrassBlue3
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 51}
+        - {x: -49, y: 28}
+        - {x: -49, y: -28}
+        - {x: -18, y: -53}
+        - {x: 24, y: -53}
+        - {x: 49, y: -47}
+        - {x: 49, y: 42}
+        - {x: 23, y: 51}
+    - name: ObstacleGrassGreen1
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1269
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 64}
+        - {x: -64, y: 58}
+        - {x: -64, y: -44}
+        - {x: -52, y: -56}
+        - {x: 52, y: -56}
+        - {x: 64, y: -44}
+        - {x: 64, y: 60}
+        - {x: 53, y: 64}
+    - name: ObstacleGrassGreen2
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1140
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 64}
+        - {x: -61, y: 64}
+        - {x: -64, y: 54}
+        - {x: -64, y: -53}
+        - {x: -50, y: -59}
+        - {x: 50, y: -59}
+        - {x: 64, y: -33}
+        - {x: 64, y: 50}
+    - name: ObstacleGrassGreen3
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1089
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 64}
+        - {x: -59, y: 62}
+        - {x: -64, y: 57}
+        - {x: -64, y: -50}
+        - {x: -63, y: -56}
+        - {x: 51, y: -56}
+        - {x: 64, y: -30}
+        - {x: 64, y: 56}
+        - {x: 53, y: 64}
+    - name: ObstacleGrassWhite1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 959
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: -53}
+        - {x: -59, y: -54}
+        - {x: 58, y: -54}
+        - {x: 64, y: -36}
+        - {x: 64, y: 48}
+        - {x: 63, y: 53}
+    - name: ObstacleGrassWhite2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 64}
+        - {x: -6, y: 64}
+        - {x: -12, y: 57}
+        - {x: -13, y: 58}
+        - {x: -9, y: 61}
+        - {x: -9, y: 64}
+        - {x: -24, y: 64}
+        - {x: -43, y: 62}
+        - {x: -64, y: 45}
+        - {x: -64, y: -54}
+        - {x: 56, y: -54}
+        - {x: 64, y: -38}
+        - {x: 64, y: 35}
+        - {x: 61, y: 51}
+    - name: ObstacleGrassWhite3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -40}
+        - {x: -59, y: -55}
+        - {x: 54, y: -55}
+        - {x: 64, y: -30}
+        - {x: 64, y: 58}
+        - {x: 60, y: 64}
+    - name: ObstacleGrassYellow1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 699
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 64}
+        - {x: -63, y: 61}
+        - {x: -64, y: 54}
+        - {x: -64, y: -40}
+        - {x: -53, y: -54}
+        - {x: -52, y: -55}
+        - {x: 52, y: -55}
+        - {x: 64, y: -53}
+        - {x: 64, y: 63}
+        - {x: 56, y: 64}
+    - name: ObstacleGrassYellow2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 699
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 64}
+        - {x: -63, y: 61}
+        - {x: -64, y: 54}
+        - {x: -64, y: -40}
+        - {x: -53, y: -54}
+        - {x: -52, y: -55}
+        - {x: 52, y: -55}
+        - {x: 64, y: -53}
+        - {x: 64, y: 63}
+        - {x: 56, y: 64}
+    - name: ObstacleGrassYellow3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 699
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 64}
+        - {x: -63, y: 61}
+        - {x: -64, y: 54}
+        - {x: -64, y: -40}
+        - {x: -53, y: -54}
+        - {x: -52, y: -55}
+        - {x: 52, y: -55}
+        - {x: 64, y: -53}
+        - {x: 64, y: 63}
+        - {x: 56, y: 64}
+    - name: ObstacleMud
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 569
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 52}
+        - {x: -44, y: 52}
+        - {x: -53, y: 41}
+        - {x: -53, y: -40}
+        - {x: -44, y: -53}
+        - {x: 41, y: -53}
+        - {x: 54, y: -44}
+        - {x: 54, y: 42}
+        - {x: 44, y: 49}
+    - name: ObstacleSaliva
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 439
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -38}
+        - {x: -25, y: -39}
+        - {x: -31, y: -48}
+        - {x: -33, y: -54}
+        - {x: 55, y: -54}
+        - {x: 55, y: -4}
+        - {x: 47, y: 52}
+        - {x: 11, y: 52}
+        - {x: -55, y: 29}
+        - {x: -55, y: -54}
+        - {x: -35, y: -54}
+        - {x: -33, y: -51}
+        - {x: -26, y: -40}
+        - {x: -25, y: -38}
+    - name: ObstacleSaliva1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 32}
+        - {x: 0, y: 10}
+        - {x: 0, y: -51}
+        - {x: 3, y: -52}
+        - {x: 57, y: -52}
+        - {x: 59, y: -40}
+        - {x: 59, y: 32}
+      - - {x: -8, y: -39}
+        - {x: -8, y: -41}
+        - {x: -6, y: -43}
+        - {x: -1, y: -41}
+        - {x: -1, y: -38}
+        - {x: -3, y: -36}
+        - {x: -5, y: -36}
+      - - {x: 47, y: -31}
+        - {x: 47, y: -37}
+        - {x: 51, y: -37}
+        - {x: 53, y: -36}
+        - {x: 53, y: -32}
+        - {x: 51, y: -31}
+      - - {x: -48, y: 15}
+        - {x: -47, y: 13}
+        - {x: 10, y: 13}
+        - {x: 28, y: 36}
+        - {x: 28, y: 53}
+        - {x: 6, y: 61}
+        - {x: -25, y: 61}
+        - {x: -44, y: 45}
+        - {x: -48, y: 24}
+    - name: ObstacleSaliva2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 62}
+        - {x: -54, y: 40}
+        - {x: -51, y: 18}
+        - {x: -48, y: 12}
+        - {x: -33, y: 21}
+        - {x: -48, y: 9}
+        - {x: -59, y: 11}
+        - {x: -60, y: 7}
+        - {x: -60, y: -24}
+        - {x: -32, y: -60}
+        - {x: 28, y: -60}
+        - {x: 60, y: -55}
+        - {x: 60, y: 43}
+        - {x: 18, y: 62}
+      - - {x: 47, y: -35}
+        - {x: 49, y: -37}
+        - {x: 52, y: -36}
+        - {x: 52, y: -33}
+        - {x: 50, y: -31}
+        - {x: 47, y: -32}
+      - - {x: -41, y: 14}
+        - {x: -40, y: 11}
+        - {x: -37, y: 11}
+        - {x: -35, y: 13}
+        - {x: -36, y: 16}
+        - {x: -39, y: 16}
+    - name: ObstacleSaliva3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 61}
+        - {x: -60, y: 34}
+        - {x: -60, y: -43}
+        - {x: -26, y: -60}
+        - {x: 29, y: -60}
+        - {x: 60, y: -47}
+        - {x: 60, y: 40}
+        - {x: 15, y: 61}
+    - name: ObstacleSaliva4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 61}
+        - {x: -59, y: 30}
+        - {x: -60, y: 27}
+        - {x: -60, y: -47}
+        - {x: -46, y: -61}
+        - {x: 44, y: -61}
+        - {x: 60, y: -44}
+        - {x: 60, y: 36}
+        - {x: 14, y: 61}
+    - name: ObstacleSaliva5
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 61}
+        - {x: -59, y: 30}
+        - {x: -60, y: 27}
+        - {x: -60, y: -47}
+        - {x: -46, y: -61}
+        - {x: 44, y: -61}
+        - {x: 60, y: -44}
+        - {x: 60, y: 36}
+        - {x: 14, y: 61}
+    - name: ObstacleSnow1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -50, y: 7}
+        - {x: -50, y: -21}
+        - {x: -44, y: -36}
+        - {x: -36, y: -41}
+        - {x: 18, y: -41}
+        - {x: 46, y: -34}
+        - {x: 46, y: 14}
+        - {x: 5, y: 32}
+    - name: ObstacleSnow2
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -3}
+        - {x: -54, y: -29}
+        - {x: -46, y: -40}
+        - {x: 40, y: -40}
+        - {x: 54, y: -36}
+        - {x: 54, y: 10}
+        - {x: 52, y: 13}
+        - {x: 18, y: 45}
+        - {x: -21, y: 45}
+        - {x: -23, y: 44}
+    - name: ObstacleSnowball1
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 40}
+        - {x: -38, y: 40}
+        - {x: -45, y: 3}
+        - {x: -45, y: -38}
+        - {x: 38, y: -38}
+        - {x: 42, y: -32}
+        - {x: 42, y: 0}
+        - {x: 37, y: 26}
+    - name: ObstacleSnowball2
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 47}
+        - {x: -43, y: 47}
+        - {x: -51, y: 43}
+        - {x: -51, y: -40}
+        - {x: -34, y: -48}
+        - {x: 46, y: -48}
+        - {x: 49, y: -26}
+        - {x: 49, y: 28}
+        - {x: 46, y: 35}
+    - name: ObstacleSnowball3
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 49}
+        - {x: -30, y: 48}
+        - {x: -50, y: 25}
+        - {x: -50, y: -25}
+        - {x: -42, y: -48}
+        - {x: 45, y: -48}
+        - {x: 49, y: -33}
+        - {x: 49, y: 35}
+        - {x: 25, y: 49}
+    - name: ObstacleStump
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1139
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 48}
+        - {x: -49, y: 42}
+        - {x: -49, y: -46}
+        - {x: -45, y: -48}
+        - {x: -24, y: -53}
+        - {x: 31, y: -53}
+        - {x: 49, y: -39}
+        - {x: 49, y: 25}
+        - {x: 8, y: 48}
+    - name: ObstacleStump2
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1010
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 49}
+        - {x: -49, y: 45}
+        - {x: -49, y: -44}
+        - {x: -20, y: -52}
+        - {x: 32, y: -52}
+        - {x: 50, y: -39}
+        - {x: 50, y: 41}
+        - {x: 34, y: 49}
+    - name: ObstacleStump3
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 959
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: -33}
+        - {x: -50, y: -53}
+        - {x: 42, y: -53}
+        - {x: 52, y: -50}
+        - {x: 52, y: 31}
+        - {x: 47, y: 51}
+        - {x: -32, y: 51}
+        - {x: -53, y: 42}
+    - name: ObstacleStump4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 52}
+        - {x: -53, y: 45}
+        - {x: -53, y: -22}
+        - {x: -47, y: -51}
+        - {x: -26, y: -53}
+        - {x: 41, y: -53}
+        - {x: 52, y: -26}
+        - {x: 52, y: 32}
+        - {x: 34, y: 52}
+    - name: ObstacleStump5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1009
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 52}
+        - {x: -53, y: -53}
+        - {x: 37, y: -53}
+        - {x: 52, y: -32}
+        - {x: 52, y: 35}
+        - {x: 44, y: 52}
+    - name: ObstacleTerrainSnow1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 699
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 50}
+        - {x: -44, y: 43}
+        - {x: -52, y: 30}
+        - {x: -52, y: -47}
+        - {x: -51, y: -50}
+        - {x: 45, y: -50}
+        - {x: 52, y: -49}
+        - {x: 52, y: 45}
+        - {x: 42, y: 50}
+    - name: ObstacleTerrainSnow2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 569
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 50}
+        - {x: -52, y: 29}
+        - {x: -52, y: -43}
+        - {x: -50, y: -48}
+        - {x: 52, y: -48}
+        - {x: 52, y: 48}
+        - {x: 44, y: 50}
+    - name: ObstacleTerrainSnow3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 439
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 50}
+        - {x: -53, y: 35}
+        - {x: -53, y: -37}
+        - {x: -42, y: -48}
+        - {x: 48, y: -48}
+        - {x: 52, y: -30}
+        - {x: 52, y: 50}
+      - - {x: -40, y: 43}
+        - {x: -37, y: 44}
+        - {x: -37, y: 47}
+        - {x: -40, y: 48}
+        - {x: -42, y: 46}
+    - name: ObstacleTooth
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 48}
+        - {x: -40, y: 31}
+        - {x: -41, y: 25}
+        - {x: -41, y: -32}
+        - {x: -21, y: -48}
+        - {x: 36, y: -48}
+        - {x: 39, y: -35}
+        - {x: 39, y: 22}
+        - {x: 11, y: 48}
+    - name: Rainbow
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 52}
+        - {x: -18, y: 52}
+        - {x: -53, y: 37}
+        - {x: -53, y: -45}
+        - {x: -39, y: -52}
+        - {x: 21, y: -52}
+        - {x: 45, y: -46}
+        - {x: 50, y: -30}
+        - {x: 50, y: 12}
+        - {x: 49, y: 25}
+    - name: ReceiverGrassGreen1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 28}
+        - {x: -60, y: -55}
+        - {x: 59, y: -55}
+        - {x: 59, y: 28}
+    - name: ReceiverGrassWhite1
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1009
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 20}
+        - {x: -60, y: 8}
+        - {x: -60, y: -40}
+        - {x: -49, y: -55}
+        - {x: 44, y: -55}
+        - {x: 59, y: -50}
+        - {x: 59, y: 20}
+    - name: ReceiverGrassYellow1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1009
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 28}
+        - {x: -60, y: 16}
+        - {x: -60, y: -42}
+        - {x: -54, y: -55}
+        - {x: 53, y: -55}
+        - {x: 58, y: -49}
+        - {x: 58, y: 28}
+    - name: Selected
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1009
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -36}
+        - {x: -40, y: -37}
+        - {x: -40, y: -55}
+        - {x: -39, y: -58}
+        - {x: -15, y: -64}
+        - {x: -6, y: -64}
+        - {x: -2, y: -63}
+        - {x: -2, y: -44}
+        - {x: -20, y: -36}
+      - - {x: 34, y: -38}
+        - {x: 21, y: -38}
+        - {x: 1, y: -45}
+        - {x: 1, y: -64}
+        - {x: 26, y: -64}
+        - {x: 38, y: -54}
+        - {x: 38, y: -46}
+        - {x: 37, y: -42}
+      - - {x: 40, y: -6}
+        - {x: 38, y: -7}
+        - {x: 34, y: -27}
+        - {x: 34, y: -41}
+        - {x: 51, y: -41}
+        - {x: 57, y: -40}
+        - {x: 60, y: -22}
+        - {x: 60, y: -6}
+      - - {x: -46, y: -6}
+        - {x: -61, y: -6}
+        - {x: -61, y: -23}
+        - {x: -56, y: -40}
+        - {x: -38, y: -40}
+        - {x: -36, y: -35}
+        - {x: -36, y: -18}
+        - {x: -41, y: -7}
+      - - {x: -52, y: 35}
+        - {x: -60, y: 31}
+        - {x: -62, y: 24}
+        - {x: -62, y: 2}
+        - {x: -61, y: -2}
+        - {x: -45, y: -2}
+        - {x: -35, y: 13}
+        - {x: -35, y: 35}
+      - - {x: 41, y: 36}
+        - {x: 35, y: 34}
+        - {x: 35, y: 18}
+        - {x: 44, y: -1}
+        - {x: 45, y: -2}
+        - {x: 61, y: -2}
+        - {x: 61, y: 18}
+        - {x: 51, y: 36}
+      - - {x: -24, y: 58}
+        - {x: -39, y: 47}
+        - {x: -39, y: 33}
+        - {x: -35, y: 32}
+        - {x: -19, y: 32}
+        - {x: -3, y: 43}
+        - {x: -3, y: 54}
+        - {x: -6, y: 58}
+      - - {x: 2, y: 59}
+        - {x: 1, y: 58}
+        - {x: 1, y: 43}
+        - {x: 2, y: 38}
+        - {x: 19, y: 32}
+        - {x: 32, y: 32}
+        - {x: 38, y: 34}
+        - {x: 38, y: 52}
+        - {x: 20, y: 59}
+    - name: SeperatorHBatten1
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1009
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -62}
+        - {x: 50, y: -62}
+        - {x: 50, y: -41}
+        - {x: 49, y: -40}
+        - {x: -49, y: -40}
+        - {x: -50, y: -45}
+    - name: SeperatorHBatten2
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1009
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -42}
+        - {x: -50, y: -57}
+        - {x: -49, y: -61}
+        - {x: 50, y: -61}
+        - {x: 50, y: -42}
+    - name: SeperatorHBatten3
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1009
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -41}
+        - {x: -51, y: -62}
+        - {x: 46, y: -62}
+        - {x: 49, y: -59}
+        - {x: 49, y: -41}
+    - name: SeperatorHBatten4
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1009
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -62}
+        - {x: 50, y: -62}
+        - {x: 50, y: -41}
+        - {x: 49, y: -40}
+        - {x: -49, y: -40}
+        - {x: -50, y: -45}
+    - name: SeperatorHBatten5
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -42}
+        - {x: -50, y: -57}
+        - {x: -49, y: -61}
+        - {x: 50, y: -61}
+        - {x: 50, y: -42}
+    - name: SeperatorHBatten6
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: -61}
+        - {x: 52, y: -61}
+        - {x: 52, y: -44}
+        - {x: 50, y: -40}
+        - {x: -51, y: -40}
+        - {x: -52, y: -44}
+    - name: SeperatorHBatten7
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 699
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -38}
+        - {x: -55, y: -38}
+        - {x: -55, y: -57}
+        - {x: -52, y: -64}
+        - {x: 49, y: -64}
+        - {x: 51, y: -63}
+        - {x: 51, y: -43}
+      - - {x: 56, y: -59}
+        - {x: 56, y: -64}
+        - {x: 62, y: -64}
+        - {x: 62, y: -59}
+    - name: SeperatorHBattenMax
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 879
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -41}
+        - {x: -49, y: -55}
+        - {x: -45, y: -59}
+        - {x: 47, y: -59}
+        - {x: 47, y: -43}
+        - {x: 46, y: -41}
+    - name: SeperatorHBeanB
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 569
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: -30}
+        - {x: -58, y: -45}
+        - {x: -47, y: -60}
+        - {x: -33, y: -63}
+        - {x: 32, y: -63}
+        - {x: 59, y: -45}
+        - {x: 59, y: -30}
+    - name: SeperatorHBeanT
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 439
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 64}
+        - {x: -58, y: 51}
+        - {x: -52, y: 33}
+        - {x: 42, y: 33}
+        - {x: 59, y: 50}
+        - {x: 59, y: 64}
+    - name: SeperatorHBranch
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -37}
+        - {x: -58, y: -37}
+        - {x: -58, y: -49}
+        - {x: -53, y: -64}
+        - {x: 33, y: -64}
+        - {x: 52, y: -62}
+        - {x: 60, y: -54}
+        - {x: 60, y: -42}
+    - name: SeperatorHIce1
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -43}
+        - {x: 26, y: -40}
+        - {x: -33, y: -40}
+        - {x: -46, y: -43}
+        - {x: -50, y: -47}
+        - {x: -50, y: -58}
+        - {x: -47, y: -62}
+        - {x: 46, y: -62}
+        - {x: 50, y: -60}
+        - {x: 50, y: -48}
+    - name: SeperatorHIce2
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -42}
+        - {x: -50, y: -57}
+        - {x: -46, y: -61}
+        - {x: 46, y: -61}
+        - {x: 50, y: -57}
+        - {x: 50, y: -42}
+    - name: SeperatorHIce3
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 879
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -43}
+        - {x: -50, y: -62}
+        - {x: 45, y: -62}
+        - {x: 47, y: -61}
+        - {x: 47, y: -43}
+    - name: SeperatorHIce4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 879
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -43}
+        - {x: 26, y: -40}
+        - {x: -33, y: -40}
+        - {x: -46, y: -43}
+        - {x: -50, y: -47}
+        - {x: -50, y: -58}
+        - {x: -47, y: -62}
+        - {x: 46, y: -62}
+        - {x: 50, y: -60}
+        - {x: 50, y: -48}
+    - name: SeperatorHIce5
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 879
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -42}
+        - {x: -50, y: -57}
+        - {x: -46, y: -61}
+        - {x: 46, y: -61}
+        - {x: 50, y: -57}
+        - {x: 50, y: -42}
+    - name: SeperatorHIce6
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 879
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: -40}
+        - {x: -53, y: -63}
+        - {x: 52, y: -63}
+        - {x: 52, y: -43}
+        - {x: 50, y: -40}
+    - name: SeperatorHIce7
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 879
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: -40}
+        - {x: -53, y: -46}
+        - {x: -53, y: -63}
+        - {x: 52, y: -63}
+        - {x: 53, y: -62}
+        - {x: 53, y: -46}
+        - {x: 51, y: -40}
+    - name: SeperatorHIceMax
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 879
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -41}
+        - {x: -55, y: -46}
+        - {x: -55, y: -60}
+        - {x: 53, y: -60}
+        - {x: 53, y: -41}
+    - name: SeperatorHIronbarMax
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 879
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -41}
+        - {x: -49, y: -55}
+        - {x: -45, y: -59}
+        - {x: 47, y: -59}
+        - {x: 47, y: -43}
+        - {x: 46, y: -41}
+    - name: SeperatorVBatten1
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 750
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 50}
+        - {x: 42, y: 45}
+        - {x: 40, y: 34}
+        - {x: 40, y: -46}
+        - {x: 41, y: -50}
+        - {x: 61, y: -50}
+        - {x: 62, y: -47}
+        - {x: 62, y: 46}
+        - {x: 60, y: 50}
+    - name: SeperatorVBatten2
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 699
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 50}
+        - {x: 42, y: -50}
+        - {x: 60, y: -50}
+        - {x: 61, y: -49}
+        - {x: 61, y: 48}
+        - {x: 56, y: 50}
+    - name: SeperatorVBatten3
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 569
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 50}
+        - {x: 41, y: -50}
+        - {x: 57, y: -50}
+        - {x: 62, y: -40}
+        - {x: 62, y: 50}
+    - name: SeperatorVBatten4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 749
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 50}
+        - {x: 42, y: 45}
+        - {x: 40, y: 34}
+        - {x: 40, y: -46}
+        - {x: 41, y: -50}
+        - {x: 61, y: -50}
+        - {x: 62, y: -47}
+        - {x: 62, y: 46}
+        - {x: 60, y: 50}
+    - name: SeperatorVBatten5
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 439
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 51}
+        - {x: 42, y: -49}
+        - {x: 60, y: -49}
+        - {x: 61, y: -48}
+        - {x: 61, y: 49}
+        - {x: 56, y: 51}
+    - name: SeperatorVBatten6
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 52}
+        - {x: 40, y: 47}
+        - {x: 40, y: -51}
+        - {x: 42, y: -52}
+        - {x: 61, y: -52}
+        - {x: 61, y: 51}
+        - {x: 58, y: 52}
+    - name: SeperatorVBatten7
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 51}
+        - {x: 38, y: -55}
+        - {x: 57, y: -55}
+        - {x: 59, y: -54}
+        - {x: 64, y: -45}
+        - {x: 64, y: 51}
+      - - {x: 61, y: 62}
+        - {x: 59, y: 60}
+        - {x: 59, y: 58}
+        - {x: 61, y: 56}
+        - {x: 63, y: 56}
+        - {x: 64, y: 57}
+        - {x: 64, y: 61}
+        - {x: 63, y: 62}
+    - name: SeperatorVBattenMax
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 52}
+        - {x: 43, y: -48}
+        - {x: 59, y: -48}
+        - {x: 59, y: 51}
+        - {x: 56, y: 52}
+    - name: SeperatorVBranch
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 749
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 58}
+        - {x: 35, y: 53}
+        - {x: 35, y: -56}
+        - {x: 38, y: -59}
+        - {x: 57, y: -59}
+        - {x: 64, y: -44}
+        - {x: 64, y: 53}
+        - {x: 59, y: 58}
+    - name: SeperatorVIce1
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 749
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 51}
+        - {x: 40, y: 35}
+        - {x: 40, y: -47}
+        - {x: 46, y: -49}
+        - {x: 61, y: -49}
+        - {x: 62, y: -48}
+        - {x: 62, y: 50}
+        - {x: 60, y: 51}
+    - name: SeperatorVIce2
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 749
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 51}
+        - {x: 42, y: 46}
+        - {x: 42, y: -45}
+        - {x: 46, y: -49}
+        - {x: 57, y: -49}
+        - {x: 61, y: -45}
+        - {x: 61, y: 47}
+        - {x: 57, y: 51}
+    - name: SeperatorVIce3
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 749
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 47}
+        - {x: 43, y: -50}
+        - {x: 62, y: -50}
+        - {x: 62, y: 45}
+        - {x: 61, y: 47}
+    - name: SeperatorVIce4
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 749
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 50}
+        - {x: 40, y: 34}
+        - {x: 40, y: -48}
+        - {x: 46, y: -50}
+        - {x: 61, y: -50}
+        - {x: 62, y: -49}
+        - {x: 62, y: 49}
+        - {x: 60, y: 50}
+    - name: SeperatorVIce5
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 620
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 50}
+        - {x: 42, y: 45}
+        - {x: 42, y: -46}
+        - {x: 46, y: -50}
+        - {x: 57, y: -50}
+        - {x: 61, y: -46}
+        - {x: 61, y: 46}
+        - {x: 57, y: 50}
+    - name: SeperatorVIce6
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 569
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 52}
+        - {x: 40, y: 48}
+        - {x: 40, y: -53}
+        - {x: 62, y: -53}
+        - {x: 63, y: -52}
+        - {x: 63, y: 52}
+    - name: SeperatorVIce7
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 439
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 53}
+        - {x: 40, y: 51}
+        - {x: 40, y: -46}
+        - {x: 47, y: -53}
+        - {x: 63, y: -53}
+        - {x: 63, y: 52}
+        - {x: 62, y: 53}
+    - name: SeperatorVIceMax
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 619
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 53}
+        - {x: 41, y: 48}
+        - {x: 41, y: -55}
+        - {x: 60, y: -55}
+        - {x: 60, y: 51}
+        - {x: 54, y: 53}
+    - name: SeperatorVIronbarMax
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 52}
+        - {x: 43, y: -48}
+        - {x: 59, y: -48}
+        - {x: 59, y: 51}
+        - {x: 56, y: 52}
+    - name: Star
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 50}
+        - {x: -50, y: 32}
+        - {x: -50, y: -18}
+        - {x: -37, y: -45}
+        - {x: 35, y: -45}
+        - {x: 48, y: -17}
+        - {x: 48, y: 32}
+        - {x: 14, y: 50}
+    - name: StarHL
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1529
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 61}
+        - {x: -60, y: 11}
+        - {x: -60, y: -38}
+        - {x: -30, y: -62}
+        - {x: 12, y: -62}
+        - {x: 37, y: -54}
+        - {x: 61, y: -12}
+        - {x: 61, y: 35}
+        - {x: 25, y: 61}
+    - name: StarReceiver
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 58}
+        - {x: -49, y: 56}
+        - {x: -49, y: 37}
+        - {x: -37, y: 23}
+        - {x: -27, y: 15}
+        - {x: 22, y: 15}
+        - {x: 50, y: 22}
+        - {x: 50, y: 58}
+    - name: TipsXian
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1863
+        width: 5
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TreasureBox1
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 32}
+        - {x: -42, y: 8}
+        - {x: -35, y: 1}
+        - {x: -25, y: -3}
+        - {x: -37, y: -9}
+        - {x: -42, y: -18}
+        - {x: -42, y: -32}
+        - {x: -26, y: -47}
+        - {x: 42, y: -47}
+        - {x: 47, y: -36}
+        - {x: 47, y: 31}
+        - {x: 31, y: 32}
+    - name: TreasureBox2
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 619
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 56}
+        - {x: -55, y: 53}
+        - {x: -55, y: 0}
+        - {x: -46, y: -27}
+        - {x: -36, y: -53}
+        - {x: 44, y: -53}
+        - {x: 55, y: -13}
+        - {x: 55, y: 56}
+    - name: TreasureBox3
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 619
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 47}
+        - {x: -56, y: 28}
+        - {x: -56, y: -43}
+        - {x: -34, y: -53}
+        - {x: 48, y: -53}
+        - {x: 56, y: -41}
+        - {x: 56, y: 10}
+        - {x: 42, y: 47}
+    - name: TreasureBox4
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 619
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 50}
+        - {x: -56, y: 29}
+        - {x: -56, y: -27}
+        - {x: -39, y: -54}
+        - {x: 42, y: -54}
+        - {x: 56, y: -37}
+        - {x: 56, y: 39}
+        - {x: 54, y: 50}
+    - name: TreasureBox5
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 619
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 50}
+        - {x: -56, y: 37}
+        - {x: -56, y: -46}
+        - {x: -48, y: -54}
+        - {x: 48, y: -54}
+        - {x: 56, y: -41}
+        - {x: 56, y: 38}
+        - {x: 53, y: 50}
+    - name: VerticalBombBlue
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 490
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 1, y: 58}
+        - {x: -12, y: 57}
+        - {x: -49, y: 27}
+        - {x: -49, y: -39}
+        - {x: -17, y: -52}
+        - {x: 27, y: -52}
+        - {x: 52, y: -28}
+        - {x: 61, y: 14}
+        - {x: 61, y: 58}
+    - name: VerticalBombBlueHL
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 439
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 60}
+        - {x: -58, y: 43}
+        - {x: -58, y: -34}
+        - {x: -15, y: -59}
+        - {x: 16, y: -59}
+        - {x: 60, y: -32}
+        - {x: 60, y: 59}
+        - {x: 57, y: 60}
+    - name: VerticalBombGreen
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -13, y: 58}
+        - {x: -49, y: 27}
+        - {x: -49, y: -40}
+        - {x: -23, y: -52}
+        - {x: 45, y: -52}
+        - {x: 61, y: -42}
+        - {x: 61, y: 58}
+    - name: VerticalBombGreenHL
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 489
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 64}
+        - {x: -64, y: 47}
+        - {x: -64, y: -53}
+        - {x: -41, y: -64}
+        - {x: 50, y: -64}
+        - {x: 63, y: -43}
+        - {x: 63, y: 63}
+        - {x: 60, y: 64}
+    - name: VerticalBombPurple
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 179
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: -13, y: 58}
+        - {x: -49, y: 27}
+        - {x: -49, y: -40}
+        - {x: -23, y: -52}
+        - {x: 45, y: -52}
+        - {x: 61, y: -42}
+        - {x: 61, y: 58}
+    - name: VerticalBombPurpleHL
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 49
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 64}
+        - {x: -64, y: 62}
+        - {x: -64, y: -53}
+        - {x: -39, y: -64}
+        - {x: 21, y: -64}
+        - {x: 55, y: -53}
+        - {x: 61, y: -40}
+        - {x: 61, y: 47}
+        - {x: 59, y: 64}
+    - name: VerticalBombRed
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 489
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 1, y: 58}
+        - {x: -12, y: 57}
+        - {x: -49, y: 27}
+        - {x: -49, y: -39}
+        - {x: -17, y: -52}
+        - {x: 27, y: -52}
+        - {x: 52, y: -28}
+        - {x: 61, y: 14}
+        - {x: 61, y: 58}
+    - name: VerticalBombRedHL
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 489
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 64}
+        - {x: -64, y: 47}
+        - {x: -64, y: -53}
+        - {x: -41, y: -64}
+        - {x: 50, y: -64}
+        - {x: 63, y: -43}
+        - {x: 63, y: 63}
+        - {x: 60, y: 64}
+    - name: VerticalBombYellow
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 489
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -59}
+        - {x: -56, y: -58}
+        - {x: -56, y: -55}
+        - {x: -59, y: -54}
+        - {x: -61, y: -56}
+      - - {x: 4, y: 58}
+        - {x: -50, y: 43}
+        - {x: -50, y: -35}
+        - {x: -22, y: -52}
+        - {x: 21, y: -52}
+        - {x: 45, y: -45}
+        - {x: 60, y: 8}
+        - {x: 60, y: 58}
+    - name: VerticalBombYellowHL
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 360
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 61}
+        - {x: -59, y: 41}
+        - {x: -59, y: -44}
+        - {x: -26, y: -60}
+        - {x: 46, y: -60}
+        - {x: 60, y: -45}
+        - {x: 60, y: 61}
+    - name: light
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1609
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -19, y: 17}
+        - {x: -19, y: -8}
+        - {x: -7, y: -8}
+        - {x: 19, y: 6}
+        - {x: 19, y: 21}
+    - name: suipianI1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 19}
+        - {x: -25.5, y: 2}
+        - {x: -17.5, y: -14}
+        - {x: -3.5, y: -17}
+        - {x: 5.5, y: -19}
+        - {x: 25.5, y: -19}
+        - {x: 25.5, y: 17}
+        - {x: 18.5, y: 19}
+    - name: suipianI2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1554
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 17}
+        - {x: -20, y: 3}
+        - {x: -20, y: -17}
+        - {x: 20, y: -17}
+        - {x: 20, y: 17}
+    - name: suipianI3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1865
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 'suipianJ1 '
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1590
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suipianJ2
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1633
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suipianJ3
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1852
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suipianR1
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1651
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suipianR2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1868
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24.5}
+        - {x: -22, y: 7.5}
+        - {x: -13, y: -24.5}
+        - {x: 17, y: -24.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 20.5}
+        - {x: 5, y: 24.5}
+    - name: suipianR3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -13, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -20}
+        - {x: -2, y: -20}
+        - {x: 15, y: -9}
+        - {x: 16, y: -6}
+        - {x: 16, y: 20}
+    - name: suipianR4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1868
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 24.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -6.5}
+        - {x: -1.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 20.5, y: -10.5}
+        - {x: 0.5, y: 24.5}
+    - name: suipianR5
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 309
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -60}
+        - {x: 13, y: -60}
+        - {x: 62, y: -20}
+        - {x: 62, y: 13}
+        - {x: 9, y: 62}
+        - {x: -14, y: 62}
+        - {x: -46, y: 25}
+        - {x: -46, y: -31}
+    - name: suipianR6
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1757
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -24}
+        - {x: -29, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+    - name: suixieA1
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1784
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 21.5}
+        - {x: -15.5, y: 8.5}
+        - {x: -16.5, y: 2.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -9.5, y: -21.5}
+        - {x: 9.5, y: -21.5}
+        - {x: 16.5, y: -2.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 13.5, y: 21.5}
+    - name: suixieA2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1808
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieA3
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1602
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieB1
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1739
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 21.5}
+        - {x: -16.5, y: 2.5}
+        - {x: -16.5, y: -15.5}
+        - {x: -8.5, y: -21.5}
+        - {x: 8.5, y: -21.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 16.5, y: 20.5}
+        - {x: 14.5, y: 21.5}
+    - name: suixieB2
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1680
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieB3
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1601
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieC1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1610
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 21.5}
+        - {x: -8.5, y: 20.5}
+        - {x: -16.5, y: 0.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -15.5, y: -16.5}
+        - {x: -6.5, y: -21.5}
+        - {x: 6.5, y: -21.5}
+        - {x: 16.5, y: -6.5}
+        - {x: 16.5, y: 20.5}
+        - {x: 15.5, y: 21.5}
+    - name: suixieC2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1785
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieC3
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1597
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieD1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieD2
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1576
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieD3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1612
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 19.5}
+        - {x: -1, y: 20.5}
+        - {x: -16, y: 20.5}
+        - {x: -16, y: -15.5}
+        - {x: -11, y: -20.5}
+        - {x: 16, y: -20.5}
+        - {x: 16, y: -1.5}
+        - {x: 10, y: 8.5}
+    - name: suixieE1
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1554
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieE2
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 2019
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieE3
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1829
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieF1
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1746
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieF2
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1632
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieF3
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1628
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieG1
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1703
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieG2
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1574
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieG3
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1762
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieK1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1517
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 17.5}
+        - {x: -6.5, y: 17.5}
+        - {x: -16.5, y: -2.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 16.5, y: 15.5}
+    - name: suixieK2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1831
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieL1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -22, y: 12}
+        - {x: -22, y: -17}
+        - {x: -20, y: -20}
+        - {x: 8, y: -20}
+        - {x: 22, y: -11}
+        - {x: 22, y: 14}
+        - {x: 11, y: 20}
+    - name: suixieL2
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1577
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieL3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1609
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -19, y: 12}
+        - {x: -19, y: -15}
+        - {x: -16, y: -22}
+        - {x: 11, y: -22}
+        - {x: 19, y: -14}
+        - {x: 19, y: 20}
+        - {x: 14, y: 22}
+    - name: suixieM1
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1592
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieM2
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1916
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieM3
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1540
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieM4
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1896
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieN
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1734
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 32}
+        - {x: -32, y: 9}
+        - {x: -32, y: -20}
+        - {x: -22, y: -25}
+        - {x: 13, y: -25}
+        - {x: 20, y: -8}
+        - {x: 20, y: 19}
+        - {x: 11, y: 32}
+    - name: suixieO
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1668
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 30}
+        - {x: -31, y: 18}
+        - {x: -31, y: -3}
+        - {x: -27, y: -19}
+        - {x: -11, y: -19}
+        - {x: -7, y: 7}
+        - {x: -7, y: 28}
+        - {x: -12, y: 30}
+    - name: suixieP1
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1742
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieP2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1868
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieQ1
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1741
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: suixieQ2
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1979
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

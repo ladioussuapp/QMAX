@@ -1,0 +1,38 @@
+<root>
+    <!-- 
+    uid:編號
+    guideName:引導名稱
+    guideId:教學ID
+    nodeName:節點目標
+    issave:是否保存
+    dialogId:對話索引
+    userData:道具觸發關卡
+    -->
+    <item uid="21" guideName="guideStep2" guideId="1" nodeName="Chapter2Model2Lvl2" issave="0" dialogId="0" userData="0" /> 
+    <item uid="22" guideName="guideStep2" guideId="1" nodeName="UIUnitSelectEnterBtn" issave="1" dialogId="0" userData="0" /> 
+    <item uid="31" guideName="guideStep3" guideId="2" nodeName="AwardPageSelectBtn" issave="0" dialogId="23" userData="0" /> 
+    <item uid="32" guideName="guideStep3" guideId="2" nodeName="AwardPageOkBtn" issave="0" dialogId="0" userData="0" /> 
+    <item uid="33" guideName="guideStep3" guideId="2" nodeName="AwardPageBackBtn" issave="1" dialogId="0" userData="0" /> 
+    <item uid="41" guideName="guideStep4" guideId="3" nodeName="MapViewUnitIcon" issave="0" dialogId="18" userData="0" /> 
+    <item uid="42" guideName="guideStep4" guideId="3" nodeName="UnitUpgradeIcon" issave="0" dialogId="0" userData="0" /> 
+    <item uid="43" guideName="guideStep4" guideId="3" nodeName="UpgradeIconImage" issave="0" dialogId="0" userData="0" /> 
+    <item uid="44" guideName="guideStep4" guideId="3" nodeName="UpgradeIconImageSay" issave="0" dialogId="19" userData="0" /> 
+    <item uid="45" guideName="guideStep4" guideId="3" nodeName="UnitUpgradeBtn" issave="0" dialogId="0" userData="0" /> 
+    <item uid="46" guideName="guideStep4" guideId="3" nodeName="SaySomething" issave="0" dialogId="20" userData="0" /> 
+    <item uid="47" guideName="guideStep4" guideId="3" nodeName="UpgradeButtonTip" issave="0" dialogId="0" userData="0" /> 
+    <item uid="48" guideName="guideStep4" guideId="3" nodeName="SaySomething" issave="0" dialogId="41" userData="0" /> 
+    <item uid="49" guideName="guideStep4" guideId="3" nodeName="UnitCloseUpgradeBtn" issave="0" dialogId="0" userData="0" /> 
+    <item uid="50" guideName="guideStep4" guideId="3" nodeName="UnitBackToMapView" issave="1" dialogId="0" userData="0" /> 
+    <item uid="60" guideName="guideStep5" guideId="4" nodeName="TreeActive" issave="0" dialogId="0" userData="0" /> 
+    <item uid="61" guideName="guideStep5" guideId="4" nodeName="TreeActiveSay" issave="1" dialogId="33" userData="0" /> 
+    <item uid="70" guideName="guideStep6" guideId="5" nodeName="UIUnitSelectOther" issave="1" dialogId="40" userData="0" /> 
+    <item uid="101" guideName="guideTrigger1" guideId="-1" nodeName="IntroSwordProp" issave="0" dialogId="28,39" userData="7,20" /> 
+    <item uid="102" guideName="guideTrigger1" guideId="-1" nodeName="ClickSwordProp" issave="0" dialogId="0" userData="0" /> 
+    <item uid="103" guideName="guideTrigger1" guideId="-1" nodeName="UseSwordProp" issave="0" dialogId="0" userData="0" /> 
+    <item uid="104" guideName="guideTrigger1" guideId="-1" nodeName="EndSwordProp" issave="1" dialogId="29,0" userData="0" /> 
+    <item uid="110" guideName="guideTrigger2" guideId="-1" nodeName="IntroWandProp" issave="0" dialogId="35,38" userData="13,18" /> 
+    <item uid="111" guideName="guideTrigger2" guideId="-1" nodeName="ClickWandProp" issave="0" dialogId="0" userData="0" /> 
+    <item uid="112" guideName="guideTrigger2" guideId="-1" nodeName="UseWandProp" issave="0" dialogId="0" userData="0" /> 
+    <item uid="113" guideName="guideTrigger2" guideId="-1" nodeName="EndWandProp" issave="1" dialogId="36,0" userData="0" /> 
+
+</root>

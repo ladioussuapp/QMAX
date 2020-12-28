@@ -1,0 +1,83 @@
+<root>
+    <!-- 
+    uid:对话编号
+    Id:顺序编号
+    startArg0:触发参数0
+    startArg1:触发参数1
+    startArg2:触发参数2
+    location:对白位置
+    unitID1:对话角色1
+    unitID2:对话角色2
+    action:講時特殊操作
+    voice:撥放語音檔案素材
+    languageID:語言包編號
+    time:對白持續秒數
+    coordinate:對話框位置點
+    image:通关贴图
+    -->
+    <item uid="1" Id="1" startArg0="1" startArg1="15" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2401" time="0" coordinate="0" image="0" /> 
+    <item uid="2" Id="1" startArg0="1" startArg1="15" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2402" time="0" coordinate="0" image="0" /> 
+    <item uid="3" Id="1" startArg0="1" startArg1="15" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2403" time="0" coordinate="0" image="0" /> 
+    <item uid="3" Id="2" startArg0="1" startArg1="15" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2404" time="0" coordinate="0" image="0" /> 
+    <item uid="4" Id="1" startArg0="1" startArg1="14" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2405" time="0" coordinate="0" image="0" /> 
+    <item uid="5" Id="1" startArg0="3" startArg1="10" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2406" time="0" coordinate="0" image="0" /> 
+    <item uid="5" Id="2" startArg0="3" startArg1="10" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2407" time="0" coordinate="0" image="0" /> 
+    <item uid="6" Id="1" startArg0="4" startArg1="12" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2408" time="0" coordinate="0" image="0" /> 
+    <item uid="6" Id="2" startArg0="4" startArg1="12" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2409" time="0" coordinate="0" image="0" /> 
+    <item uid="7" Id="1" startArg0="5" startArg1="0" startArg2="1" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2410" time="0" coordinate="0" image="0" /> 
+    <item uid="8" Id="1" startArg0="6" startArg1="0" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2411" time="0" coordinate="0" image="0" /> 
+    <item uid="8" Id="2" startArg0="6" startArg1="0" startArg2="0" location="1" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2412" time="0" coordinate="0" image="0" /> 
+    <item uid="8" Id="3" startArg0="6" startArg1="0" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2413" time="0" coordinate="0" image="0" /> 
+    <item uid="8" Id="4" startArg0="6" startArg1="0" startArg2="0" location="1" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2414" time="0" coordinate="0" image="0" /> 
+    <item uid="9" Id="1" startArg0="6" startArg1="18" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2415" time="0" coordinate="0" image="0" /> 
+    <item uid="9" Id="2" startArg0="6" startArg1="18" startArg2="0" location="1" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2416" time="0" coordinate="0" image="0" /> 
+    <item uid="9" Id="3" startArg0="6" startArg1="18" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2417" time="0" coordinate="0" image="0" /> 
+    <item uid="10" Id="1" startArg0="6" startArg1="17" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2418" time="0" coordinate="0" image="0" /> 
+    <item uid="10" Id="2" startArg0="6" startArg1="17" startArg2="0" location="1" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2419" time="0" coordinate="0" image="0" /> 
+    <item uid="10" Id="3" startArg0="6" startArg1="17" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2420" time="0" coordinate="0" image="0" /> 
+    <item uid="10" Id="4" startArg0="6" startArg1="17" startArg2="0" location="1" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2421" time="0" coordinate="0" image="0" /> 
+    <item uid="11" Id="1" startArg0="7" startArg1="0" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2422" time="0" coordinate="0" image="0" /> 
+    <item uid="12" Id="1" startArg0="7" startArg1="0" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2423" time="0" coordinate="0" image="0" /> 
+    <item uid="13" Id="1" startArg0="7" startArg1="0" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2424" time="0" coordinate="0" image="0" /> 
+    <item uid="14" Id="1" startArg0="7" startArg1="0" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2425" time="0" coordinate="0" image="0" /> 
+    <item uid="14" Id="2" startArg0="7" startArg1="0" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2426" time="0" coordinate="0" image="0" /> 
+    <item uid="15" Id="1" startArg0="1" startArg1="30" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2427" time="0" coordinate="0" image="0" /> 
+    <item uid="16" Id="1" startArg0="1" startArg1="29" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2428" time="0" coordinate="0" image="0" /> 
+    <item uid="17" Id="1" startArg0="1" startArg1="28" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2429" time="0" coordinate="0" image="0" /> 
+    <item uid="18" Id="1" startArg0="3" startArg1="0" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2430" time="0" coordinate="0" image="0" /> 
+    <item uid="18" Id="2" startArg0="3" startArg1="0" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2431" time="0" coordinate="0" image="0" /> 
+    <item uid="19" Id="1" startArg0="3" startArg1="0" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2432" time="0" coordinate="0" image="0" /> 
+    <item uid="20" Id="1" startArg0="3" startArg1="0" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2435" time="0" coordinate="0" image="0" /> 
+    <item uid="41" Id="1" startArg0="3" startArg1="0" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2436" time="0" coordinate="0" image="0" /> 
+    <item uid="21" Id="1" startArg0="2" startArg1="27" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2437" time="0" coordinate="0" image="0" /> 
+    <item uid="22" Id="1" startArg0="2" startArg1="26" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2439" time="0" coordinate="0" image="0" /> 
+    <item uid="23" Id="1" startArg0="2" startArg1="0" startArg2="1" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2440" time="0" coordinate="0" image="0" /> 
+    <item uid="24" Id="1" startArg0="3" startArg1="25" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2441" time="0" coordinate="0" image="0" /> 
+    <item uid="24" Id="2" startArg0="3" startArg1="25" startArg2="0" location="2" unitID1="3101" unitID2="5101" action="0" voice="0" languageID="2442" time="0" coordinate="0" image="0" /> 
+    <item uid="25" Id="1" startArg0="4" startArg1="25" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2443" time="0" coordinate="0" image="0" /> 
+    <item uid="25" Id="2" startArg0="4" startArg1="25" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2444" time="0" coordinate="0" image="0" /> 
+    <item uid="26" Id="1" startArg0="5" startArg1="20" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2445" time="0" coordinate="0" image="0" /> 
+    <item uid="26" Id="2" startArg0="5" startArg1="20" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2446" time="0" coordinate="0" image="0" /> 
+    <item uid="27" Id="1" startArg0="6" startArg1="20" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2447" time="0" coordinate="0" image="0" /> 
+    <item uid="28" Id="1" startArg0="7" startArg1="23" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2448" time="0" coordinate="0" image="0" /> 
+    <item uid="29" Id="1" startArg0="7" startArg1="22" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2449" time="0" coordinate="0" image="0" /> 
+    <item uid="30" Id="1" startArg0="8" startArg1="60" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2550" time="0" coordinate="0" image="0" /> 
+    <item uid="30" Id="2" startArg0="8" startArg1="60" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2551" time="0" coordinate="0" image="0" /> 
+    <item uid="31" Id="1" startArg0="9" startArg1="12" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2552" time="0" coordinate="0" image="0" /> 
+    <item uid="31" Id="2" startArg0="9" startArg1="12" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2553" time="0" coordinate="0" image="0" /> 
+    <item uid="32" Id="1" startArg0="9" startArg1="11" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2554" time="0" coordinate="0" image="0" /> 
+    <item uid="33" Id="1" startArg0="9" startArg1="0" startArg2="1" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2555" time="0" coordinate="0" image="0" /> 
+    <item uid="33" Id="2" startArg0="9" startArg1="0" startArg2="1" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2556" time="0" coordinate="0" image="0" /> 
+    <item uid="34" Id="1" startArg0="11" startArg1="30" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2557" time="0" coordinate="0" image="0" /> 
+    <item uid="34" Id="2" startArg0="11" startArg1="30" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2558" time="0" coordinate="0" image="0" /> 
+    <item uid="35" Id="1" startArg0="12" startArg1="22" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2559" time="0" coordinate="0" image="0" /> 
+    <item uid="35" Id="2" startArg0="12" startArg1="22" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2560" time="0" coordinate="0" image="0" /> 
+    <item uid="36" Id="1" startArg0="12" startArg1="22" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2561" time="0" coordinate="0" image="0" /> 
+    <item uid="37" Id="1" startArg0="16" startArg1="20" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2562" time="0" coordinate="0" image="0" /> 
+    <item uid="37" Id="2" startArg0="16" startArg1="20" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2563" time="0" coordinate="0" image="0" /> 
+    <item uid="37" Id="3" startArg0="16" startArg1="20" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2564" time="0" coordinate="0" image="0" /> 
+    <item uid="38" Id="1" startArg0="18" startArg1="20" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2565" time="0" coordinate="0" image="0" /> 
+    <item uid="39" Id="1" startArg0="20" startArg1="25" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2566" time="0" coordinate="0" image="0" /> 
+    <item uid="40" Id="1" startArg0="0" startArg1="0" startArg2="0" location="1" unitID1="3101" unitID2="0" action="0" voice="0" languageID="2567" time="0" coordinate="0" image="0" /> 
+
+</root>
